@@ -1,0 +1,981 @@
+Name,Brand*,Lat*,Lng*,Address1,Address2,City,State,Zip code,Country,Phone,Store hours,Time zone,Dma Code,Status*
+Casa B,Spanish,42.3796333372593,-71.0943733155727,253 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6177642180,"",EST,"",Active
+Guru The Caterer,Indian,42.40574,-71.13081,1295 Broadway,Teele Square,Somerville,MA,02144,US,6177180078,"",EST,"",Active
+Bergamot,American (New),42.378104828163,-71.106322143569,118 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6175767700,"",EST,"",Active
+Sweet Ginger Thai Cuisine,Thai,42.3808403,-71.0973511,22 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6176255015,"",EST,"",Active
+Bull McCabe's,Pubs,42.3810112,-71.0993869,366A Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6174406045,"",EST,"",Active
+The Shawarma Place,Fast Food,42.3936043,-71.1205521,201 Elm St,Davis Square,Somerville,MA,02144,US,6176669000,"",EST,"",Active
+Journeyman,American (New),42.380094788494,-71.094471429088,9 Sanborn Ct,"Somerville, MA 02143",Somerville,MA,02143,US,6177182333,"",EST,"",Active
+Parlor Sports,Sports Bars,42.374561,-71.101448,1 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6175760231,"",EST,"",Active
+Lotus Xpress,Asian Fusion,42.3889093,-71.0859656239252,167 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176295909,"",EST,"",Active
+Trina's Starlite Lounge,Lounges,42.374619071059,-71.101530844105,3 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6175760006,"",EST,"",Active
+Falafel Place,Falafel,42.3948936,-71.0977325,Winter Hill,1 Main St,Somerville,MA,02145,US,6177642336,"",EST,"",Active
+Petiscos,Brazilian,42.3965735,-71.1037009,513 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6177762049,"",EST,"",Active
+J and J Restaurant & Takeout,Portuguese,42.3803406,-71.0901566,157 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176253978,"",EST,"",Active
+Istanbul'lu,Turkish,42.402682363998,-71.126685316117,237 Holland St,Teele Square,Somerville,MA,02144,US,6174407387,"",EST,"",Active
+Noor Mediterranean Grill,Mediterranean,42.4005508,-71.1175461,136 College Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6176256667,"",EST,"",Active
+Posto,Italian,42.393284,-71.120354,187 Elm St,Davis Square,Somerville,MA,02144,US,6176250600,"",EST,"",Active
+True Grounds,Coffee & Tea,42.4001263,-71.1123759,717 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6175919559,"",EST,"",Active
+Pastelaria Broadway,Sandwiches,42.3889999,-71.08741,192 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6177764303,"",EST,"",Active
+Flatbread Company,Pizza,42.3957481384277,-71.1238250732422,45 Day St,Davis Square,Somerville,MA,02144,US,6177760552,"",EST,"",Active
+The Kebab Factory,Indian,42.3780965,-71.1065573,414 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6173544996,"",EST,"",Active
+Spoke,American (New),42.3988663296308,-71.1242484911069,89 Holland St,Davis Square,Somerville,MA,02144,US,6177189463,"",EST,"",Active
+Vinny's Ristorante,Italian,42.3868256,-71.0815793,76 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176281921,"",EST,"",Active
+Pescatore,Italian,42.39943,-71.1114599,158 Boston Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6176230003,"",EST,"",Active
+Sacco's Bowl Haven,Bowling,42.3957443237305,-71.1238174438477,45 Day St,Davis Square,Somerville,MA,02144,US,6177760552,"",EST,"",Active
+True Bistro,Vegan,42.4034030735493,-71.1274013668299,1153 Broadway,Teele Square,Somerville,MA,02144,US,6176279000,"",EST,"",Active
+Pepe Bocca,Specialty Food,42.3959694,-71.12146,414 Highland Ave,Davis Square,Somerville,MA,02144,US,6177766687,"",EST,"",Active
+Fuji at Assembly,Sushi Bars,42.3941536,-71.0803986,320 Canal St,"Somerville, MA 02145",Somerville,MA,02145,US,6176288883,"",EST,"",Active
+Rosebud American Kitchen and Bar,Barbeque,42.394443,-71.120803,381 Summer St,Davis Square,Somerville,MA,02144,US,6176299500,"",EST,"",Active
+Ebi Sushi Bar,Sushi Bars,42.379111836404,-71.094541274879,290 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177645556,"",EST,"",Active
+Lemon Thai Cuisine,Thai,42.390251,-71.107674,215 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6175911772,"",EST,"",Active
+Machu Picchu,Peruvian,42.3804708,-71.0973845,307 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176287070,"",EST,"",Active
+Olde Magoun's Saloon,Irish,42.3966331481934,-71.1041030883789,518 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6177762600,"",EST,"",Active
+Daddy Jones,Bars,42.3969234,-71.1037934,525 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6176909095,"",EST,"",Active
+The Kirkland Tap & Trotter,American (New),42.378255,-71.106949,425 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,8572596585,"",EST,"",Active
+Boston Burger Company,Burgers,42.3962181061506,-71.1221663653851,37 Davis Sq,Davis Square,Somerville,MA,02144,US,6174407361,"",EST,"",Active
+Tu Y Yo,Mexican,42.4008495,-71.117687,858 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176235411,"",EST,"",Active
+Diesel Cafe,Coffee & Tea,42.3957187378513,-71.1218841161788,257 Elm St,Davis Square,Somerville,MA,02144,US,6176298717,"",EST,"",Active
+Cantina La Mexicana,Mexican,42.379743801355,-71.094113465264,247 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6177765232,"",EST,"",Active
+Dosa n Curry,Indian,42.382328,-71.1025925,447 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177643152,"",EST,"",Active
+RF O'Sullivans & Son,Burgers,42.3830223083496,-71.1124496459961,282 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6174919638,"",EST,"",Active
+Kung Fu Tea,Coffee & Tea,42.3950044065714,-71.1215595155954,237 Elm St,Davis Square,Somerville,MA,02144,US,6176165428,"",EST,"",Active
+Taco Party,Mexican,42.4001764,-71.1122954,711 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6177640683,"",EST,"",Active
+Fortissimo Coffeehouse,Coffee & Tea,42.3810561,-71.0991282,365 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177761880,"",EST,"",Active
+Teriyaki House,Japanese,42.4007072,-71.1178131,868 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6177643151,"",EST,"",Active
+Buk Kyung,Korean,42.3794746,-71.0955353,9 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6176237220,"",EST,"",Active
+Aeronaut Brewing Company,Breweries,42.3819081641583,-71.1061354726553,14 Tyler St,"Somerville, MA 02143",Somerville,MA,02143,US,6179874236,"",EST,"",Active
+La Brasa,American (New),42.3878477,-71.0842697,124 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6177641412,"",EST,"",Active
+Sound Bites,Breakfast & Brunch,42.3997650146484,-71.112434387207,704 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176238338,"",EST,"",Active
+Masala,Indian,42.4031482,-71.1265681,1127 Broadway,Teele Square,Somerville,MA,02144,US,6177180703,"",EST,"",Active
+Anna's Taqueria,Mexican,42.394855,-71.121872,236 Elm St,Davis Square,Somerville,MA,02144,US,6176663900,"",EST,"",Active
+Bloc 11 Cafe,Coffee & Tea,42.3808289,-71.0967712,11 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6176230000,"",EST,"",Active
+La Hacienda,Pizza,42.374748,-71.088608,46 Medford St,"Somerville, MA 02143",Somerville,MA,02143,US,6178642553,"",EST,"",Active
+J.P. Licks,Ice Cream & Frozen Yogurt,42.396965906591,-71.12239648194,4A College Ave,Davis Square,Somerville,MA,02144,US,6176665079,"",EST,"",Active
+Tapatio Mexican Grill,Mexican,42.3870583623648,-71.0820525884628,82 Broadway,Ste A,Somerville,MA,02145,US,6176254119,"",EST,"",Active
+Kelly's Diner,Diners,42.399618193062,-71.111559925335,674 Broadway St,"Somerville, MA 02144",Somerville,MA,02144,US,6176238102,"",EST,"",Active
+The Painted Burro,Mexican,42.3947029,-71.1212387,219 Elm St,Davis Square,Somerville,MA,02144,US,6177760005,"",EST,"",Active
+iYo Cafe,Ice Cream & Frozen Yogurt,42.3948593,-71.121727,234 Elm St,Davis Square,Somerville,MA,02144,US,6177645295,"",EST,"",Active
+The Biscuit,Coffee & Tea,42.378211639858,-71.106017635426,406 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176662770,"",EST,"",Active
+Redbones BBQ,Barbeque,42.39521,-71.12236,55 Chester St,Davis Square,Somerville,MA,02144,US,6176282200,"",EST,"",Active
+Some 'Ting Nice Caribbean Restaurant,Caribbean,42.386669,-71.090233,561 Mcgrath Hwy,"Somerville, MA 02145",Somerville,MA,02145,US,6176279047,"",EST,"",Active
+Prospect Hill Monument,Landmarks & Historical Buildings,42.3821983,-71.0939026,Munroe St at Bigelow St,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Victor's Deli,Delis,42.3998107910156,-71.1125717163086,710 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176253076,"",EST,"",Active
+Ola Gifts Cafe,Coffee & Tea,42.3874931335449,-71.0839080810547,112 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,9783757042,"",EST,"",Active
+Sligo Pub,Pubs,42.3950398,-71.1215114,237 Elm St,Davis Square,Somerville,MA,02144,US,6176254477,"",EST,"",Active
+Johnny D's,Bars,42.3973251879215,-71.1231138557196,17 Holland St,Davis Square,Somerville,MA,02144,US,6177762004,"",EST,"",Active
+Five Horses Tavern,American (Traditional),42.3956718,-71.1208572,400 Highland Ave,Davis Square,Somerville,MA,02144,US,6177641655,"",EST,"",Active
+Barbeque International,Asian Fusion,42.3814879,-71.0978346,40 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6176239068,"",EST,"",Active
+Out of the Blue,Seafood,42.3946686,-71.1212234,215 Elm St,Davis Square,Somerville,MA,02144,US,6177765020,"",EST,"",Active
+Deli-icious,Delis,42.3971273750067,-71.121975928545,20 College Ave,Davis Square,Somerville,MA,02144,US,6176294444,"",EST,"",Active
+Pini's Pizzeria,Italian,42.3977512009668,-71.1050237626584,511 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176288668,"",EST,"",Active
+Fasika Ethiopian Restaurant,Ethiopian,42.388374,-71.084747,145 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176289300,"",EST,"",Active
+City Slicker Cafe,American (New),42.3836098,-71.1090317,588 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176250700,"",EST,"",Active
+Bronwyn,German,42.379940032959,-71.0943832397461,255 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6177769900,"",EST,"",Active
+Martsa On Elm,Himalayan/Nepalese,42.3950691,-71.1213531,233 Elm St,Ste A,Somerville,MA,02144,US,6176660660,"",EST,"",Active
+Gauchao Brazilian Cuisine,Brazilian,42.3875277826975,-71.0834527393341,102 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176256100,"",EST,"",Active
+Caesar's Pizza & Subs,Pizza,42.381874,-71.100807,401 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177769942,"",EST,"",Active
+Renee's Cafe,Breakfast & Brunch,42.401612400905,-71.126606585472,198 Holland St,"Somerville, MA 02144",Somerville,MA,02144,US,6176232727,"",EST,"",Active
+Wang's Fast Food,Chinese,42.3976957,-71.104957,509 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176232982,"",EST,"",Active
+Buddy's Diner,Diners,42.3813591,-71.0868835,113 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176239725,"",EST,"",Active
+Saloon,American (Traditional),42.3956413269043,-71.1216659545898,255 Elm St,Davis Square,Somerville,MA,02144,US,6176284444,"",EST,"",Active
+Moroccan Hospitality Restaurant,Moroccan,42.3838634,-71.108757,585 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176230020,"",EST,"",Active
+Forge Baking Company,Cafes,42.3841595596176,-71.1107558926632,626 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177645365,"",EST,"",Active
+El Potro Mexican Grill,Mexican,42.3799987034502,-71.0951900482178,61 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6176664200,"",EST,"",Active
+Sabur,Mediterranean,42.4021175,-71.1268009,212 Holland St,Teele Square,Somerville,MA,02144,US,6177767890,"",EST,"",Active
+Pho 'n Rice,Vietnamese,42.3835945,-71.1126862,289 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6178648888,"",EST,"",Active
+The Independent,Bars,42.379665,-71.094874,75 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6174406022,"",EST,"",Active
+Thai Hut,Thai,42.3773231506348,-71.1048889160156,93 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6174928377,"",EST,"",Active
+India Palace,Indian,42.3799621,-71.0967905,23 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6176669770,"",EST,"",Active
+Punjabi Grill,Indian,42.3948517,-71.1218719,236 Elm St,Davis Square,Somerville,MA,02144,US,6177181599,"",EST,"",Active
+Alfredo's Italian Kitchen,Pizza,42.3917642980814,-71.0921048372984,284 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176237746,"",EST,"",Active
+Casey's,Pubs,42.389107,-71.086319,171 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176255195,"",EST,"",Active
+Man-O-Salwa Kabob & Grill,Pakistani,42.3842457,-71.1003751,66 Summer St,"Somerville, MA 02143",Somerville,MA,02143,US,6177645965,"",EST,"",Active
+Nine Bar Espresso,Coffee & Tea,42.3972380161285,-71.1230434477329,11 Holland St.,Davis Square,Somerville,MA,02144,US,6177641915,"",EST,"",Active
+Blue Shirt Café,Sandwiches,42.396249861139,-71.121877428841,424 Highland Ave,Davis Square,Somerville,MA,02144,US,6176297641,"",EST,"",Active
+Snappy Ramen,Ramen,42.3961565405978,-71.1218345008148,420 Highland Ave,Davis Square,Somerville,MA,02144,US,6176250400,"",EST,"",Active
+PJ Ryans,Pubs,42.402784905325,-71.126818144571,239 Holland St,Teele Square,Somerville,MA,02144,US,6176258200,"",EST,"",Active
+Oliveira's Steak House,Brazilian,42.3806987667808,-71.0867786407471,120 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6177640455,"",EST,"",Active
+The Thirsty Scholar Pub,Pubs,42.376335144043,-71.1043548583984,70 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6174972294,"",EST,"",Active
+Sally O'Brien's,Irish,42.3807176202536,-71.098150536418,335 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176663589,"",EST,"",Active
+Zero New Washington Street Dog Park,Dog Parks,42.3802185,-71.0841675,0 New Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Foundry on Elm,Bars,42.3955522477627,-71.1219356954098,255 Elm St,Davis Square,Somerville,MA,02144,US,6176289999,"",EST,"",Active
+Zoe's Chinese Restaurant,Chinese,42.3835105895996,-71.1131591796875,296 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6178646265,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3955956,-71.1222229,Davis Square Plz,260 Elm St,Somerville,MA,02144,US,6176234497,"",EST,"",Active
+Mandarin Chinese Restaurant,Chinese,42.3794289,-71.0953903,7 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6177768680,"",EST,"",Active
+Yak & Yeti Cafe,Indian,42.4001389,-71.1124039,719 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6172846227,"",EST,"",Active
+Pennypacker's,Street Vendors,42.3476181,-71.1002881,Fenway,"Somerville, MA 02145",Somerville,MA,02145,US,8575238948,"",EST,"",Active
+Magnificent Muffin & Bagel Shoppe,Bakeries,42.4028991269781,-71.1266525229512,1118 Broadway,Teele Square,Somerville,MA,02144,US,6176289000,"",EST,"",Active
+The Pub,American (Traditional),42.399601,-71.1117249,682 Broadway,"Somerville, MA 02143",Somerville,MA,02143,US,6177767373,"",EST,"",Active
+Angelina's Pizzeria,Pizza,42.4024391,-71.1269836,230 Holland St,Teele Square,Somerville,MA,02144,US,6177761240,"",EST,"",Active
+Mama Gina's Pizza,Pizza,42.3795904219151,-71.0962796956301,19 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6176250116,"",EST,"",Active
+Legal on the Mystic,Seafood,42.3958891,-71.0807223,301 Great River Rd,"Somerville, MA 02145",Somerville,MA,02145,US,6173374088,"",EST,"",Active
+Mount Vernon,Steakhouses,42.386014983058,-71.0783565044403,14 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176663830,"",EST,"",Active
+Chipotle Mexican Grill,Mexican,42.395771,-71.1224289,270-276 Elm St,Davis Square,Somerville,MA,02144,US,6176231759,"",EST,"",Active
+House of Tibet Kitchen,Himalayan/Nepalese,42.4025709182024,-71.1267925053835,235 Holland St,Teele Square,Somerville,MA,02144,US,6176297567,"",EST,"",Active
+Taipei Tokyo,Japanese,42.3971796780825,-71.1229965090752,7 Holland St,Davis Square,Somerville,MA,02144,US,6176256666,"",EST,"",Active
+JP Licks,Ice Cream & Frozen Yogurt,42.394091,-71.079099,611 Assembly Row,"Somerville, MA 02145",Somerville,MA,02145,US,6177644960,"",EST,"",Active
+Eat At Jumbo's,Burgers,42.3996450675716,-71.1116909980774,688 Broadway Ball Sq,"Somerville, MA 02144",Somerville,MA,02144,US,6176660000,"",EST,"",Active
+Mr Crêpe,Creperies,42.3965857093855,-71.1228006527435,51 Davis Sq,Davis Square,Somerville,MA,02144,US,6176230661,"",EST,"",Active
+Smiles By Rosie,General Dentistry,42.3897217959166,-71.0871514678001,6 Kensington Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176232100,"",EST,"",Active
+The Burren,Irish,42.395553,-71.1218076,247 Elm St,Davis Square,Somerville,MA,02144,US,6177766896,"",EST,"",Active
+Starbucks,Coffee & Tea,42.39476,-71.081115,700 Grand Union Blvd,"Somerville, MA 02145",Somerville,MA,02145,US,6176293003,"",EST,"",Active
+Union Square,Local Flavor,42.3796043,-71.0950851,70 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Starbucks,Coffee & Tea,42.386096882962,-71.114234117294,711 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177766783,"",EST,"",Active
+On The Hill Tavern,American (Traditional),42.3974344879389,-71.1044678092003,499 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176295302,"",EST,"",Active
+PA's Lounge,Lounges,42.3809128,-71.0983734,345 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177761557,"",EST,"",Active
+Momo N Curry,Himalayan/Nepalese,42.3821182,-71.1018219,431 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177641563,"",EST,"",Active
+Rudy's Café,Mexican,42.40306,-71.1273,248 Holland St,Teele Square,Somerville,MA,02144,US,6176239201,"",EST,"",Active
+Churrasco Buffet & Grill,Brazilian,42.396358,-71.103287,505 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6175919199,"",EST,"",Active
+Ernesto's,Pizza,42.3955305019061,-71.0796357410423,641 Assembly Row,"Somerville, MA 02145",Somerville,MA,02145,US,6177644194,"",EST,"",Active
+Nunziato Field Dog Park,Pets,42.3829613,-71.0990829,Putnam & Summer St,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Precision Moving Company,Movers,42.375103,-71.094261,495 Columbia St,"Somerville, MA 02143",Somerville,MA,02143,US,6176237700,"",EST,"",Active
+East End Grille,American (New),42.387577,-71.084158,118 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176286000,"",EST,"",Active
+Achieve Fitness,Trainers,42.3778427525045,-71.0918808583359,42 Merriam St,"Somerville, MA 02143",Somerville,MA,02143,US,6176165801,"",EST,"",Active
+Brass Union,Cocktail Bars,42.3796043,-71.0950851,70 Union Square,"Somerville, MA 02143",Somerville,MA,02143,US,6176239211,"",EST,"",Active
+A4 Pizza Bar,Pizza,42.3822102,-71.1026536,445 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177644190,"",EST,"",Active
+Venus Pizza & Grill,Pizza,42.4057083,-71.1307907,1293 Broadway,Teele Square,Somerville,MA,02144,US,6177189900,"",EST,"",Active
+Mike's Restaurant,American (Traditional),42.3961535,-71.1221051,9 Davis Sq,Davis Square,Somerville,MA,02144,US,6176282379,"",EST,"",Active
+Royal Bengal Restaurant,Indian,42.389479,-71.097552,364 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6174911988,"",EST,"",Active
+Boston Mobile iPhone Repairs,Electronics Repair,42.3800678551197,-71.0967973619699,29A Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,8588489004,"",EST,"",Active
+Orleans,American (New),42.3983421325684,-71.1237106323242,65 Holland St,Davis Square,Somerville,MA,02144,US,6175912100,"",EST,"",Active
+Highland Creole Cuisine,Caribbean,42.384439855814,-71.0925675183535,2 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176258333,"",EST,"",Active
+Meju,Korean,42.3952699,-71.12157,243 Elm St,Davis Square,Somerville,MA,02144,US,6177643053,"",EST,"",Active
+Empire Tattoo Boston,Tattoo,42.3805099873654,-71.0893085422234,151 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6177643085,"",EST,"",Active
+Earls Kitchen + Bar,American (New),42.395802,-71.080043,698 Assembly Row,Unit 102,Somerville,MA,02145,US,6176661790,"",EST,"",Active
+Pepi's Pizzeria,Pizza,42.3966351896524,-71.1038991808891,516 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6176285555,"",EST,"",Active
+Huron Veterinary Hospital,Veterinarians,42.3763905465603,-71.104147285223,70 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6176619553,"",EST,"",Active
+Broadway Eatery,Pizza,42.4034578045705,-71.1273949965835,1157 Broadway,Teele Square,Somerville,MA,02144,US,6176668232,"",EST,"",Active
+Wings Over,American (Traditional),42.383453,-71.106438,519 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176669464,"",EST,"",Active
+Style Cafe,Cafes,42.3926315307617,-71.0830307006836,60 Middlesex Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176230057,"",EST,"",Active
+Taco Party,Vegetarian,42.400094,-71.1122883,711 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6177640683,"",EST,"",Active
+Yoshi's,Sushi Bars,42.400576,-71.117549,132 College Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6176239263,"",EST,"",Active
+Somerville Memorial Day Parade,Local Flavor,42.3902206420898,-71.1079788208008,Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+White Sport Pizza & Subs,Sports Bars,42.396110534668,-71.1036987304688,506 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6177760790,"",EST,"",Active
+Razors Barbershop & Shave,Barbers,42.3927553743124,-71.1137656867504,308 Highland Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6176254444,"",EST,"",Active
+Davis Square Chiropractic,Chiropractors,42.3978240787983,-71.1235181987286,49 Holland St,Davis Square,Somerville,MA,02144,US,6176258707,"",EST,"",Active
+Boston Derby Dames,Amateur Sports Teams,42.3798915593752,-71.0961390686035,"Somerville, MA 02143",,Somerville,MA,02143,US,,"",EST,"",Active
+Mamma Lisa's Pizza House,Italian,42.3924308270216,-71.0932615399361,312 Broadway St,"Somerville, MA 02145",Somerville,MA,02145,US,6176239463,"",EST,"",Active
+Tony C's Bar And Grill,American (New),42.395826357338,-71.0791112306885,699 Assembly Row,"Somerville, MA 02145",Somerville,MA,02145,US,6176668282,"",EST,"",Active
+Blessed Painting,Painters,42.3952739685774,-71.1035176366568,84 Trull St,"Somerville, MA 02145",Somerville,MA,02145,US,7814203172,"",EST,"",Active
+Taza Chocolate,Chocolatiers & Shops,42.37549,-71.09307,561 Windsor St,"Somerville, MA 02143",Somerville,MA,02143,US,6172842232,"",EST,"",Active
+When Pigs Fly,Bakeries,42.39502,-71.119286,378 Highland Ave,Davis Square,Somerville,MA,02144,US,6177760021,"",EST,"",Active
+Studio M Barbershop & Salon,Hair Salons,42.3839225769043,-71.1086578369141,583 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177764507,"",EST,"",Active
+99 Restaurant & Pub,American (Traditional),42.3940086,-71.0838776,20 Cummings Street,"Somerville, MA 02145",Somerville,MA,02145,US,6176290599,"",EST,"",Active
+Which Wich,Sandwiches,42.395235680486,-71.0794310460327,410 Artisan Way,"Somerville, MA 02145",Somerville,MA,02145,US,6177640230,"",EST,"",Active
+Skin & Body Works,Day Spas,42.3988,-71.12413,77 Holland St,Davis Square,Somerville,MA,02144,US,6176239100,"",EST,"",Active
+Massage Therapy Works,Massage,42.3955522477627,-71.1219356954098,255 Elm St,Ste 302,Somerville,MA,02144,US,6176844000,"",EST,"",Active
+Bantam Cider Company,Breweries,42.3778655641642,-71.0918094209015,40 Merriam St,"Somerville, MA 02143",Somerville,MA,02143,US,6172998600,"",EST,"",Active
+Ball Square Fine Wines and Liquors,"Beer, Wine & Spirits",42.4000100791454,-71.1125989258289,716 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176239500,"",EST,"",Active
+Diva Indian Bistro,Indian,42.39534,-71.12218,246 Elm St,Davis Square,Somerville,MA,02144,US,6176294963,"",EST,"",Active
+Union Square Chiropractic,Chiropractors,42.3796043,-71.0950851,70 Union Sq,Ste 101,Somerville,MA,02143,US,6174401688,"",EST,"",Active
+Triangle Coffee,Coffee & Tea,42.3817086964846,-71.1052054166794,12A Tyler St,"Somerville, MA 02143",Somerville,MA,02143,US,7632501287,"",EST,"",Active
+Somerville Theatre,Cinema,42.3966949145633,-71.1230196123032,55 Davis Sq,Davis Square,Somerville,MA,02144,US,6176255700,"",EST,"",Active
+Arts At the Armory Cafe,Cafes,42.389801,-71.1059265,191 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177182192,"",EST,"",Active
+River Bar,Cocktail Bars,42.3956821533802,-71.0794330957702,661 Assembly Row,"Somerville, MA 02145",Somerville,MA,02145,US,6176165561,"",EST,"",Active
+Romanza Pizzeria & More,Pizza,42.3941917,-71.0876236,362 Mystic Avenue,"Somerville, MA 02145",Somerville,MA,02145,US,6176292000,"",EST,"",Active
+The Boston Shaker,Kitchen & Bath,42.3983618617058,-71.12395003438,Davis Sq,69 Holland St,Somerville,MA,02144,US,6177182999,"",EST,"",Active
+Somervelo,Bike Repair/Maintenance,42.3811798,-71.0989685,361 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176280328,"",EST,"",Active
+Alewife Automotive,Auto Repair,42.4140625,-71.1307907104492,395 Alewife Brook Pkwy,"Somerville, MA 02144",Somerville,MA,02144,US,6176239615,"",EST,"",Active
+Maria Ferry Salon,Hair Salons,42.4031563,-71.1273117,1152 Broadway,Teele Square,Somerville,MA,02144,US,6176165550,"",EST,"",Active
+Union Square Acupuncture,Acupuncture,42.3814087,-71.0972214,21 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6177187555,"",EST,"",Active
+ArtEpicure Cooking School,Cooking Schools,42.3758722096682,-71.0842332243919,1 Fitchburg St,"Somerville, MA 02143",Somerville,MA,02143,US,6179965334,"",EST,"",Active
+MF Dulock Pasture-Raised Meats,Butcher,42.3898087,-71.1066895,201A Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176661970,"",EST,"",Active
+Chow n' Joy,Chinese,42.3839607,-71.1103668,626C Somerville Ave,Ste C,Somerville,MA,02143,US,6176234378,"",EST,"",Active
+Beacon Street Pizza,Pizza,42.3788528442383,-71.1067123413086,147 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6178686100,"",EST,"",Active
+Ricky's Flower Market,Florists,42.379445,-71.093611,Union Square,238 Washington St,Somerville,MA,02143,US,6176287569,"",EST,"",Active
+Cuisine En Locale,Caterers,42.3882255554199,-71.1038665771484,156 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6172850167,"",EST,"",Active
+Burger Dive,Burgers,42.3967728624515,-71.0829557385958,Assembly Square Marketplace,702 Grand Union Blvd,Somerville,MA,02145,US,6176283300,"",EST,"",Active
+Diaper Lab,Baby Gear & Furniture,42.3934151977301,-71.1207005381584,200 Elm St,Davis Square,Somerville,MA,02144,US,6177640192,"",EST,"",Active
+Hair By Christine & Co,Hair Salons,42.3901871591806,-71.1077897250652,217 Highland Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6177766470,"",EST,"",Active
+Open Space Community Acupuncture,Acupuncture,42.3799803,-71.095037,70 Union Square,Ste 102,Somerville,MA,02143,US,6176279700,"",EST,"",Active
+Cuisine Chez Vous,Caterers,42.3840254545212,-71.1124420166016,7 Miller St,"Somerville, MA 02143",Somerville,MA,02143,US,6175763652,"",EST,"",Active
+Royal Pizza & Subs,Pizza,42.3819802701473,-71.0821511596441,23 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6177768415,"",EST,"",Active
+Los Paisanos,Mexican,42.3865623474121,-71.0807113647461,62 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176293502,"",EST,"",Active
+The Scoop N Scootery,Ice Cream & Frozen Yogurt,42.3982529973061,-71.1070007492127,"Somerville, MA 02155",,Somerville,MA,02155,US,6173948634,"",EST,"",Active
+Union Square Donuts,Donuts,42.3807548,-71.0971645,20 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6172092257,"",EST,"",Active
+Lindsay Griffin Boston Hairstylist + Co.,Hair Salons,42.400299757719,-71.1128195375204,106 Bristol Rd,"Somerville, MA 02144",Somerville,MA,02144,US,6176250001,"",EST,"",Active
+Boston TechCollective,IT Services & Computer Repair,42.4025668948889,-71.1267904937267,231 Holland St,Teele Square,Somerville,MA,02144,US,6176391230,"",EST,"",Active
+Alewife Brook Greenway,Parks,42.4114172603486,-71.1329340934753,"Alewife Brook Pkwy, Alewife Station and Mystic Valley Pkwy",East Arlington,Somerville,MA,,US,,"",EST,"",Active
+Hub Comics,Comic Books,42.381302,-71.097099,19 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6177180987,"",EST,"",Active
+Roast Beef and Pizza King,Pizza,42.388584,-71.102854,147 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176257570,"",EST,"",Active
+Palm Sugar Thai Cuisine,Thai,42.3933868408203,-71.1203384399414,195 Elm St,Davis Square,Somerville,MA,02144,US,6177181759,"",EST,"",Active
+Arco Tire & Services,Auto Repair,42.4028244,-71.1281052,18 Clarendon Ave,Teele Square,Somerville,MA,02144,US,6176239400,"",EST,"",Active
+Webster Auto Body Corporation,Body Shops,42.37552,-71.09531,69 Webster Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176668181,"",EST,"",Active
+Supreme Kitchen,American (Traditional),42.390827,-71.108803,233 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176284440,"",EST,"",Active
+Zen Dog Training,Pet Training,42.377552,-71.093048,34 Allen St,"Somerville, MA 02143",Somerville,MA,02143,US,6172335496,"",EST,"",Active
+QRST's Custom Printing,Printing Services,42.375492,-71.093079,561 Windsor St,Ste A301,Somerville,MA,02143,US,6176253335,"",EST,"",Active
+The Training Room 1,Trainers,42.3854816,-71.1131715,691A Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6172846088,"",EST,"",Active
+McKinnon's Meat Market,Meat Shops,42.3950647562742,-71.1216004192829,239 Elm St,Davis Sq,Somerville,MA,02144,US,6176660888,"",EST,"",Active
+Q's Nuts & Other Cravings,Desserts,42.3942735046148,-71.1170279234648,349 Highland Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6177643741,"",EST,"",Active
+Shiso Kitchen,Cooking Schools,42.3787301033735,-71.1043182760477,374 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6179999971,"",EST,"",Active
+Oriental Chinese,Chinese,42.3966407775879,-71.1035690307617,513 Medford St,Ste A,Somerville,MA,02145,US,6176288288,"",EST,"",Active
+Dodakin's Auto Sales,Car Dealers,42.3804092,-71.108757,191 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6173548594,"",EST,"",Active
+RiverDog,Pet Boarding/Pet Sitting,42.3805351,-71.0974503,321-325 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,8579983343,"",EST,"",Active
+The Guy With a Truck Moving Company,Movers,42.3889905604631,-71.1030346820312,"Somerville, MA 02143",,Somerville,MA,02143,US,6179019761,"",EST,"",Active
+April Hair Cutting,Hair Salons,42.3975873738527,-71.1233257502317,35 Holland St,Davis Square,Somerville,MA,02144,US,6176239492,"",EST,"",Active
+Reliable Market,Grocery,42.3802498,-71.0964528,45 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6176239620,"",EST,"",Active
+Maya Sol Mexican Grill,Mexican,42.3891106,-71.0863724,179 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6177769179,"",EST,"",Active
+Tacqueria Montecristo,Mexican,42.3881010711193,-71.0849312692881,146 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176288458,"",EST,"",Active
+Bella Wang Photography,Video/Film Production,42.3963012695312,-71.1221618652344,Davis Sq,Davis Square,Somerville,MA,02144,US,,"",EST,"",Active
+Papagayo,Mexican,42.3959788157284,-71.0809200277394,Assembly Row,331 Great River Rd,Somerville,MA,02145,US,6179966100,"",EST,"",Active
+City Nails & Spa,Nail Salons,42.388176,-71.0843506,135 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6177644166,"",EST,"",Active
+Domino's Pizza,Pizza,42.3936043,-71.1205521,201 Elm St,Davis Square,Somerville,MA,02144,US,6176292929,"",EST,"",Active
+Jerry's Liquors,"Beer, Wine & Spirits",42.380722,-71.097733,329 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176665410,"",EST,"",Active
+Salon Cu,Hair Salons,42.399715,-71.112289,698 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176284500,"",EST,"",Active
+"Casey Cook, DMD",General Dentistry,42.3978996,-71.1234436,Davis Square Dental,51 Holland St,Somerville,MA,02144,US,6176236767,"",EST,"",Active
+Beacon Street Laundromat,Dry Cleaning & Laundry,42.385654,-71.115723,358 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6172450441,"",EST,"",Active
+Dynamic Plumbing Heating & Gas Fitting,Plumbing,42.39714351228,-71.1226826089843,Davis Square,"Somerville, MA 02144",Somerville,MA,02144,US,7815358827,"",EST,"",Active
+Mac's Auto Body,Auto Repair,42.3937798,-71.1213989,53 Russell St,Davis Square,Somerville,MA,02144,US,6177761166,"",EST,"",Active
+Zumba With Jess,Dance Studios,42.38068,-71.097374,Dance Union,16 Bow St,Somerville,MA,02143,US,6179681695,"",EST,"",Active
+Lyndell's Bakery,Bakeries,42.3999499,-71.11301,720 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176251793,"",EST,"",Active
+Highland Pizza,Pizza,42.3848152160645,-71.0938568115234,22 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177760325,"",EST,"",Active
+Downtown Wines & Spirits,"Beer, Wine & Spirits",42.3947523,-71.1212664,225 Elm St,Davis Square,Somerville,MA,02144,US,6176257777,"",EST,"",Active
+Porter Square Dry Cleaners and Tailors,Dry Cleaning & Laundry,42.3894302346944,-71.1165943866901,89 Elm St,"Somerville, MA 02144",Somerville,MA,02144,US,6176281124,"",EST,"",Active
+Subway,Fast Food,42.3861694,-71.1143112,711-723 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177760091,"",EST,"",Active
+Aguacate Verde,Mexican,42.3863144,-71.1137848,13 Elm St,"Somerville, MA 02143",Somerville,MA,02143,US,6176660677,"",EST,"",Active
+Market Basket,Grocery,42.381496935771,-71.1010614888282,400 Somerville Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6176662420,"",EST,"",Active
+Savas Shoe Repair,Shoe Repair,42.3955956,-71.1222229,260 Elm St,Davis Square,Somerville,MA,02143,US,6177768580,"",EST,"",Active
+Big Blue Plumbing & Heating,Plumbing,42.3815352,-71.1043392,21 Properzi Way,"Somerville, MA 02143",Somerville,MA,02143,US,6172849444,"",EST,"",Active
+Porter Square Veterinarian,Veterinarians,42.393733,-71.120223,360 Summer St,Davis Square,Somerville,MA,02143,US,6176285588,"",EST,"",Active
+Countryside Painting Company,Painters,42.392136,-71.114265,57 Cherry st,"Somerville, MA 02144",Somerville,MA,02144,US,6176294820,"",EST,"",Active
+Comicazi,Comic Books,42.3960082232952,-71.1210726946592,407 Highland Ave,Davis Square,Somerville,MA,02144,US,6176662664,"",EST,"",Active
+Gentle Giant Moving Company,Movers,42.3742445,-71.0903868,29 Harding St,"Somerville, MA 02143",Somerville,MA,02143,US,6176613333,"",EST,"",Active
+Cristo's Pizzeria,Pizza,42.395042,-71.121437,233 Elm St,Davis Square,Somerville,MA,02144,US,6176289090,"",EST,"",Active
+Salon 22,Hair Salons,42.384101,-71.100318,62C Summer St,"Somerville, MA 02144",Somerville,MA,02144,US,6177645693,"",EST,"",Active
+Polished Nail Boutique,Nail Salons,42.391507,-71.08169,5 Middlesex Ave,Ste 203,Somerville,MA,02145,US,6176250250,"",EST,"",Active
+Burma Design Antique Restoration & Conservation,Antiques,42.3794433,-71.0986415,285 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176282666,"",EST,"",Active
+O2 Yoga Studio,Yoga,42.392075885720004,-71.112377861831,288 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176250267,"",EST,"",Active
+EZ Auto Body,Auto Detailing,42.3841421306133,-71.1103270947933,619 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176232020,"",EST,"",Active
+Union Square Farmers Market,Farmers Market,42.3796028,-71.0950818,70 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Subway,Sandwiches,42.3798294,-71.0949326,71- 72 Union Sq,"Somerville, MA 02144",Somerville,MA,02144,US,6176231144,"",EST,"",Active
+Somerville Winter Farmer's Market,Farmers Market,42.389801,-71.1059265,Center for the Arts at the Armory,191 Highland Ave,Somerville,MA,02143,US,,"",EST,"",Active
+Nellie's Wildflowers,Florists,42.3982582,-71.1241379,72 Holland St,Davis Square,Somerville,MA,02144,US,6176259453,"",EST,"",Active
+J's Spa & Nail,Nail Salons,42.3913498,-71.1100006,251 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176287809,"",EST,"",Active
+Eyebrow Threading,Hair Removal,42.3970925062895,-71.1218639463186,21 College Ave,Davis Square,Somerville,MA,02144,US,6176279300,"",EST,"",Active
+TwoMamas Photography,Session Photography,42.381919,-71.105921,29R Properzi Way,"Somerville, MA 02143",Somerville,MA,02143,US,6178342338,"",EST,"",Active
+Davis Square Pizza & Subs,Pizza,42.3943331070127,-71.1169835569497,351 Highland Ave,Davis Square,Somerville,MA,02144,US,6176252255,"",EST,"",Active
+American Fresh Brewhouse-Slumbrew,Breweries,42.3938834338757,-71.0806065425277,Assembly Row,301 Canal St,Somerville,MA,02143,US,8004281150,"",EST,"",Active
+Camera Eye Photography Workshops,Specialty Schools,42.392688,-71.103137,6 Vernon St,"3rd Fl, Studios39",Somerville,MA,02145,US,6172339768,"",EST,"",Active
+Somerville Community Path,Parks,42.38271,-71.10125,"Somerville, MA 02143",,Somerville,MA,02143,US,,"",EST,"",Active
+Fellsway Auto,Auto Repair,42.3901176452637,-71.0873641967773,693 McGrath Hwy,"Somerville, MA 02145",Somerville,MA,02145,US,6176280806,"",EST,"",Active
+EHChocolatier,Chocolatiers & Shops,42.375492,-71.093079,561 Windsor St,B206,Somerville,MA,02143,US,6172846096,"",EST,"",Active
+Beyond Vape,Vape Shops,42.395816,-71.1219688,259 Elm St,Davis Square,Somerville,MA,02144,US,6177645655,"",EST,"",Active
+Top Speed Pizza,Pizza,42.3846101760864,-71.0929349809885,8 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6174911004,"",EST,"",Active
+The Celebrated Flower,Florists,42.384392,-71.11274,11 Miller St,"Somerville, MA 02143",Somerville,MA,02143,US,6176610400,"",EST,"",Active
+Magpie,Cards & Stationery,42.3961143,-71.1216209,416 Highland Ave,Davis Square,Somerville,MA,02144,US,6176233330,"",EST,"",Active
+Soma Salon and Spa,Laser Hair Removal,42.3951416,-71.0784378,471 Artisan Way,"Somerville, MA 02145",Somerville,MA,02145,US,6176287662,"",EST,"",Active
+Hemlock Ink,Printing Services,42.382473,-71.1054611,19 Properzi Way,"Somerville, MA 02143",Somerville,MA,02143,US,6176253460,"",EST,"",Active
+Vinny's Superette,Convenience Stores,42.3868256,-71.0815793,76 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176281921,"",EST,"",Active
+Maximum Hesh,Skate Shops,42.395019,-71.119285,378A Highland Ave,Davis Square,Somerville,MA,02144,US,6176660100,"",EST,"",Active
+Dente's Barber Shop,Barbers,42.3962093889713,-71.1215360462666,417 Highland Ave,Davis Square,Somerville,MA,02144,US,6176258875,"",EST,"",Active
+Somerville Car Wash & Detail Center,Car Wash,42.3851958,-71.1132594,680 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176259027,"",EST,"",Active
+Salon Villa Francesca,Hair Salons,42.384796,-71.092911,11 Highland Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176250028,"",EST,"",Active
+Salon Mari,Day Spas,42.385456,-71.112915,689 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177840259,"",EST,"",Active
+Evie Salon Studio,Hair Salons,42.3981705,-71.1236115,57 Holland St,Davis Square,Somerville,MA,02144,US,6177644068,"",EST,"",Active
+E-motion Sports Massage,Massage Therapy,42.3872108459473,-71.0811004638672,67 Broadway St,"Somerville, MA 02145",Somerville,MA,02145,US,8776552943,"",EST,"",Active
+Red Line Real Estate,Apartments,42.3928108,-71.1199875,179 Elm St,Davis Square,Somerville,MA,02144,US,6177767000,"",EST,"",Active
+Mystic Cleaners & Tailors,Dry Cleaning & Laundry,42.3914604,-71.0919418,282 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176280166,"",EST,"",Active
+BlueFern Massage Therapy,Massage,42.3960920423269,-71.1223809421062,Great Way Wellness Center,"278 Elm St, Ste 227",Somerville,MA,02144,US,6177187278,"",EST,"",Active
+Redfin,Real Estate Agents,42.3747406,-71.088028,35 Medford St,Ste 305,Somerville,MA,02143,US,8779733346,"",EST,"",Active
+The Joshua Tree,American (New),42.3956,-71.12233,256 Elm St,Davis Square,Somerville,MA,02144,US,6176239910,"",EST,"",Active
+AMC Assembly Row 12,Cinema,42.3950907,-71.0793468,395 Artisan Way,"Somerville, MA 02145",Somerville,MA,02145,US,8882624386,"",EST,"",Active
+Compliments Food Co,Food Trucks,42.3370361526073,-71.1455416491104,201 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6178956058,"",EST,"",Active
+7ate9 Bakery,Bakeries,42.3896580934525,-71.1066095530987,199C Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,7812189361,"",EST,"",Active
+The Wine & Cheese Cask,Cheese Shops,42.3784924502204,-71.1061222488397,407 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176238656,"",EST,"",Active
+China Delight,Chinese,42.3831161856651,-71.1061307787895,524 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176236161,"",EST,"",Active
+Swartz Catering,Caterers,42.4008040130138,-71.1176937818527,854 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176281632,"",EST,"",Active
+Sunrise Cuisine,Coffee & Tea,42.393486276269,-71.0833447426558,76 Middlesex Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176232992,"",EST,"",Active
+Ace Wheelworks,Bikes,42.3912028,-71.1184177,145 Elm St,"Somerville, MA 02143",Somerville,MA,02143,US,6177762100,"",EST,"",Active
+Bow Street Flowers,Florists,42.3774337768555,-71.1057662963867,108 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6174920080,"",EST,"",Active
+Blue Cloud Gallery,Jewelry,42.4000255018473,-71.1123628914356,Ball Square,713 Broadway Ave,Somerville,MA,02144,US,6177762700,"",EST,"",Active
+Ann Marie's Barber Shop,Barbers,42.3976162075996,-71.1233492195606,37 Holland St,Davis Square,Somerville,MA,02144,US,6176239090,"",EST,"",Active
+Anthony Capalino Salon,Hair Salons,42.3909047853795,-71.0821600687866,5 Middlesex Ave,2nd Fl,Somerville,MA,02145,US,6176252887,"",EST,"",Active
+Pet City Sitters,Pet Boarding/Pet Sitting,42.3875968,-71.0994968,"Somerville, MA",,Somerville,MA,,US,6175951984,"",EST,"",Active
+Salon Aya,Hair Stylists,42.3977033793926,-71.1216399818659,34 College Ave,Davis Square,Somerville,MA,02144,US,6176258766,"",EST,"",Active
+"Emily B Chang, DDS",Dentists,42.396702,-71.103149,Smiles Over Somerville,"474 Broadway, Ste 110",Somerville,MA,02145,US,6176232223,"",EST,"",Active
+Shanafelt and Martino Electric,Electricians,42.3816946148872,-71.1009319871664,403 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,7819835398,"",EST,"",Active
+Center for Arts at the Armory,Venues & Event Spaces,42.389801,-71.1059265,191 Highland Ave,Ste 1A,Somerville,MA,02143,US,6177182191,"",EST,"",Active
+Two Little Monkeys,Baby Gear & Furniture,42.3814525455236,-71.0998228937387,77 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6172220043,"",EST,"",Active
+be. in Union Yoga,Yoga,42.381748,-71.102381,440 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176239642,"",EST,"",Active
+Davis Squared,Cards & Stationery,42.396282,-71.121307,409 Highland Ave,Davis Square,Somerville,MA,02144,US,6176666700,"",EST,"",Active
+Vining Law Office,Estate Planning Law,42.4007362872362,-71.1144845187664,761 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176660303,"",EST,"",Active
+"Lorna Lally, DMD",General Dentistry,42.3983782,-71.1209448,57 College Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6176661613,"",EST,"",Active
+Outback Steakhouse,Steakhouses,42.3949926812566,-71.0812946293837,625 Grand Union Blvd.,"Somerville, MA 02145",Somerville,MA,02145,US,6176280490,"",EST,"",Active
+Kappa Dental Group,General Dentistry,42.3781799,-71.1061766,402 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176664444,"",EST,"",Active
+Winter Hill Veterinary Clinic,Veterinarians,42.391291,-71.090208,257 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176235075,"",EST,"",Active
+Blessing Caribbean  Restaurant,Haitian,42.387823,-71.082448,89 Broadway St,"Somerville, MA 02145",Somerville,MA,02145,US,6177643950,"",EST,"",Active
+Salon Milage,Hair Stylists,42.3840268,-71.0998749,55A Summer St,"Somerville, MA 02143",Somerville,MA,02143,US,6172846228,"",EST,"",Active
+Bright Dental,Dentists,42.378353,-71.107201,435 Washington St # B,"Somerville, MA 02143",Somerville,MA,02143,US,6174912829,"",EST,"",Active
+Union Gulf,Gas & Service Stations,42.3797225952148,-71.0932464599609,231 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176239294,"",EST,"",Active
+Luvable Leashes,Dog Walkers,42.3940513136243,-71.092529296875,"Somerville, MA 02145",,Somerville,MA,02145,US,7813687034,"",EST,"",Active
+Friend's Pizzeria,Pizza,42.386921,-71.086891,38 Cross St,"Somerville, MA 02145",Somerville,MA,02145,US,6172846077,"",EST,"",Active
+Somerville Cafe & Pastelaria,Brazilian,42.3942647874355,-71.087433770299,376 Mystic Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6177644168,"",EST,"",Active
+"Dick's Auto Body, Inc.",Auto Repair,42.397881,-71.128906,95-99 Elmwood St,"Somerville, MA 02144",Somerville,MA,02144,US,6176259171,"",EST,"",Active
+TBD Foods,Caterers,42.3947836,-71.110248,189 Cedar St,"Somerville, MA 02145",Somerville,MA,02145,US,3393680173,"",EST,"",Active
+Lisa's Nails,Nail Salons,42.3885002,-71.102829,147C Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177760023,"",EST,"",Active
+Zoya Designs,Sewing & Alterations,42.4054359334979,-71.1304332136917,1267 Broadway St,Teele Square,Somerville,MA,02144,US,6174750470,"",EST,"",Active
+Pizza Palace,Pizza,42.3780785,-71.0916595,222 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176286464,"",EST,"",Active
+Aman Place,Indian,42.3797379,-71.0954437,63 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6177767617,"",EST,"",Active
+Soul Train,Trainers,42.403576746583,-71.1279887706041,1180 Broadway,Teele Square,Somerville,MA,02144,US,6177643345,"",EST,"",Active
+Molinas Mexican Grill,Mexican,42.3965,-71.10396,514 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6176165245,"",EST,"",Active
+Davis Square,Shopping Centers,42.3963461816311,-71.1225358396769,1 Davis Sq,Davis Square,Somerville,MA,02144,US,,"",EST,"",Active
+Davis Square Farmers Market,Farmers Market,42.39584,-71.12314,Day St & Herbert St,Davis Square,Somerville,MA,02143,US,7818938222,"",EST,"",Active
+Grace Salon,Hair Salons,42.3797556605527,-71.0961771011353,56 Union Sq,Ste B,Somerville,MA,02143,US,6176232430,"",EST,"",Active
+New Yummy Hut,Chinese,42.39023827188,-71.107767867733,217 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176281128,"",EST,"",Active
+AVA Somerville,Apartments,42.3951007,-71.0787285,445 Artisan Way,"Somerville, MA 02145",Somerville,MA,02145,US,6179966153,"",EST,"",Active
+Bicycle Riding School,Fitness & Instruction,42.3992309570312,-71.1204681396484,14 William St,"Somerville, MA 02144",Somerville,MA,02144,US,6176232784,"",EST,"",Active
+Back Bay Hair Designs,Hair Salons,42.3838913,-71.1093681,595 Somerville Ave.,"Somerville, MA 02143",Somerville,MA,02143,US,6176700520,"",EST,"",Active
+Neighborhood Paws,Dog Walkers,42.4023017883301,-71.1203689575195,"Somerville, MA 02144",,Somerville,MA,02144,US,6173124941,"",EST,"",Active
+Somerville Grooves,Vinyl Records,42.380000883125,-71.096783107506,26 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6176661749,"",EST,"",Active
+Bike Boom,Bikes,42.3955026887956,-71.1197191439637,389 Highland Ave,Davis Square,Somerville,MA,02144,US,6176279801,"",EST,"",Active
+Joanne & Linda - RE/MAX Leading Edge,Real Estate Agents,42.3971481,-71.123291,20 Holland St,Ste 104,Somerville,MA,02144,US,6176231140,"",EST,"",Active
+Pearle Vision,Optometrists,42.373963,-71.086284,22 Mcgrath Hwy,#4,Somerville,MA,02143,US,6176237522,"",EST,"",Active
+iGear Universe,Electronics Repair,42.4040298,-71.1289597,1206 Broadway,Teele Square,Somerville,MA,02144,US,6176250060,"",EST,"",Active
+Brooklyn Boulders Somerville,Rock Climbing,42.3816961,-71.1053881,12A Tyler St,"Somerville, MA 02143",Somerville,MA,02143,US,6176236700,"",EST,"",Active
+Valvoline Instant Oil Change,Oil Change Stations,42.37967,-71.09024,182 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176669501,"",EST,"",Active
+Museum of Bad Art,Museums,42.3962643742561,-71.1221200972795,Somerville Theatre Basement,55 Davis Sq,Somerville,MA,02143,US,7814446757,"",EST,"",Active
+ABJ Auto Repair,Auto Repair,42.38857,-71.09575,91 Marshall St,"Somerville, MA 02145",Somerville,MA,02145,US,6176256632,"",EST,"",Active
+The Training Room 2,Trainers,42.379022,-71.104313,373 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6177641015,"",EST,"",Active
+Dunkin' Donuts,Coffee & Tea,42.3883392,-71.1036245,154 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176250143,"",EST,"",Active
+Living from Center,Reflexology,42.4045611172915,-71.1295183002949,1236 Broadway,Teele Square,Somerville,MA,02144,US,6178333035,"",EST,"",Active
+T & J Nail Designs,Nail Salons,42.3894948,-71.1166504,93 Elm St,"Somerville, MA 02144",Somerville,MA,02144,US,6177769216,"",EST,"",Active
+Shobu Aikido of Boston,Martial Arts,42.377552,-71.093048,34 Allen St,"Somerville, MA 02143",Somerville,MA,02143,US,6177181918,"",EST,"",Active
+LuMar-J Hair Salon,Hair Salons,42.3956675827503,-71.1221402138472,260 Elm St,Davis Square,Somerville,MA,02144,US,6176251223,"",EST,"",Active
+Perry Park,Parks,42.379261,-71.1031799,355 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Somerville Auto Center,Auto Repair,42.377987,-71.090424,193 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176257400,"",EST,"",Active
+Hodgkins Park,Parks,42.400060847683,-71.12490462591,114 Holland St,"Somerville, MA 02144",Somerville,MA,02144,US,,"",EST,"",Active
+Amal Niccoli Salon,Hair Salons,42.400447845459,-71.1131820678711,731 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176660722,"",EST,"",Active
+Skyline Dry Cleaners,Dry Cleaning & Laundry,42.4000511,-71.112175,703 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176165471,"",EST,"",Active
+Pizzeria Bella Gulla,Pizza,42.3842782527208,-71.1002433300018,67 Summer St,"Somerville, MA 02143",Somerville,MA,02143,US,6176299200,"",EST,"",Active
+Sunshine's Furniture,Furniture Reupholstery,42.3989105,-71.1242676,93 Holland St,"Somerville, MA 02144",Somerville,MA,02144,US,6177762011,"",EST,"",Active
+Samba Bar and Grill,Nightlife,42.3838097,-71.1096861,608 Somerville Avenue,"Somerville, MA 02143",Somerville,MA,02143,US,6177189177,"",EST,"",Active
+T V Nails and Spa,Nail Salons,42.3903125524521,-71.0982732474804,391 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6177761909,"",EST,"",Active
+Bicycle Belle,Bikes,42.3859965,-71.1160603,368 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6176610969,"",EST,"",Active
+Spin Cycle Laundromat,Dry Cleaning & Laundry,42.3950647562742,-71.0975658148527,6 Main St,"Somerville, MA 02145",Somerville,MA,02145,US,6174408774,"",EST,"",Active
+Ball Square,Local Flavor,42.3999054729939,-71.1123065650463,700 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,,"",EST,"",Active
+Fleming Printing Company,Printing Services,42.389088,-71.117638,40 White St,"Somerville, MA 02144",Somerville,MA,02144,US,6176233047,"",EST,"",Active
+Pupperiffic! Care for Canine Companions,Dog Walkers,42.383453,-71.106438,519 Somerville Ave #125,"Somerville, MA 02143",Somerville,MA,02143,US,6179623275,"",EST,"",Active
+The Katherine Martin Widmer School of Painting,Art Schools,42.38345,-71.100388,40 Quincy St,"Somerville, MA 02143",Somerville,MA,02143,US,6176280508,"",EST,"",Active
+Bow Street Yoga,Yoga,42.381226,-71.097679,34 Bow St,1st Fl,Somerville,MA,02143,US,6174405947,"",EST,"",Active
+Nick's Moving Company,Movers,42.379505,-71.087181,40 Joy St,"Somerville, MA 02143",Somerville,MA,02143,US,6174917700,"",EST,"",Active
+Salon Femia,Hair Salons,42.3977438,-71.1235226,43 Holland St,Davis Square,Somerville,MA,02144,US,6176230399,"",EST,"",Active
+BBC Auto Repair,Auto Repair,42.3829384,-71.104187,483 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176290058,"",EST,"",Active
+US Post Office,Post Offices,42.3958015,-71.1228027,58 Day St Ste 100,Davis Square,Somerville,MA,02144,US,6176662255,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.3790202,-71.0943098,282 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176239703,"",EST,"",Active
+Rebecca Geekie,Massage,42.3958750136927,-71.1219844220858,7 Davis Sq,Davis Square,Somerville,MA,02140,US,6173658807,"",EST,"",Active
+Parkour Generations Americas,Trainers,42.3778771609068,-71.0948983579874,Cummings School,42 Prospect St.,Somerville,MA,02143,US,6173027542,"",EST,"",Active
+Thai Therapy by Mary,Massage Therapy,42.387718,-71.091972,17 Gilman Ter,"Somerville, MA 02145",Somerville,MA,02145,US,6175759104,"",EST,"",Active
+Outstanding Cleaning,Home Cleaning,42.3952954,-71.0986718,399 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6173680067,"",EST,"",Active
+Mudville,Art Schools,42.3867912,-71.0908966,181 Pearl St,"Somerville, MA 02145",Somerville,MA,02145,US,6176232423,"",EST,"",Active
+E. Scott Originals,Jewelry,42.3896580934525,-71.1066095530987,199b Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177762814,"",EST,"",Active
+Sans Stress Massage,Massage Therapy,42.3953144,-71.1218346,Davis Square Healing Arts,"259 Elm St, Ste 300B",Somerville,MA,02144,US,6172846024,"",EST,"",Active
+Commonwealth Crossfit,Gyms,42.3840925097466,-71.1105222254992,630 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6178719571,"",EST,"",Active
+Green Cab & Yellow Cab,Taxis,42.376316,-71.094335,600 Windsor Pl,"Somerville, MA 02143",Somerville,MA,02143,US,6176280600,"",EST,"",Active
+Alibrandi's Barber Shop,Barbers,42.401531,-71.126595,194 Holland St,"Somerville, MA 02144",Somerville,MA,02144,US,6176284282,"",EST,"",Active
+Louie's Ice Cream,Ice Cream & Frozen Yogurt,42.3893590271473,-71.0871145874262,193 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6177766800,"",EST,"",Active
+The Boston Tattoo Company,Tattoo,42.3956675827503,-71.1221402138472,260 Elm St,Ste 102,Somerville,MA,02144,US,6176258282,"",EST,"",Active
+Sweet Laundry,Dry Cleaning & Laundry,42.3787956,-71.1041546,372 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176287206,"",EST,"",Active
+Paws In the 'Ville,Dog Walkers,42.39334,-71.0897,"Somerville, MA 02145",,Somerville,MA,02145,US,4135304780,"",EST,"",Active
+The Perfect Threading Spa,Hair Removal,42.395953,-71.122209,278 Elm St,"2nd Fl, Ste 229",Somerville,MA,02144,US,6177186517,"",EST,"",Active
+Thunder Road Music Club & Rock n' Roll Bistro,Music Venues,42.3816146850586,-71.1000518798828,379 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177767623,"",EST,"",Active
+Teele Square Laundromat,Dry Cleaning & Laundry,42.4032593,-71.1268539,1141 Broadway,Teele Square,Somerville,MA,02144,US,6177762598,"",EST,"",Active
+Union Square Veterinary Clinic,Veterinarians,42.3929803,-71.1143401,314 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176282644,"",EST,"",Active
+The Goodwill Store,"Used, Vintage & Consignment",42.3946991,-71.1217499,230 Elm St,Davis Square,Somerville,MA,02144,US,6176283618,"",EST,"",Active
+Samara Yoga,Yoga,42.3955073207617,-71.1219035089016,Davis Sq,249 Elm St,Somerville,MA,02144,US,6176292299,"",EST,"",Active
+Fernanda's Beauty Salon,Hair Salons,42.3815683,-71.0999148,75 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6177778204,"",EST,"",Active
+West 7 Bistro,Italian,42.4032498,-71.1268652,1137 Broadway,Teele Square,Somerville,MA,02144,US,6177762800,"",EST,"",Active
+Dollar Tree,Discount Store,42.3749695,-71.0851364,14 McGrath Hwy,"Somerville, MA 02143",Somerville,MA,02143,US,6177760812,"",EST,"",Active
+American Bakers Cafe,Coffee & Tea,42.3973231762648,-71.1218632757664,22 College Ave,Davis Square,Somerville,MA,02144,US,6177643262,"",EST,"",Active
+On the Run,Dog Walkers,42.4023017883301,-71.1203689575195,"Somerville, MA 02144",,Somerville,MA,02144,US,6174408042,"",EST,"",Active
+P & K Delicatessen,Delis,42.382069,-71.11132,244 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6178680772,"",EST,"",Active
+Thurston Spa,Breakfast & Brunch,42.3904418945312,-71.0981979370117,393 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,,"",EST,"",Active
+Blinds To Go,Shades & Blinds,42.4010655,-71.0708822,19 Mystic View Rd,"Everett, MA 02149",Everett,MA,02149,US,6173810804,"",EST,"",Active
+Dance Union,Nightlife,42.3806686,-71.0973663,16 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6177214872,"",EST,"",Active
+968 The Shop,Hair Salons,42.4011002,-71.1213989,968 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6177189680,"",EST,"",Active
+Draft,Lounges,42.381563,-71.082169,Inside The Holiday Inn,30 Washington St,Somerville,MA,02143,US,8003152621,"",EST,"",Active
+Parisian Style,Wigs,42.3807296901941,-71.0970736294985,536 Cambridge St,"Somerville, MA 02141",Somerville,MA,02141,US,6176236393,"",EST,"",Active
+"Diane O'Brien, EA",Financial Services,42.3959390700925,-71.1219462803554,7 Davis Sq,Ste 1,Somerville,MA,02144,US,6175918383,"",EST,"",Active
+Dellaria Salon,Blow Dry/Out Services,42.395694,-71.1218967,267 Elm St,Davis Square,Somerville,MA,02144,US,6176230666,"",EST,"",Active
+JJ Productions,Dance Studios,42.3796779,-71.0956698,28 Warren Ave,Ste 2,Somerville,MA,02143,US,6175005591,"",EST,"",Active
+Shane Marrion - Benoit Real Estate,Real Estate Services,42.3969413349975,-71.1226913860443,39 Davis Square,Davis Square,Somerville,MA,02144,US,6177506378,"",EST,"",Active
+Erik Patton Photography,Event Photography,42.3758722096682,-71.0842332243919,1 Fitchburg St,"Somerville, MA 02176",Somerville,MA,02176,US,6179590767,"",EST,"",Active
+Fetch,Dog Walkers,42.4036645254213,-71.1278482707901,Teele Square,"Somerville, MA 02144",Somerville,MA,02144,US,9786967721,"",EST,"",Active
+Aris Auto,Auto Repair,42.3851204,-71.1125828,675 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177769247,"",EST,"",Active
+Mercedes-Benz of Boston,Car Dealers,42.3774520307779,-71.0886642336845,259 McGrath Hwy,"Somerville, MA 02143",Somerville,MA,02143,US,6176664100,"",EST,"",Active
+TRG Realty,Real Estate Services,42.382782,-71.08477,35 Franklin Ave,Ste 2,Somerville,MA,02145,US,6177187444,"",EST,"",Active
+Monro Muffler Brake & Service,Tires,42.3797112,-71.0926666,223 Washington Street,"Somerville, MA 02143",Somerville,MA,02143,US,6176257270,"",EST,"",Active
+Atelier Pilates,Pilates,42.383503,-71.101585,7 Landers St,"Somerville, MA 02143",Somerville,MA,02143,US,6177642835,"",EST,"",Active
+Carlos Neto BJJ,Martial Arts,42.3786322,-71.0869906,86 Joy St,Rear,Somerville,MA,02143,US,6176252100,"",EST,"",Active
+The Ride & Groom Mobile Dog Spa,Pet Groomers,42.38271,-71.10125,"Somerville, MA 02143",,Somerville,MA,02143,US,6179093533,"",EST,"",Active
+Winter Hill Bakery,Bakeries,42.3924435675144,-71.0932836681604,318 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176237900,"",EST,"",Active
+PremiumQ Moving & Storage,Movers,42.39073,-71.09002,"Somerville, MA 02145",,Somerville,MA,02145,US,7812198777,"",EST,"",Active
+"Lina Al-Aswad, DMD",General Dentistry,42.4031529575586,-71.1268193274736,Al-Aswad Dental,1133 Broadway,Somerville,MA,02144,US,6176253636,"",EST,"",Active
+Andrea's House of Pizza,Pizza,42.3812929540873,-71.0861000418663,94 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6177761600,"",EST,"",Active
+Subway,Sandwiches,42.4007111,-71.1177444,860 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6177642432,"",EST,"",Active
+Maryom Hair Design,Hair Salons,42.3949836194515,-71.0975302755833,2 Main St,"Somerville, MA 02145",Somerville,MA,02145,US,6177769372,"",EST,"",Active
+Forklift Catering,Caterers,42.3797319084406,-71.0945966094732,5 Sanborn Ct,"Somerville, MA 02143",Somerville,MA,02143,US,6177767600,"",EST,"",Active
+Au Bon Pain,Soup,42.3977394104004,-71.1235198974609,Davis Square,18-48 Holland St,Somerville,MA,02144,US,6176239601,"",EST,"",Active
+Salonika Hair Design,Hair Salons,42.3990625888109,-71.1246628314257,96 Holland St,Davis Square,Somerville,MA,02144,US,6176284040,"",EST,"",Active
+Illuminations Tour,Local Flavor,42.3867302,-71.0964737,93 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Gallery TK,Photographers,42.3991718,-71.1240559,"Somerville, MA 02144",,Somerville,MA,02144,US,6179823931,"",EST,"",Active
+LBC Boutique & Loan,Jewelry,42.3950477,-71.1214323,233 Elm St,Davis Square,Somerville,MA,02144,US,6178216229,"",EST,"",Active
+KenkoDo Clinic,Acupuncture,42.4004021,-71.1132126,735 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176660143,"",EST,"",Active
+AirCraft Aerial Arts,Fitness & Instruction,42.3816109,-71.1052094,14 Tyler St,"Somerville, MA 02143",Somerville,MA,02143,US,6173088742,"",EST,"",Active
+Room Escape Adventures,Escape Games,42.3841155693397,-71.1109047503815,628 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,4702362699,"",EST,"",Active
+Mario's Salon,Hair Salons,42.398502,-71.123848,75 Holland St,Davis Square,Somerville,MA,02144,US,6176668210,"",EST,"",Active
+Cambridge Reprographics,Advertising,42.37432,-71.08217,21 McGrath Hwy,"Somerville, MA 02143",Somerville,MA,02143,US,6176232838,"",EST,"",Active
+Black Cat Rescue,Animal Shelters,42.39334,-71.0897,"Somerville, MA 02145",,Somerville,MA,02145,US,,"",EST,"",Active
+Caffeten Salvadoreno,Latin American,42.39473,-71.088257,402 Mystic Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177764422,"",EST,"",Active
+Shamrock Movers,Movers,42.38271,-71.10125,"Somerville, MA 02143",,Somerville,MA,02143,US,6174174633,"",EST,"",Active
+TJ Maxx,Department Stores,42.3943411046446,-71.0821170302096,105 Middlesex Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176281275,"",EST,"",Active
+Seven Hills Park,Parks,42.397059755443,-71.1240227341461,Davis Square,Davis Square,Somerville,MA,02144,US,,"",EST,"",Active
+Cordima Chiropractic Center,Chiropractors,42.3997398465872,-71.1118412017822,690 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176292600,"",EST,"",Active
+Benoit Real Estate,Real Estate Services,42.3962234705687,-71.1221616715193,39 Davis Sq,Davis Square,Somerville,MA,02144,US,6177645590,"",EST,"",Active
+Christmas Tree Shop,Christmas Trees,42.3958893,-71.0838089,Assembly Square Mall,177 Middlesex Ave,Somerville,MA,02145,US,6176233428,"",EST,"",Active
+Somerville Auto Service,Auto Repair,42.37389,-71.088078,57 Warren St,"Somerville, MA 02143",Somerville,MA,02143,US,6174929028,"",EST,"",Active
+Curtis Street Bakers,Bakeries,42.38669,-71.09826,"Somerville, MA",,Somerville,MA,,US,,"",EST,"",Active
+Pier Gustafson,Cards & Stationery,42.3758722096682,-71.0842332243919,1 Fitchburg St,Ste B352,Somerville,MA,02143,US,6178004957,"",EST,"",Active
+Buffalo Exchange,"Used, Vintage & Consignment",42.3949509,-71.121788,238 Elm St,Davis Square,Somerville,MA,02144,US,6176295383,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.393486276269,-71.0833447426558,76 Middlesex Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176235820,"",EST,"",Active
+Papa John's Pizza,Pizza,42.3835907,-71.1102219,622 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176279100,"",EST,"",Active
+Powderhouse Square / Powderhouse Park,Parks,42.4005165707406,-71.1162614822388,College Ave & Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,,"",EST,"",Active
+Kaya Beauty Spa,Hair Salons,42.3866158,-71.0984955,92 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177762510,"",EST,"",Active
+Closet Solutions,Contractors,42.389128,-71.117627,46 White St,"Somerville, MA 02143",Somerville,MA,02143,US,6176282410,"",EST,"",Active
+The Playplace,Playgrounds,42.3864245,-71.1138704,15 A Elm St,"Somerville, MA 02143",Somerville,MA,02143,US,6172370254,"",EST,"",Active
+Jade Moran Jewelry,Jewelry,42.391449,-71.1103668,257 Highland Avenue,"Somerville, MA 02143",Somerville,MA,02143,US,6176283929,"",EST,"",Active
+Donnelly Piano Service,Musical Instruments & Teachers,42.389942,-71.116776,3 Hancock St,Apt 1,Somerville,MA,02144,US,6176469711,"",EST,"",Active
+Orthodontics At Davis Square,Orthodontists,42.3974151611328,-71.1220092773438,30 College Ave,Davis Square,Somerville,MA,02144,US,6175919999,"",EST,"",Active
+Trum Field Sunoco,Gas & Service Stations,42.3981164395809,-71.1066035181284,541 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,7813960265,"",EST,"",Active
+Assembly Row,Shopping Centers,42.3931905627251,-71.0796251893044,100 Foley St,"Somerville, MA 02145",Somerville,MA,02145,US,6174405565,"",EST,"",Active
+Star Market,Grocery,42.3834496,-71.1118393,275 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6173547023,"",EST,"",Active
+Drain Doctor,Plumbing,42.398247,-71.109314,612 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176288833,"",EST,"",Active
+Boston Sports Medicine,Physical Therapy,42.3905014774609,-71.0993957519531,259 Elm St,2nd Fl,Somerville,MA,02144,US,6176236300,"",EST,"",Active
+Woody's Liquors,"Beer, Wine & Spirits",42.3978996,-71.1056366,523 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6177767191,"",EST,"",Active
+A.C. Moore Arts and Crafts,Art Supplies,42.3948174,-71.0834656,Assembly Square,145 Middlesex Ave,Somerville,MA,02145,US,6177443017,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.39502,-71.122,244 Elm St,Davis Square,Somerville,MA,02144,US,6176239502,"",EST,"",Active
+Holiday Inn Boston Bunker Hill Area,Hotels,42.38155,-71.0821799,30 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176281000,"",EST,"",Active
+Richardson's Ice Cream,Ice Cream & Frozen Yogurt,42.3962643742561,-71.1221200972795,55 Davis Sq,Davis Square,Somerville,MA,02144,US,,"",EST,"",Active
+Pet Spa,Pet Groomers,42.3849648982286,-71.1124788969755,669 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176667387,"",EST,"",Active
+Boston Rental Exchange,Real Estate Agents,42.397186,-71.122643,12 Winter St,Davis Square,Somerville,MA,02144,US,6176284663,"",EST,"",Active
+Paramount Bicycle Repair,Bikes,42.4002876,-71.1127319,104 Bristol Rd,"Somerville, MA 02144",Somerville,MA,02144,US,6176666072,"",EST,"",Active
+Union Square Pizza,Pizza,42.3797379,-71.0954437,63 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6177767617,"",EST,"",Active
+Beadkreative,Arts & Crafts,42.3810291478099,-71.0988975316286,369 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176250650,"",EST,"",Active
+West Somerville Dental Associates,General Dentistry,42.400296159141,-71.118051009581,124 College Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6176250543,"",EST,"",Active
+The Relaxation Response,Massage,42.4043010852908,-71.1221666455078,1234 Broadway,Ste 9,Somerville,MA,02144,US,3522190316,"",EST,"",Active
+Maven Realty,Apartments,42.3957560956478,-71.1207307130098,402A Highland Avenue,Davis Square,Somerville,MA,02144,US,6178680100,"",EST,"",Active
+X Files Recovery,Data Recovery,42.3908386,-71.0822906,5 Middlesex Ave,Ste 315,Somerville,MA,02145,US,6175951978,"",EST,"",Active
+"Great Hill Dental Partners, LLC",General Dentistry,42.3972316,-71.1233673,20 Holland St,4th Fl,Somerville,MA,02144,US,6175802677,"",EST,"",Active
+LP Pizza & Subs,Pizza,42.3867416,-71.0989838,96 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176280290,"",EST,"",Active
+QuickSilva Title & Real Estate Law,Real Estate Services,42.4017572,-71.1267475,206 Holland St,Davis Square,Somerville,MA,02144,US,6176669977,"",EST,"",Active
+Outback Physical Therapy,Physical Therapy,42.3883082717657,-71.1029349267483,149 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177189300,"",EST,"",Active
+Red House Restaurant,Chinese,42.3799667,-71.0968018,24 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6176664300,"",EST,"",Active
+Frozen Hoagies,Desserts,42.4007524881583,-71.1178661056741,864 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176206810,"",EST,"",Active
+DAVIDsTEA,Tea Rooms,42.394944,-71.081128,300 Grand Union Blvd,"Somerville, MA 02145",Somerville,MA,02145,US,6176251251,"",EST,"",Active
+Tohoku Judo Club,Martial Arts,42.381702,-71.102768,444 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177769060,"",EST,"",Active
+JN Phillips Auto Glass,Auto Glass Services,42.3770294189453,-71.0958709716797,47 Webster Ave,"Somerville, MA 02143",Somerville,MA,02143,US,7819374316,"",EST,"",Active
+Picture Renewal,Photography Stores & Services,42.3870465,-71.0894764,34 Everett Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176662080,"",EST,"",Active
+Stinky's Kittens & Doggies Too,Pet Groomers,42.4003325,-71.1127199,110 Bristol Rd,"Somerville, MA 02144",Somerville,MA,02144,US,6176230265,"",EST,"",Active
+Eastern Bank,Banks & Credit Unions,42.3954277,-71.1221161,250 Elm Street,Davis Square,Somerville,MA,02144,US,6176289700,"",EST,"",Active
+Sav-Mor Liquors,"Beer, Wine & Spirits",42.3740657418966,-71.0824629664421,15 McGrath Hwy,"Somerville, MA 02143",Somerville,MA,02143,US,6176286444,"",EST,"",Active
+Blues Union,Dance Clubs,42.38068,-71.097374,16 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.397259,-71.104897,504 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176239574,"",EST,"",Active
+Best Pest Control Services,Pest Control,42.388519,-71.11557,63 Elm St,"Somerville, MA 02144",Somerville,MA,02144,US,6177763140,"",EST,"",Active
+Jose Allende: Jazz-Latin-Classical Guitar,Musicians,42.3829612731934,-71.095588684082,"Somerville, MA 02143",,Somerville,MA,02143,US,6173120013,"",EST,"",Active
+East West Massage Cambridge,Massage,42.3749695,-71.0851364,Twin City Plz,14 Mcgrath Hwy,Somerville,MA,02141,US,6173409870,"",EST,"",Active
+Somerville Brewing Company,Breweries,42.3750078678131,-71.0896023362875,15 Ward St,"Somerville, MA 02143",Somerville,MA,02143,US,8004281150,"",EST,"",Active
+Work Shop Salon,Hair Salons,42.3896580934525,-71.1066095530987,199A Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6175833504,"",EST,"",Active
+Windsor at Maxwell's Green,Apartments,42.3940513136243,-71.0897827148438,1 Maxwell's Green,"Somerville, MA 02144",Somerville,MA,02144,US,8669582963,"",EST,"",Active
+Once,Lounges,42.3882255554199,-71.1038665771484,156 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6172850167,"",EST,"",Active
+Quincy Street Open Space,Parks,42.3824997,-71.1007891,16 Quincy St,"Somerville, MA 02143",Somerville,MA,02143,US,6176256600,"",EST,"",Active
+Boston Circus Guild,Performing Arts,42.3950077593327,-71.1047306656837,328 Lowell St,"Somerville, MA 02145",Somerville,MA,02145,US,6177671606,"",EST,"",Active
+Devon Wilson-Hill Yoga,Yoga,42.3902206420898,-71.1079788208008,Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176845944,"",EST,"",Active
+Siraco Sharpening Service,Knife Sharpening,42.3970604,-71.1039505,533 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6176286071,"",EST,"",Active
+Chris's Auto Service,Auto Repair,42.3949096,-71.1181813,Davis Square,371 Highland Ave,Somerville,MA,02144,US,6176235200,"",EST,"",Active
+Mike's Auto Service,Auto Repair,42.3793182,-71.0951004,1 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6176231009,"",EST,"",Active
+Your Move,Movers,42.3774719,-71.098793,19 Adrian St,"Somerville, MA 02143",Somerville,MA,02143,US,6176238545,"",EST,"",Active
+Paint Nite,Paint & Sip,42.3524883658226,-71.0477288550781,Waterfront,"Somerville, MA 02143",Somerville,MA,02143,US,8557674270,"",EST,"",Active
+Fashion Way Hair Salon,Hair Salons,42.3795904219151,-71.0962796956301,18 Union Square,"Somerville, MA 02143",Somerville,MA,02143,US,6176279889,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.390533,-71.08683,709 McGrath Hwy,"Somerville, MA 02145",Somerville,MA,02145,US,6176283871,"",EST,"",Active
+Golden Light Restaurant,Chinese,42.3973857,-71.1219462,24 College Ave,Davis Square,Somerville,MA,02144,US,6176669822,"",EST,"",Active
+Kenney Park,Playgrounds,42.3953061862626,-71.1203596989562,9 Grove St,Davis Square,Somerville,MA,02144,US,6176660296,"",EST,"",Active
+Guy Contaldi - Coldwell Banker,Real Estate Agents,42.3974996074,-71.0894871349,"Somerville, MA 02145",,Somerville,MA,02145,US,6172010247,"",EST,"",Active
+Aikido Tekkojuku of Boston,Martial Arts,42.375492,-71.093079,561 Windsor St,"Somerville, MA 02143",Somerville,MA,02143,US,6176232989,"",EST,"",Active
+Somerville Dental Associates,General Dentistry,42.3984299,-71.1213608,56 College Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6177765900,"",EST,"",Active
+Metro Jewelry Appraisers,Appraisal Services,42.3908386,-71.0822906,Assembly Square Office Building,5 Middlesex Ave,Somerville,MA,02145,US,7813060099,"",EST,"",Active
+Artisan's Asylum,Community Service/Non-Profit,42.381347,-71.104774,10 Tyler St,"Somerville, MA 02143",Somerville,MA,02143,US,6172846878,"",EST,"",Active
+The Morrison House,Bed & Breakfast,42.397804,-71.120277,221 Morrison Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6176279670,"",EST,"",Active
+Dia Moeller,Tattoo,42.395694,-71.122204,The Boston Tattoo Company,"260 Elm St, Davis Sq",Somerville,MA,02144,US,6176528282,"",EST,"",Active
+Jules Catering,Caterers,42.37436,-71.09102,66 South St,"Somerville, MA 02143",Somerville,MA,02143,US,6176285977,"",EST,"",Active
+First Church of Somerville,Churches,42.3990097,-71.1192627,Davis Square Station,89 College Ave,Somerville,MA,02144,US,6176256485,"",EST,"",Active
+Chris Fine Tailoring,Dry Cleaning & Laundry,42.4035888165236,-71.127792969346,1169 Broadway,Teele Square,Somerville,MA,02144,US,6177764849,"",EST,"",Active
+Pizza Crust,Pizza,42.3964996,-71.10392,516B Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6176257555,"",EST,"",Active
+Float Boston,Medical Spas,42.3966177552938,-71.1037449538708,515 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,8444435628,"",EST,"",Active
+Somerville Family Practice,Family Practice,42.401524,-71.123276,1020 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176282160,"",EST,"",Active
+Roma Seafood,Seafood,42.378067,-71.090652,201 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177760333,"",EST,"",Active
+Art School 99,Art Schools,42.3593013,-71.1331393,86 Joy St,Allston/Brighton,Somerville,MA,02143,US,6512459710,"",EST,"",Active
+Marshalls,Department Stores,42.374035,-71.084984,Twin City Plz,22 McGrath Hwy,Somerville,MA,02143,US,6177760674,"",EST,"",Active
+Gracie's Ice Cream,Ice Cream & Frozen Yogurt,42.3796096421646,-71.0966355695874,22 Union Square,"Somerville, MA 02143",Somerville,MA,02143,US,6177645294,"",EST,"",Active
+Alexandra Roberts Photography,Session Photography,42.39136,-71.09247,"Somerville, MA 02145",,Somerville,MA,02145,US,6174709630,"",EST,"",Active
+Extra Space Storage,Self Storage,42.3749695,-71.0851364,14 McGrath Hwy,"Somerville, MA 02143",Somerville,MA,02143,US,6176237690,"",EST,"",Active
+Target,Department Stores,42.3774643,-71.0900192,180 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177764036,"",EST,"",Active
+Cambridge Cleans,Home Cleaning,42.3647559,-71.1032591,Central Square,"Cambridge, MA 02139",Cambridge,MA,02139,US,6177022992,"",EST,"",Active
+Bahia Grill,Brazilian,42.3823165893555,-71.0812149047852,3 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6177189139,"",EST,"",Active
+"Tiffany Sankary, Feldenkrais Practitioner",Fitness & Instruction,42.4023017883301,-71.1203689575195,"Somerville, MA 02144",,Somerville,MA,02144,US,5108470010,"",EST,"",Active
+Albion Park,Playgrounds,42.3913918,-71.1071472,Albion Street at Lowell Street,"Somerville, MA 02144",Somerville,MA,02144,US,,"",EST,"",Active
+New Dragon Star Restaurant,Chinese,42.391579,-71.09095,273 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176663150,"",EST,"",Active
+Orange Leaf Frozen Yogurt,Do-It-Yourself Food,42.3956,-71.12233,256 Elm Street,Unit 103,Somerville,MA,02143,US,6176165106,"",EST,"",Active
+Hodgkin's Spa,Convenience Stores,42.3989257961512,-71.1244120448828,99 Holland St,"Somerville, MA 02144",Somerville,MA,02144,US,6176254364,"",EST,"",Active
+School of Groove,Musical Instruments & Teachers,42.37191,-71.085219,111 South St,East Cambridge,Somerville,MA,02143,US,6173195113,"",EST,"",Active
+Smart Tan Salons UV+,Spray Tanning,42.3958419458333,-71.1222434460327,258 Elm St,Davis Square,Somerville,MA,02144,US,6176258266,"",EST,"",Active
+Rockin' Bob's Guitars,Guitar Stores,42.3974216174384,-71.1231174619247,31 Holland St,Davis Square,Somerville,MA,02144,US,6176257707,"",EST,"",Active
+Christopher T Saccardi,Real Estate Law,42.395831,-71.122783,58 Day St,Davis Square,Somerville,MA,02144,US,6175003198,"",EST,"",Active
+A Plus Autobody,Body Shops,42.3858109,-71.0934372,297 Medford St,"Somerville, MA 02143",Somerville,MA,02143,US,6177764500,"",EST,"",Active
+Dunkin' Donuts,Coffee & Tea,42.383453,-71.106438,519 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176283355,"",EST,"",Active
+Automotive Transport Service,Towing,42.375103,-71.094261,495 Columbia St,"Somerville, MA 02143",Somerville,MA,02143,US,6176239522,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.3896570910076,-71.0887909978307,220 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176239194,"",EST,"",Active
+Prospect Hill Plumbing and Heating,Plumbing,42.389114,-71.097427,362 Medford St,Ste A,Somerville,MA,02145,US,6177762795,"",EST,"",Active
+Mid-nite Convenience,Convenience Stores,42.380818,-71.096803,15 Union Square,"Somerville, MA 02143",Somerville,MA,02143,US,6176281137,"",EST,"",Active
+Planned Parenthood,Medical Centers,42.3958594192004,-71.1225519853511,Davis Square Plaza,"260 Elm St, Ste 109",Somerville,MA,02144,US,8002584448,"",EST,"",Active
+Princess Nails Salon,Nail Salons,42.400242,-71.112549,725 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176257070,"",EST,"",Active
+Crowley's Liquors,"Beer, Wine & Spirits",42.3993321508169,-71.1112289875746,152 Boston Ave,Ste A,Somerville,MA,02144,US,6176257775,"",EST,"",Active
+Boston Sports Clubs,Gyms,42.3962898,-71.1227264,1 Davis Square,Davis Square,Somerville,MA,02144,US,6177760086,"",EST,"",Active
+Somerville Public Library,Libraries,42.3858337,-71.0955582,79 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176235000,"",EST,"",Active
+"Allston Piano Moving, a Division of Gentle Giant",Movers,42.375393,-71.090126,29 Harding St,"Somerville, MA 02143",Somerville,MA,02143,US,6174894755,"",EST,"",Active
+City Schemes,Furniture Stores,42.3838162269245,-71.109784271164,22 Kent St,"Somerville, MA 02143",Somerville,MA,02143,US,6177767777,"",EST,"",Active
+Y-Not Variety,Convenience Stores,42.3955985158682,-71.1158685386181,140 Willow Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6177768797,"",EST,"",Active
+Boston Green Cleaners,Carpet Cleaning,42.3947525,-71.0881805,"Somerville, MA 02145",,Somerville,MA,02145,US,6173013079,"",EST,"",Active
+East Cambridge Piano,Musical Instruments & Teachers,42.388578504324,-71.0965164005756,343 Medford St,"Somerville, MA 02145",Somerville,MA,02145,US,6173544061,"",EST,"",Active
+Conway Park,Parks,42.38271,-71.10125,"Somerville, MA 02143",,Somerville,MA,02143,US,6176660296,"",EST,"",Active
+Rover.com - Dog Boarding & Sitting,Dog Walkers,42.3843475940556,-71.0987891133057,"Somerville, MA 02143",,Somerville,MA,02143,US,6179327081,"",EST,"",Active
+Victory Plus+ Windows Cleaning and Repair,Windows Installation,42.3930959,-71.0884036,"Somerville, MA 02145",,Somerville,MA,02145,US,6179630708,"",EST,"",Active
+Boston Photo Rental,Photography Stores & Services,42.3876114,-71.0945663,236 Pearl ST,"Somerville, MA 02145",Somerville,MA,02145,US,6172296200,"",EST,"",Active
+Eagle Trust Insurance,Insurance,42.4001198,-71.1122665,707 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176258400,"",EST,"",Active
+Michael's,Bars,42.381599,-71.085968,97 Washington St.,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Forêt,Florists,42.3799612373114,-71.0987104475498,9 Olive Square,"Somerville, MA 02143",Somerville,MA,02143,US,6176845583,"",EST,"",Active
+"Tranfaglia Sandra, DMD",General Dentistry,42.3821678161621,-71.081672668457,17 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176282006,"",EST,"",Active
+Stop & Shop,Grocery,42.391580375509,-71.085538276359,775 McGrath Hwy,"Somerville, MA 02145",Somerville,MA,02145,US,6176661024,"",EST,"",Active
+Talewsky's J & A Used Auto Parts,Auto Parts & Supplies,42.3756428807974,-71.0942076891661,517 Columbia St,"Somerville, MA 02143",Somerville,MA,02143,US,6176284691,"",EST,"",Active
+Gentle Dental,General Dentistry,42.3749695,-71.0851364,Twin City Plz,14 Mcgrath Hwy,Somerville,MA,02143,US,6176234500,"",EST,"",Active
+David D Menon,Doctors,42.3817787,-71.0974808,33 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6176259992,"",EST,"",Active
+Dental Arts Davis Square,General Dentistry,42.395613,-71.1206907,396 Highland Ave,Davis Square,Somerville,MA,02144,US,6177762323,"",EST,"",Active
+Casa De Carnes Solucao,Meat Shops,42.3816061019897,-71.0979346185923,38 Bow Street,"Somerville, MA 02143",Somerville,MA,02143,US,6176251787,"",EST,"",Active
+Glass and Mirror,Windows Installation,42.3890305,-71.087204,190 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176233140,"",EST,"",Active
+Sewfisticated Discount Fabrics,Fabric Stores,42.3741229912316,-71.0859888794169,Twin City Plaza,14 McGrath Hwy,Somerville,MA,02143,US,6176257996,"",EST,"",Active
+Roman Limousine,Limos,42.3948005586863,-71.0973619669676,383 Broadway,Ste 39,Somerville,MA,02145,US,8579285105,"",EST,"",Active
+Avalon Dental Center,Orthodontists,42.3955383,-71.0901718,120 Temple St,"Somerville, MA 02145",Somerville,MA,02145,US,6177769000,"",EST,"",Active
+Mirabella Plumbing & Heating,Plumbing,42.388984,-71.097541,170 School St,"Somerville, MA 02145",Somerville,MA,02145,US,6176251396,"",EST,"",Active
+Sityodtong Muay Thai Academy,Martial Arts,42.3873978,-71.0834045,100 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176279678,"",EST,"",Active
+Sweet Idea,Desserts,42.38271,-71.10125,"Somerville, MA 02143",,Somerville,MA,02143,US,4242412825,"",EST,"",Active
+Whole Foods Market,Grocery,42.3757841237719,-71.1031595119171,45 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6179029300,"",EST,"",Active
+Capoeira Brasil New England,Dance Studios,42.379169,-71.086611,86 Joy St,"Somerville, MA 02135",Somerville,MA,02135,US,3109021256,"",EST,"",Active
+DiTucci's Carpet & Upholstery Cleaning,Carpet Cleaning,42.388717,-71.105003,170 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176285552,"",EST,"",Active
+Consignment Galleries,Antiques,42.39493,-71.11779,363 Highland Ave,Davis Square,Somerville,MA,02144,US,6176294900,"",EST,"",Active
+Broga Yoga LLC,Yoga,42.389812,-71.105934,191 Highland Ave,3rd Fl,Somerville,MA,02143,US,8442769642,"",EST,"",Active
+Zombie March,Local Flavor,42.3963012695312,-71.1221618652344,Davis Square,"Somerville, MA 02144",Somerville,MA,02144,US,,"",EST,"",Active
+Alpha Landmark,Shared Office Spaces,42.391507,-71.08169,5 Middlesex Ave,4th Fl,Somerville,MA,02145,US,6177643068,"",EST,"",Active
+Truly Good Design,Web Design,42.3821232,-71.1055749,24 Park St,"Somerville, MA 02143",Somerville,MA,02143,US,6177642627,"",EST,"",Active
+Showcase Laundromat,Dry Cleaning & Laundry,42.3859050124884,-71.1142276972532,715 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177763199,"",EST,"",Active
+T-Mobile,Mobile Phones,42.3749695,-71.0851364,14 Mcgrath Hwy,"Somerville, MA 02143",Somerville,MA,02143,US,6176281843,"",EST,"",Active
+Bigelow Cooperative Daycare,Child Care & Day Care,42.3812217712402,-71.1065673828125,44 Park St,"Somerville, MA 02143",Somerville,MA,02143,US,6176235400,"",EST,"",Active
+Richard Caron Hair Design,Hair Salons,42.38389,-71.109375,595 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6175296609,"",EST,"",Active
+Powderhouse Laundromat,Dry Cleaning & Laundry,42.400621,-71.117443,138 College Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6176292143,"",EST,"",Active
+Davis Sq Nails & Spa,Nail Salons,42.3959885,-71.1215668,418 Highland Ave,Davis Square,Somerville,MA,02144,US,6176663332,"",EST,"",Active
+Hyper-Local Craft Brewfest,Festivals,42.389801,-71.1059265,191 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Ultima Hair Design,Hair Salons,42.3958931,-71.1212845,410 Highland Ave,Davis Square,Somerville,MA,02144,US,6176239203,"",EST,"",Active
+Somerville Wine and Spirits,"Beer, Wine & Spirits",42.3907502571314,-71.1091247447662,235 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177182112,"",EST,"",Active
+Stanhope Framers,Framing,42.381889,-71.09893,55 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6176662000,"",EST,"",Active
+Independent Fabrication,Bikes,42.3782459646463,-71.0866183787584,86 Joy Street,"Somerville, MA 02143",Somerville,MA,02143,US,6176663609,"",EST,"",Active
+Whats-Nü,Women's Clothing,42.39848,-71.12391,67 Holland St,Davis Square,Somerville,MA,02144,US,6176612031,"",EST,"",Active
+Vancini Accounting & Tax,Accountants,42.389812,-71.105934,191 Highland Ave,Ste B-5,Somerville,MA,02143,US,6174330043,"",EST,"",Active
+Giulia,Italian,42.3824883,-71.119957,1682 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174412800,"",EST,"",Active
+Pathways Massage and Muscular Therapy,Massage Therapy,42.3926627,-71.1085468,65 Alpine St,"Somerville, MA 02144",Somerville,MA,02144,US,6037931198,"",EST,"",Active
+Little India,Grocery,42.381279,-71.102287,438 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176231786,"",EST,"",Active
+Oleana Restaurant,Mediterranean,42.37055,-71.09713,134 Hampshire St,Inman Square,Cambridge,MA,02139,US,6176610505,"",EST,"",Active
+Fu Shen Beauty,Day Spas,42.3956360667944,-71.1221214383841,258 Elm St,Davis Square,Somerville,MA,02144,US,6176253366,"",EST,"",Active
+Teddy's Foreign Motors,Auto Repair,42.3786013573408,-71.0868705064058,68 Joy St,"Somerville, MA 02144",Somerville,MA,02144,US,6176254642,"",EST,"",Active
+Cambridge Center Roof Garden,Parks,42.363166314755,-71.086729051611,4 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,,"",EST,"",Active
+Hertz Rent A Car,Car Rental,42.3843875527382,-71.1114636808634,646 Somerville Avenue,"Somerville, MA 02143",Somerville,MA,02143,US,6176257958,"",EST,"",Active
+Gold's Gym,Gyms,42.3749697,-71.0851344,Twin City Plz,14 McGrath Hwy,Somerville,MA,02143,US,6176259566,"",EST,"",Active
+Mac Doctor,IT Services & Computer Repair,42.393669,-71.111839,7 Lexington Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6178344913,"",EST,"",Active
+Kirkland Cleaners,Dry Cleaning & Laundry,42.4047317504883,-71.1299743652344,Teele Square,1244 Broadway,Somerville,MA,02143,US,6176230090,"",EST,"",Active
+Avalon at Assembly Row,Apartments,42.3930959,-71.0884036,333 Great River Road,"Somerville, MA 02145",Somerville,MA,02145,US,6177025874,"",EST,"",Active
+County Auto Repair,Auto Repair,42.3813515,-71.0866241,103 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176283600,"",EST,"",Active
+PAUL Assembly Row,Bakeries,42.3954820427919,-71.078875322265,631 Assembly Row,Ste 230,Somerville,MA,02145,US,6174401049,"",EST,"",Active
+Malin Realty,Apartments,42.3877716,-71.1173019,799 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176232323,"",EST,"",Active
+Dell's Appliance Sales & Service,Appliances,42.3885002,-71.102829,147a Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176251311,"",EST,"",Active
+Colonial Volkswagen Of Medford,Auto Parts & Supplies,42.3935699,-71.0866776,340 Mystic Ave,"Somerville, MA 02145",Somerville,MA,02145,US,7814755200,"",EST,"",Active
+Legoland Discovery Center,Amusement Parks,42.3942784,-71.0791123,598 Assembly Row,"Somerville, MA 02145",Somerville,MA,02145,US,8662286439,"",EST,"",Active
+Mahina Massage,Massage,42.3953304,-71.1218352,249 Elm St,Davis Square,Somerville,MA,02144,US,9787617221,"",EST,"",Active
+Metro Pedal Power,Couriers & Delivery Services,42.3799612373114,-71.0987104475498,11 Olive Square,"Somerville, MA 02143",Somerville,MA,02143,US,6177763700,"",EST,"",Active
+Zaika Taste of India,Indian,42.4070663452148,-71.0921783447266,3850 Mystic Valley Pkwy,"Medford, MA 02155",Medford,MA,02155,US,7812194525,"",EST,"",Active
+Rite Aid,Drugstores,42.38284,-71.106809,530 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177769320,"",EST,"",Active
+Mr. B's Italian Restaurant,Pizza,42.382534,-71.090026,142 Cross St,"Somerville, MA 02145",Somerville,MA,02145,US,6177180777,"",EST,"",Active
+"Anil Gullapalli, MD",Family Practice,42.3975169658661,-71.123410910368,40 Holland St,Davis Square,Somerville,MA,02144,US,6176296000,"",EST,"",Active
+Goodyear Auto Service Centers,Tires,42.3804829269648,-71.0967759042978,1 Bow Street,"Somerville, MA 02143",Somerville,MA,02143,US,6176287800,"",EST,"",Active
+Tenoch Mexican,Mexican,42.4181698259742,-71.1089605093002,24 Riverside Ave,"Medford, MA 02155",Medford,MA,02155,US,7813952221,"",EST,"",Active
+Polcari's Coffee,Coffee & Tea,42.36401,-71.0555,105 Salem St,North End,Boston,MA,02113,US,6172270786,"",EST,"",Active
+Dilboy Memorial Swimming and Wading Pool,Swimming Pools,42.4106789,-71.1308823,Alewife Brook Pkwy at Hight St,"Somerville, MA 02144",Somerville,MA,02144,US,6176239321,"",EST,"",Active
+Cathy Thomason Acupuncture,Acupuncture,42.3959694,-71.1224976,Great Way Wellness Center,"278 Elm St, Ste 227",Somerville,MA,02144,US,6178520690,"",EST,"",Active
+James Associates,Accountants,42.396072,-71.120674,401 Highland Avenue,Davis Square,Somerville,MA,02144,US,6176254939,"",EST,"",Active
+LA Burdick Handmade Chocolates,Coffee & Tea,42.3743,-71.12211,52 Brattle St,Ste D,Cambridge,MA,02138,US,6174914340,"",EST,"",Active
+Tara Jones Photography,Event Photography,42.39927,-71.12159,"Somerville, MA 02144",,Somerville,MA,02144,US,6177102627,"",EST,"",Active
+Leins Auto Repair,Auto Repair,42.381546116198,-71.0994770820313,65 1/2 Bow St,"Somerville, MA 02143",Somerville,MA,02143,US,6176239000,"",EST,"",Active
+Dormition of the Virgin Mary Greek Orthodox Church,Churches,42.38496,-71.105309,29 Central St,"Somerville, MA 02143",Somerville,MA,02143,US,6176252222,"",EST,"",Active
+Souper Roll Up Cafe,Sandwiches,42.37201,-71.08889,726 Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6173545810,"",EST,"",Active
+McDonald's,Fast Food,42.3749695,-71.0851364,14 Mcgrath Hwy,"Somerville, MA 02143",Somerville,MA,02143,US,6176664036,"",EST,"",Active
+Century Tire and Auto Service,Tires,42.3828223,-71.1117327,265 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6175477878,"",EST,"",Active
+Moroccan Caravan,Home Decor,42.3796387,-71.0985565,285 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6178331503,"",EST,"",Active
+The Druid,Pubs,42.37382,-71.10021,1357 Cambridge St,Inman Square,Cambridge,MA,02139,US,6174970965,"",EST,"",Active
+Craigie On Main,American (New),42.3634817952265,-71.0986128859795,853 Main St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174975511,"",EST,"",Active
+Bob's Italian Foods,Italian,42.4074516296387,-71.1085739135742,324 Main St,"Medford, MA 02155",Medford,MA,02155,US,7813950400,"",EST,"",Active
+Life Alive,Vegetarian,42.366593014329,-71.105495948582,765 Mass Ave,Central Square,Cambridge,MA,02139,US,6173545433,"",EST,"",Active
+Cumberland Farms,Gas & Service Stations,42.3858830768667,-71.1139152672486,701 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177763596,"",EST,"",Active
+St-8-Edge Barbershop,Barbers,42.377670379583,-71.0912974846558,216 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177182422,"",EST,"",Active
+Café Mami,Japanese,42.38729,-71.11839,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6175479130,"",EST,"",Active
+Renaissance Salon,Hair Salons,42.4029618501663,-71.126611456275,1120 Broadway,Teele Square,Somerville,MA,02144,US,6177768177,"",EST,"",Active
+Found,"Used, Vintage & Consignment",42.3955522477627,-71.1219356954098,255 Elm St,Davis Square,Somerville,MA,02144,US,6177643131,"",EST,"",Active
+Legal Sea Foods,Seafood,42.3956100446922,-71.0800097767227,301 Great River Rd,"Somerville, MA 02145",Somerville,MA,02145,US,6173374088,"",EST,"",Active
+Kims Kanine,Pet Boarding/Pet Sitting,42.4023017883301,-71.1203689575195,"Somerville, MA 02144",,Somerville,MA,02144,US,6174488404,"",EST,"",Active
+Toscanini's Ice Cream,Ice Cream & Frozen Yogurt,42.363497054497,-71.099057350739,899 Main St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174915877,"",EST,"",Active
+Bombay Market,Grocery,42.3810959,-71.0988312,359 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176236614,"",EST,"",Active
+Alive & Kicking Lobsters,Seafood,42.36267,-71.11381,269 Putnam Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178760451,"",EST,"",Active
+Simon's Coffee Shop,Coffee & Tea,42.3842878,-71.1196151,1736 Mass Ave,Porter Square,Cambridge,MA,02138,US,6174977766,"",EST,"",Active
+Julie's Nails,Nail Salons,42.3951257765293,-71.1216413229704,241 Elm St,Davis Square,Somerville,MA,02144,US,6176293850,"",EST,"",Active
+Fred M Susan Auto Body,Body Shops,42.379085,-71.093544,269 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177761570,"",EST,"",Active
+The Dinner Detective,American (New),42.381548,-71.082176,30 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,8664960535,"",EST,"",Active
+Our City Realty,Apartments,42.401106,-71.1213331,962 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6177641908,"",EST,"",Active
+Morse-Kelley Park,Parks,42.3884315,-71.110611,Summer St and Craigie St,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Allen Plumbing,Plumbing,42.391724,-71.108429,112 Albion St,"Somerville, MA 02144",Somerville,MA,02144,US,6176254300,"",EST,"",Active
+Office Furniture Liquidators,Office Equipment,42.3978081,-71.1053623,519 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176257060,"",EST,"",Active
+Bom Cafe,Brazilian,42.3730988055468,-71.0955883562565,1093 Cambridge St,Inman Square,Cambridge,MA,02139,US,6178640395,"",EST,"",Active
+Davis Square Family Practice,Family Practice,42.3955956,-71.1222229,260 Elm St,Ste 105,Somerville,MA,02144,US,6176669577,"",EST,"",Active
+Atmosphere Painting & Plastering,Drywall Installation & Repair,42.3908,-71.099204,398 Medford St,Ste 3,Somerville,MA,02145,US,6175017612,"",EST,"",Active
+Boulter Plywood Corporation,Building Supplies,42.3862074315548,-71.0790250450373,24 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176661340,"",EST,"",Active
+East Side Bar & Grille,Italian,42.3718863,-71.0856506,561 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6176613278,"",EST,"",Active
+The UPS Store,Notaries,42.383454,-71.106441,519 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6175910199,"",EST,"",Active
+Durell Community Garden and Pocket Park,Parks,42.38187,-71.110413,245 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,,"",EST,"",Active
+Mystic Florist,Florists,42.3950104415417,-71.0883631557226,414 Mystic Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176663116,"",EST,"",Active
+"Shibly D Malouf,DDS",Oral Surgeons,42.3940602689981,-71.0964050889015,366 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176288000,"",EST,"",Active
+Café Luna,Coffee & Tea,42.3636722,-71.1004915,403 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175763400,"",EST,"",Active
+"Mimi Graney, Justice of the Peace",Public Services & Government,42.38271,-71.10125,"Somerville, MA 02143",,Somerville,MA,02143,US,6176201497,"",EST,"",Active
+City Girl Café,Italian,42.3731002807617,-71.1003265380859,204 Hampshire St,Inman Square,Cambridge,MA,02139,US,6178642809,"",EST,"",Active
+Somerville City Hall,Public Services & Government,42.3867302,-71.0964737,93 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176256600,"",EST,"",Active
+Teele Square Liquors,"Beer, Wine & Spirits",42.4031459327737,-71.1265339262757,1119 Broadway,Teele Square,Somerville,MA,02144,US,6176284842,"",EST,"",Active
+Atwood's Tavern,Bars,42.3727493,-71.0914536,877 Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6178642792,"",EST,"",Active
+Subway,Sandwiches,42.393486,-71.120354,197 Elm St,Davis Square,Somerville,MA,02144,US,6174401099,"",EST,"",Active
+Executive Autobody,Auto Repair,42.374332,-71.088402,30 Medford St,"Somerville, MA 02143",Somerville,MA,02143,US,6175761855,"",EST,"",Active
+Muqueca Restaurant,Latin American,42.372638,-71.093872,1008 Cambridge St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6173543296,"",EST,"",Active
+Seven Hills Wine & Spirits,"Beer, Wine & Spirits",42.383297,-71.1129,288 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6175471644,"",EST,"",Active
+Fenway Park,Stadiums & Arenas,42.3463520835969,-71.0976473255867,4 Yawkey Way,Fenway,Boston,MA,02115,US,8777337699,"",EST,"",Active
+Piperi Mediterranean Grill,Mediterranean,42.3585362,-71.0607882,One Beacon St,Downtown,Boston,MA,02108,US,6172277471,"",EST,"",Active
+Maaco Collision Repair & Auto Painting,Body Shops,42.381702,-71.102768,444 Somerville Avenue,"Somerville, MA 02143",Somerville,MA,02143,US,6172846730,"",EST,"",Active
+La Quinta Inn & Suites Boston Somerville,Hotels,42.394375,-71.084767,23 Cummings St,"Somerville, MA 02145",Somerville,MA,02145,US,6176255300,"",EST,"",Active
+Tupelo,Southern,42.3733482,-71.0971909,1193 Cambridge St,Inman Square,Cambridge,MA,02139,US,6178680004,"",EST,"",Active
+Autozone,Auto Parts & Supplies,42.380116,-71.08886,160 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176665416,"",EST,"",Active
+Advance Auto Parts,Auto Parts & Supplies,42.377316,-71.091408,196 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176230803,"",EST,"",Active
+La Ronga Bakery,Bakeries,42.384163,-71.109673,599 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176258600,"",EST,"",Active
+Metropolitan School of Real Estate,Specialty Schools,42.397164,-71.103766,490 Broadway,Ste 1,Somerville,MA,02145,US,6172010402,"",EST,"",Active
+Extra Space Storage,Self Storage,42.3818817,-71.1033478,460 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176251000,"",EST,"",Active
+City Line Laundromat,Dry Cleaning & Laundry,42.3874435424805,-71.0837783813477,110 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6177764182,"",EST,"",Active
+Glen Park,Parks,42.3830871582031,-71.0870666503906,Glen St,"Somerville, MA 02145",Somerville,MA,02145,US,,"",EST,"",Active
+Sports Authority,Sporting Goods,42.3950080871582,-71.0822372436523,133 Middlesex Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176294989,"",EST,"",Active
+Old North Church,Landmarks & Historical Buildings,42.36649,-71.0545099,193 Salem St,North End,Boston,MA,02113,US,6175236676,"",EST,"",Active
+Roast Beast,Sandwiches,42.351783181146,-71.1236789566271,1080 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6178778690,"",EST,"",Active
+Cuchi Cuchi,Tapas/Small Plates,42.36334,-71.09713,795 Main St,Kendall Square/MIT,Cambridge,MA,02139,US,6178642929,"",EST,"",Active
+Davis Square Martial Arts,Martial Arts,42.39584,-71.121353,408 Highland Ave,Davis Square,Somerville,MA,02144,US,6175919656,"",EST,"",Active
+The Esplanade,Parks,42.357735,-71.073371,Storrow Dr,Beacon Hill,Boston,MA,02116,US,6177279547,"",EST,"",Active
+Alden & Harlow,American (Traditional),42.373561,-71.121464,40 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178642100,"",EST,"",Active
+Apartment Rental Experts,Apartments,42.386661529541,-71.1146774291992,24 Elm St,"Somerville, MA 02143",Somerville,MA,02143,US,6176848000,"",EST,"",Active
+New Asia,Chinese,42.3805586993694,-71.0980097204447,326 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176287710,"",EST,"",Active
+The Collector,Antiques,42.388405,-71.10408,160 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176251022,"",EST,"",Active
+Enterprise Rent-A-Car,Car Rental,42.387221,-71.077829,37 Mystic Ave (Sullivan Sq),"Somerville, MA 02145",Somerville,MA,02145,US,6177185673,"",EST,"",Active
+Helmand Restaurant,Afghan,42.36649,-71.07801,143 1st St,Kendall Square/MIT,Cambridge,MA,02142,US,6174924646,"",EST,"",Active
+Pinocchios Pizza & Subs,Pizza,42.3718364,-71.1201984,74 Winthrop St,Harvard Square,Cambridge,MA,02138,US,6178764897,"",EST,"",Active
+Toad,Music Venues,42.3889043927193,-71.1197222024202,1912 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174974950,"",EST,"",Active
+Flour Bakery + Café,Coffee & Tea,42.361010767746,-71.096618104537,190 Massachusetts Ave,Kendall Square/MIT,Cambridge,MA,02139,US,6172252525,"",EST,"",Active
+Jamspot,Performing Arts,42.374948,-71.0917352,111 South St,"Somerville, MA 02143",Somerville,MA,02143,US,6176667529,"",EST,"",Active
+Somervilles No Touch Car Wash,Car Wash,42.381916,-71.0824045,31 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176259027,"",EST,"",Active
+"Daniel Roseman, DDS",General Dentistry,42.3887786865234,-71.1051940917969,174 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176661810,"",EST,"",Active
+Neptune Oyster,Seafood,42.363618,-71.056012,63 Salem St,North End,Boston,MA,02113,US,6177423474,"",EST,"",Active
+Ten Tables,American (New),42.3793334960938,-71.1274337768555,5 Craigie Cir,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175765444,"",EST,"",Active
+East Coast Grill,Barbeque,42.373574173487,-71.098581340228,1271 Cambridge St,Inman Square,Cambridge,MA,02139,US,6174916568,"",EST,"",Active
+Pao de Acucar,Ethnic Food,42.3798752,-71.0958557,57 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6176250022,"",EST,"",Active
+Ed Leathers Community Dog Park,Dog Parks,42.3871994,-71.0944214,Skilton Ave,"Somerville, MA 02145",Somerville,MA,02145,US,,"",EST,"",Active
+Sillari Realty,Property Management,42.403178541828,-71.1227416992188,99 Albion St,Ste 6,Somerville,MA,02144,US,6176232600,"",EST,"",Active
+Oasis Cafe & Bakery,Cafes,42.4052731,-71.1081618,377 Main St,"Medford, MA 02155",Medford,MA,02155,US,7813069610,"",EST,"",Active
+McCabe's on Mass,American (New),42.3909052,-71.1225779,2046 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6179457115,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.4008046835661,-71.1176569014788,850 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176280587,"",EST,"",Active
+Woodway Darts & Supplies Inc.,Sporting Goods,42.4040561914444,-71.1288296431303,1198 Broadway,Teele Square,Somerville,MA,02144,US,6176252550,"",EST,"",Active
+Sewing & Vac Center,Appliances & Repair,42.3960920423269,-71.1223809421062,280 Elm St,Davis Square,Somerville,MA,02144,US,6176256668,"",EST,"",Active
+Boutique Fabulous,Jewelry,42.373603,-71.0994931,1309 Cambridge St,Inman Square,Cambridge,MA,02139,US,6178640656,"",EST,"",Active
+Armando's Pizza & Subs,Pizza,42.3823437094688,-71.1312181502581,163 Huron Ave,Huron Village,Cambridge,MA,02138,US,6173548275,"",EST,"",Active
+Newtowne Grille,Pizza,42.3897728,-71.1203033,1945 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6176610706,"",EST,"",Active
+All Star Sandwich Bar,Sandwiches,42.373506893888,-71.098204139262,1245 Cambridge St,Inman Square,Cambridge,MA,02139,US,6178683065,"",EST,"",Active
+Secret Ships,Accessories,42.3930309712887,-71.1144027113914,316 Highland Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6172900401,"",EST,"",Active
+Barn At 17,Antiques,42.39592,-71.109024,17 Murdock Street,"Somerville, MA 02145",Somerville,MA,02145,US,6176255204,"",EST,"",Active
+Greek Corner Restaurant,Greek,42.3963585,-71.1295624,2366 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6176615655,"",EST,"",Active
+Big Fish Little Fish,Pet Stores,42.3882522583008,-71.1153945922852,55 Elm St,"Somerville, MA 02144",Somerville,MA,02144,US,6176662444,"",EST,"",Active
+Harry's Cheese and Cold Cuts,Meat Shops,42.3614769,-71.0563299,98 Blackstone St,"Boston, MA 02109",Boston,MA,02109,US,9782704558,"",EST,"",Active
+Cupcake Camp!,Desserts,42.389801,-71.1059265,The Center for Arts At The Armory,191 Highland Ave,Somerville,MA,02143,US,,"",EST,"",Active
+Emma's Pizza,Pizza,42.3665216,-71.0920383,40 Hampshire St,Kendall Square/MIT,Cambridge,MA,02139,US,6178648534,"",EST,"",Active
+Ball Square,Local Flavor,42.40234,-71.12346,"Somerville, MA 02144",,Somerville,MA,02144,US,,"",EST,"",Active
+EverGreen Delivery,Couriers & Delivery Services,42.382946,-71.089645,60 Tufts St,Ste 15,Somerville,MA,02145,US,6172850826,"",EST,"",Active
+New Astrology Studio,Psychics & Astrologers,42.3960799488902,-71.1223058402538,278 Elm St,Davis Square,Somerville,MA,02144,US,6176295850,"",EST,"",Active
+Sally Beauty Supply,Cosmetics & Beauty Supply,42.3749695,-71.0851364,14 McGrath Hwy,"Somerville, MA 02143",Somerville,MA,02143,US,6176255400,"",EST,"",Active
+The Coast Cafe,Southern,42.3629832,-71.1116149,233 River St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6173547644,"",EST,"",Active
+Rod Dee Thai Cuisine,Thai,42.3889043927193,-71.1197222024202,1906 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6173749252,"",EST,"",Active
+Island Creek Oyster Bar,Seafood,42.348682243174,-71.095118452365,500 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6175325300,"",EST,"",Active
+Alpha Dental,General Dentistry,42.4000138,-71.1121084,701 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6177641454,"",EST,"",Active
+Lizard Lounge,Music Venues,42.3820838928223,-71.1192016601562,1667 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6175470759,"",EST,"",Active
+T.W. Food,French,42.38371,-71.1343799,377 Walden St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178644745,"",EST,"",Active
+Main Street Video,Videos & Video Game Rental,42.3942326009274,-71.087391525507,372 Mystic Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176285514,"",EST,"",Active
+FoMu,Cafes,42.3537889122963,-71.1370251327753,481 Cambridge St,Allston/Brighton,Allston,MA,02134,US,6179033276,"",EST,"",Active
+Sasha Cagen,Life Coach,42.38669,-71.09826,"Somerville, MA",,Somerville,MA,,US,5109843555,"",EST,"",Active
+Court House Seafood Restaurant,Seafood Markets,42.37153,-71.08458,498 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6174911213,"",EST,"",Active
+Tufts Athletic Field,Parks,42.4006615,-71.1173859,150 College Avenue,"Somerville, MA 02144",Somerville,MA,02144,US,,"",EST,"",Active
+United Divers,Scuba Diving,42.3819199,-71.0832367,59 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176233483,"",EST,"",Active
+Christopher Columbus Waterfront Park,Parks,42.3616582702516,-71.0519084929943,Atlantic Ave & Richmond St,North End,Boston,MA,02109,US,6176354505,"",EST,"",Active
+Walk. Sit. Stay.,Dog Walkers,42.387432,-71.093987,226 Pearl St,"Somerville, MA 02145",Somerville,MA,02145,US,4043750742,"",EST,"",Active
+West Bridge,Bars,42.3665695,-71.0901871,1 Kendall Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6179450221,"",EST,"",Active
+Bay State Fencers,Sports Clubs,42.375492,-71.093079,561 Windsor St,Ste A401,Somerville,MA,02143,US,6175910101,"",EST,"",Active
+Clover,Vegetarian,42.3627095,-71.0872718,5 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,,"",EST,"",Active
+Russell House Tavern,American (New),42.373251,-71.119303,14 JFK St,Harvard Square,Cambridge,MA,02138,US,6175003055,"",EST,"",Active
+Shane Godfrey Photography,Photographers,42.386581,-71.107475,176 Summer St,"Somerville, MA 02143",Somerville,MA,02143,US,6179037074,"",EST,"",Active
+L'Impasto,Italian,42.3944337,-71.1267771,2263 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6174911901,"",EST,"",Active
+Norman B Leventhal Park,Parks,42.3564508909879,-71.0558366775513,Post Office Square,"50 Federal St, 5th Fl",Boston,MA,02110,US,6174231500,"",EST,"",Active
+Native Dog Wellness,Dog Walkers,42.3844260805183,-71.107497877832,"Somerville, MA 02143",,Somerville,MA,02143,US,4042458033,"",EST,"",Active
+Boston Closet Co.,Contractors,42.391594,-71.106583,229 Lowell Street,"Somerville, MA 02144",Somerville,MA,02144,US,6176281150,"",EST,"",Active
+JDO Electric,Electricians,42.4023017883301,-71.1203689575195,"Somerville, MA 02144",,Somerville,MA,02144,US,6176286215,"",EST,"",Active
+Puritan & Company,American (New),42.3731070676765,-71.0967491705349,Inman Square,1166 Cambridge St,Cambridge,MA,02139,US,6176156195,"",EST,"",Active
+Monica's Mercato & Salumeria,Italian,42.3651084899902,-71.0555877685547,130 Salem St,North End,Boston,MA,02113,US,6177424101,"",EST,"",Active
+Waterlily Wellness,Acupuncture,42.3955790698528,-71.1219551414251,259 Elm St,Ste 300B,Somerville,MA,02144,US,6179028769,"",EST,"",Active
+Basta Pasta Trattoria,Italian,42.3646317,-71.1132278,319 Western Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175766672,"",EST,"",Active
+CVS/pharmacy,Drugstores,42.3963199365027,-71.1226985487787,1 Davis Sq,Davis Square,Somerville,MA,02144,US,6176294156,"",EST,"",Active
+John Dean - Exit Realty,Real Estate Agents,42.3993496,-71.1109865,660 Broadway,2nd Fl,Somerville,MA,02144,US,6175531926,"",EST,"",Active
+Teele Sq. Auto,Auto Repair,42.4053497,-71.130928,1284 Broadway,Teele Square,Somerville,MA,02144,US,6176239067,"",EST,"",Active
+Study,American (New),42.3633519091773,-71.0880341318771,73 Ames St,Kendall Square/MIT,Cambridge,MA,02142,US,6173740700,"",EST,"",Active
+Christian Fellowship of Boston,Churches,42.384077757597,-71.110458523035,628 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176251430,"",EST,"",Active
+Aom Autotech,Auto Repair,42.378952,-71.094718,290 Rear Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177105848,"",EST,"",Active
+Casa Razdora,Italian,42.3580513,-71.0546112,115 Water St,Financial District,Boston,MA,02109,US,6173386700,"",EST,"",Active
+Bondir Cambridge,French,42.3682904,-71.0977689,279A Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,6176610009,"",EST,"",Active
+Jerry's Garden Salon,Hair Salons,42.381805,-71.087997,19 Tufts St,"Somerville, MA 02145",Somerville,MA,02145,US,6176284559,"",EST,"",Active
+Sam LaGrassa's,Sandwiches,42.3568611,-71.0598373,44 Province St,Downtown,Boston,MA,02108,US,6173576861,"",EST,"",Active
+Kawaii Me Boutique,Women's Clothing,42.3797506839037,-71.0958150029182,59 Union Sq,Ste 209,Somerville,MA,02143,US,4028898463,"",EST,"",Active
+Bio Sol,Hair Salons,42.3922926932573,-71.0930040478706,296 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176256243,"",EST,"",Active
+Apartment Rental Experts,Real Estate Agents,42.397068,-71.122139,18 College Ave,Davis Square,Somerville,MA,02144,US,6176665031,"",EST,"",Active
+OTTO,Pizza,42.3741824179888,-71.1189034581184,1432 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174993352,"",EST,"",Active
+North End Fish Market,Sushi Bars,42.3639030456543,-71.0554885864258,99 Salem St,North End,Boston,MA,02113,US,8573627477,"",EST,"",Active
+Zo,Greek,42.3590850830078,-71.0601196289062,3 Center Plz,Downtown,Boston,MA,02108,US,6179016017,"",EST,"",Active
+St. Catherine of Genoa Parish,Churches,42.3873711,-71.1072311,179 Summer St,"Somerville, MA 02143",Somerville,MA,02143,US,6176662087,"",EST,"",Active
+JP Licks,Ice Cream & Frozen Yogurt,42.3728905,-71.1175079,1312 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174921001,"",EST,"",Active
+Boston Brewin Coffee,Coffee & Tea,42.3568821698427,-71.0604950040579,45 Bromfield St,Downtown,Boston,MA,02108,US,2526226732,"",EST,"",Active
+Harvard Faculty Club,Venues & Event Spaces,42.3732469983148,-71.1144089142329,20 Quincy St,Harvard Square,Cambridge,MA,02138,US,6174955758,"",EST,"",Active
+CHA Somerville Hospital Campus,Hospitals,42.390574067831,-71.1088800430298,230 Highland Ave.,"Somerville, MA 02143",Somerville,MA,02143,US,6175914500,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.381424,-71.0847473,90 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176665085,"",EST,"",Active
+Sarah's Market & Cafe,Grocery,42.38227804232,-71.130977064721,200 Concord Ave,Huron Village,Cambridge,MA,02138,US,6178765999,"",EST,"",Active
+Bagelsaurus,Sandwiches,42.3860588,-71.1194534,1796 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,8572856103,"",EST,"",Active
+Demet's Donuts,Donuts,42.4080276,-71.1040039,199 Mystic Ave,"Medford, MA 02155",Medford,MA,02155,US,7813958422,"",EST,"",Active
+Honeycomb Creamery,Ice Cream & Frozen Yogurt,42.39073,-71.09002,"Somerville, MA 02145",,Somerville,MA,02145,US,,"",EST,"",Active
+Intuition Massage Therapy and Life Coaching,Massage,42.39185,-71.09154,"Somerville, MA 02145",,Somerville,MA,02145,US,6178885358,"",EST,"",Active
+Giacomo's Ristorante,Italian,42.3645799,-71.05344,355 Hanover St,North End,Boston,MA,02113,US,6175239026,"",EST,"",Active
+Crema Cafe,Coffee & Tea,42.373415,-71.120771,27 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178762700,"",EST,"",Active
+Green Street,Lounges,42.364521,-71.104195,280 Green St,Central Square,Cambridge,MA,02139,US,6178761655,"",EST,"",Active
+Olecito,Mexican,42.3740382492542,-71.100494787097,12 Springfield St,Inman Square,Cambridge,MA,02139,US,6178761374,"",EST,"",Active
+Cocobeet,Juice Bars & Smoothies,42.3595570964192,-71.0589618846558,100 City Hall Plz,Downtown,Boston,MA,02108,US,8572638598,"",EST,"",Active
+Toscano,Italian,42.3742954075566,-71.1219486864798,52 Brattle St,Harvard Square,Cambridge,MA,02138,US,6173545250,"",EST,"",Active
+Fiorella's Express,Pizza,42.3974415406694,-71.1298887226868,2401 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6178689900,"",EST,"",Active
+DavidsTea,Coffee & Tea,42.3571470379829,-71.0585168749094,298 Washington St,Downtown,Boston,MA,02108,US,6172920098,"",EST,"",Active
+Santana's Plaza Café,Coffee & Tea,42.406241883491,-71.0620308282847,161 Main St,"Everett, MA 02149",Everett,MA,02149,US,6173872222,"",EST,"",Active
+Voltage Coffee & Art,Coffee & Tea,42.364367276425,-71.0832417399,295 3rd St,Kendall Square/MIT,Cambridge,MA,02142,US,6177143974,"",EST,"",Active
+The Capital Grille,Steakhouses,42.3477607644841,-71.0853301886383,900 Boylston St,Back Bay,Boston,MA,02115,US,6172628900,"",EST,"",Active
+Punjabi Dhaba,Indian,42.3738861083984,-71.1007995605469,225 Hampshire St,Inman Square,Cambridge,MA,02139,US,6175478272,"",EST,"",Active
+A. Adam Construction,Contractors,42.39547,-71.106056,13 Henderson St,"Somerville, MA 02145",Somerville,MA,02145,US,6173084680,"",EST,"",Active
+The Village Kitchen,Italian,42.38146,-71.13848,359 Huron Ave,Huron Village,Cambridge,MA,02138,US,6174913133,"",EST,"",Active
+Bagelsaurus,Sandwiches,42.3860588,-71.1194534,1796 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,8572856103,"",EST,"",Active
+Navy Yard Bistro & Wine Bar,American (New),42.3751096038333,-71.0549084841138,6th St,Charlestown,Charlestown,MA,02129,US,6172420036,"",EST,"",Active
+Matthew T McDonough,Criminal Defense Law,42.3969002,-71.1036301,482 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176257600,"",EST,"",Active
+New England Holocaust Memorial,Landmarks & Historical Buildings,42.3606210188223,-71.0570919513702,Congress St,Between North St and Hanover St,Boston,MA,02109,US,6176354505,"",EST,"",Active
+Izzy's Restaurant & Sub Shop,American (Traditional),42.3662872314453,-71.0955657958984,169 Harvard St,Kendall Square/MIT,Cambridge,MA,02139,US,6176613910,"",EST,"",Active
+Cafe Barada,Caterers,42.3947982788086,-71.1268615722656,2269 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6173544446,"",EST,"",Active
+City of Boston,Local Flavor,42.3603324890137,-71.0579986572266,1 City Hall Plz,Downtown,Boston,MA,02201,US,,"",EST,"",Active
+Ariana Restaurant,Afghan,42.3625232865598,-71.1388816773072,384 Western Ave,"Boston, MA 02135",Boston,MA,02135,US,6172088072,"",EST,"",Active
+Tree House Academy Childcare,Child Care & Day Care,42.378353,-71.107201,435 Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6178683800,"",EST,"",Active
+Oasis Brazilian Steakhouse,Brazilian,42.4052543640137,-71.1082382202148,373 Main St,"Medford, MA 02155",Medford,MA,02155,US,7813968337,"",EST,"",Active
+River Gods,Pubs,42.3640347,-71.1087176,125 River St,Central Square,Cambridge,MA,02139,US,6175761881,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.4135627746582,-71.1309280395508,379 Alewife Brook Pkwy,"Somerville, MA 02144",Somerville,MA,02144,US,6177180383,"",EST,"",Active
+Galleria Umberto,Pizza,42.36377812922,-71.0544499754906,289 Hanover St,North End,Boston,MA,02113,US,6172275709,"",EST,"",Active
+Pauli's,Sandwiches,42.363244212396,-71.0560854227807,65 Salem St,North End,Boston,MA,02113,US,8572847064,"",EST,"",Active
+Veggie Galaxy,Vegetarian,42.3636681909004,-71.101134969724,450 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174971513,"",EST,"",Active
+Ocean Ave Pops,Desserts,42.378067,-71.090652,201 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177022446,"",EST,"",Active
+The Plough & Stars,Music Venues,42.3683197,-71.1086916,912 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175760032,"",EST,"",Active
+The Boathouse,American (New),42.371337890625,-71.1168212890625,49 Mt Auburn St,Harvard Square,Cambridge,MA,02138,US,6173491650,"",EST,"",Active
+Park Restaurant & Bar,American (New),42.3718681,-71.1208725,59 JFK St,Harvard Square,Cambridge,MA,02138,US,6174919851,"",EST,"",Active
+Fix Boston Computers,IT Services & Computer Repair,42.38271,-71.10125,"Somerville, MA 02143",,Somerville,MA,02143,US,6175069420,"",EST,"",Active
+Melissa Blackall Photography,Photographers,42.38271,-71.10125,"Somerville, MA 02143",,Somerville,MA,02143,US,7742780057,"",EST,"",Active
+2nd Street Cafe,Sandwiches,42.36853,-71.0793,89 2nd St,East Cambridge,Cambridge,MA,02141,US,6176611311,"",EST,"",Active
+Regina Pizza,Pizza,42.3654185550275,-71.0568833173494,11 Thacher St,North End,Boston,MA,02113,US,6172270765,"",EST,"",Active
+Cambridge Canines,Dog Walkers,42.3903780228092,-71.122831427539,Porter Sq,Porter Square,Cambridge,MA,02140,US,6177675123,"",EST,"",Active
+Charles River Bike Paths,Parks,42.3603070472907,-71.0725625172882,Storrow and Memorial Dr,Beacon Hill,Boston,MA,02228,US,,"",EST,"",Active
+Petsi Pies,Bakeries,42.3689575195312,-71.1137161254883,31 Putnam Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174990801,"",EST,"",Active
+Somerville Auto Repair,Auto Repair,42.382484,-71.102859,453 Somerville Avenue,"Somerville, MA 02143",Somerville,MA,02143,US,6176251779,"",EST,"",Active
+Cafe Sushi,Sushi Bars,42.3707199,-71.1132889,1105 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174920434,"",EST,"",Active
+L'Espalier,French,42.3488797992468,-71.0815322399139,774 Boylston St,Back Bay,Boston,MA,02199,US,6172623023,"",EST,"",Active
+Shawarma Falafel,Middle Eastern,42.357013,-71.0597644,26 Province St,Downtown,Boston,MA,02108,US,8572653017,"",EST,"",Active
+M James Coiffures,Hair Salons,42.3928291350603,-71.0931327939034,9 Temple St,"Somerville, MA 02145",Somerville,MA,02145,US,6177764247,"",EST,"",Active
+Ames Street Deli,Bakeries,42.363038874263,-71.0882796589529,73 Ames St,Kendall Square/MIT,Cambridge,MA,02142,US,6173740701,"",EST,"",Active
+Somerville Public Library - West Branch,Libraries,42.398136,-71.121734,40 College Ave,Davis Square,Somerville,MA,02143,US,6176235000,"",EST,"",Active
+Erin Jones Skin Care,Skin Care,42.395493,-71.121887,259 Elm St,Ste 300B,Somerville,MA,02144,US,6176845285,"",EST,"",Active
+Red Lotus Massage and Bodywork,Massage Therapy,42.3991718,-71.1240559,"Somerville, MA 02144",,Somerville,MA,02144,US,6179037363,"",EST,"",Active
+Newtowne Variety,Sandwiches,42.3637733459473,-71.0968475341797,93 Windsor St,Kendall Square/MIT,Cambridge,MA,02139,US,6178685112,"",EST,"",Active
+Nike Factory Store,Shoe Stores,42.3945405,-71.0800813,300 Artisan Way,"Somerville, MA 02145",Somerville,MA,02145,US,6176294192,"",EST,"",Active
+Asta,American (New),42.3498513,-71.0891662,47 Massachusetts Ave,Back Bay,Boston,MA,02115,US,6175859575,"",EST,"",Active
+City Dog Training,Pet Training,42.3799515,-71.101532,321 B Washington St,"Somerville, MA 02143",Somerville,MA,02143,US,6176288862,"",EST,"",Active
+Piro Guy T & Sons,Cards & Stationery,42.395168,-71.10247,483 Medford Street,"Somerville, MA 02145",Somerville,MA,02145,US,6177762840,"",EST,"",Active
+O Ya,Japanese,42.3514083135866,-71.056866645813,9 E St Pl,Waterfront,Boston,MA,02111,US,6176549900,"",EST,"",Active
+Brendan Burns,Musical Instruments & Teachers,42.3974275,-71.113702,66 Josephine Ave,"Somerville, MA 02144",Somerville,MA,02144,US,8575402523,"",EST,"",Active
+Bed Bath & Beyond,Home Decor,42.3947227746248,-71.0835586488247,119 Middlesex Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176294423,"",EST,"",Active
+Hana Sushi,Sushi Bars,42.3966599,-71.1296463,2372 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6178682121,"",EST,"",Active
+Winter Hill Liquor Mart,"Beer, Wine & Spirits",42.3926165699959,-71.0931535810232,313 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176231313,"",EST,"",Active
+A & M Foreign Motors,Auto Repair,42.39455,-71.08812,400 Mystic Ave,"Somerville, MA 02155",Somerville,MA,02155,US,6177761760,"",EST,"",Active
+Darwin's Ltd,Delis,42.374,-71.12499,148 Mt Auburn St,Harvard Square,Cambridge,MA,02138,US,6173545233,"",EST,"",Active
+Tealuxe,Coffee & Tea,42.376794,-71.127636,0 Brattle St,Harvard Square,Cambridge,MA,02138,US,6174410077,"",EST,"",Active
+Bunker Hill Monument,Landmarks & Historical Buildings,42.3755913,-71.0614319,43 Monument Sq,Charlestown,Charlestown,MA,02129,US,6172425641,"",EST,"",Active
+Midge's House of Misery,Pizza,42.4059739,-71.13165,Waterhouse Street & Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,,"",EST,"",Active
+Bookcase Factory Outlet,Furniture Stores,42.386513,-71.116501,378 Beacon St,"Somerville, MA 02143",Somerville,MA,02143,US,6174917665,"",EST,"",Active
+Creative Signs,Graphic Design,42.3973808,-71.1039429,497 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176281420,"",EST,"",Active
+Tenoch Mexican,Mexican,42.3633091,-71.0517996,3 Lewis St,North End,Boston,MA,02110,US,6172489537,"",EST,"",Active
+Clover,Coffee & Tea,42.372464,-71.118349,7 Holyoke St,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+No. 9 Park,French,42.35762,-71.062789,9 Park St,Downtown,Boston,MA,02108,US,6177429991,"",EST,"",Active
+House of Chang,Chinese,42.3836097121239,-71.1336797475815,282 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175479888,"",EST,"",Active
+Tony's Barber Shop,Barbers,42.3921659588814,-71.0927505791187,294 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176239882,"",EST,"",Active
+Broadway Dry Cleaning,Dry Cleaning & Laundry,42.4003862589598,-71.1137442290783,736 Broadway,"Somerville, MA 02144",Somerville,MA,02144,US,6176233200,"",EST,"",Active
+Tatte Bakery & Cafe,Bakeries,42.36491,-71.08274,318 3rd St,Kendall Square/MIT,Mid-Cambridge,MA,02142,US,6173544200,"",EST,"",Active
+In House Café,Coffee & Tea,42.350837,-71.131071,194 Harvard Ave,Allston/Brighton,Allston,MA,02134,US,6176863350,"",EST,"",Active
+The Cellar,American (New),42.36947,-71.1109199,991 Massachusetts Ave,Central Square,Cambridge,MA,02138,US,6178762580,"",EST,"",Active
+Santouka,Ramen,42.37218,-71.11605,1 Bow St,Harvard Square,Cambridge,MA,02138,US,6179451460,"",EST,"",Active
+West Side Lounge,Lounges,42.3824462890625,-71.1200790405273,1680 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174415566,"",EST,"",Active
+T&T Ocean Liquors,"Beer, Wine & Spirits",42.3951351642609,-71.0976073890924,10 Main St,"Somerville, MA 02145",Somerville,MA,02145,US,6176281323,"",EST,"",Active
+The Home Depot,Nurseries & Gardening,42.3899784935583,-71.0794615745544,75 Mystic Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176230001,"",EST,"",Active
+The Shops at Porter,Japanese,42.3871916506057,-71.1187779364014,University Hall,1815 Massachusetts Ave,Cambridge,MA,02140,US,,"",EST,"",Active
+General Cleaning Services,Home Cleaning,42.39024,-71.097275,9 Dartmouth St,Apt 1,Somerville,MA,02145,US,6176946798,"",EST,"",Active
+Cambridge Common,American (Traditional),42.382133040905,-71.119461647643,1667 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6175471228,"",EST,"",Active
+Petsi Pies,Cafes,42.3715105,-71.0835507,594 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6179455278,"",EST,"",Active
+The Charles River,Active Life,42.3612747192383,-71.0749053955078,Storrow Dr,"Boston, MA 02114",Boston,MA,02114,US,,"",EST,"",Active
+Atlantic Fish Company,Seafood,42.3492217873536,-71.0811272917217,761 Boylston St,Back Bay,Boston,MA,02116,US,6172674000,"",EST,"",Active
+4A Coffee,Coffee & Tea,42.34552,-71.1267624,419 Harvard St,"Brookline, MA 02446",Brookline,MA,02446,US,6177384444,"",EST,"",Active
+SmAsh Training,Boot Camps,42.3991718,-71.1240559,Hodgkins-Curtin Park,150 Holland Ave,Somerville,MA,02144,US,2034647882,"",EST,"",Active
+Locatelli Smith Interiors,Furniture Reupholstery,42.3991718,-71.1240559,"Somerville, MA 02144",,Somerville,MA,02144,US,6176232899,"",EST,"",Active
+Morgan Evans,Musicians,42.3991718,-71.1240559,"Somerville, MA 02143",,Somerville,MA,02143,US,6173888402,"",EST,"",Active
+Wheelhouse,Breakfast & Brunch,42.3579261,-71.0539618,63 Broad St,Financial District,Boston,MA,02109,US,6174220082,"",EST,"",Active
+Oberon,Performing Arts,42.370948,-71.1143491,2 Arrow St,Harvard Square,Cambridge,MA,02138,US,6175478300,"",EST,"",Active
+CJ Doherty,Plumbing,42.4087791,-71.0926437,41 Locust St,"Medford, MA 02155",Medford,MA,02155,US,7813955400,"",EST,"",Active
+US Post Office,Post Offices,42.3924475908279,-71.0932910442352,320 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176665225,"",EST,"",Active
+Yume Wo Katare,Ramen,42.38939,-71.11976,1923 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6177144008,"",EST,"",Active
+La Internacional Foods Corporation,Grocery,42.3803696036339,-71.0975443571806,318 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177768855,"",EST,"",Active
+Mr. Clean Laundromat,Dry Cleaning & Laundry,42.377945,-71.09156,220 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176252862,"",EST,"",Active
+Area Four,Pizza,42.3630882820482,-71.0924215508739,500 Technology Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6177584444,"",EST,"",Active
+The North End,Local Flavor,42.3636176318038,-71.0547208786011,North End,"Boston, MA 02455",Boston,MA,02455,US,,"",EST,"",Active
+HarborWalk,Parks,42.36552,-71.05524,North End,"Boston, MA 02113",Boston,MA,02113,US,6174821722,"",EST,"",Active
+Will DaSilva - Benoit Real Estate,Real Estate Agents,42.3962234705687,-71.1221616715193,39 Davis Sq,Davis Square,Somerville,MA,02144,US,8578889619,"",EST,"",Active
+Mystic House of Pizza,Pizza,42.394192,-71.087631,362 Mystic Ave,"Somerville, MA 02145",Somerville,MA,02145,US,6176292000,"",EST,"",Active
+Deuxave,American (New),42.349521,-71.089166,371 Commonwealth Ave,Back Bay,Boston,MA,02115,US,6175175915,"",EST,"",Active
+Al's State Street Cafe,Sandwiches,42.35927,-71.05507,110 State St,"Boston, MA 02109",Boston,MA,02109,US,6177205555,"",EST,"",Active
+Tavern at the End of the World,Pubs,42.38218,-71.07938,108 Cambridge St,Charlestown,Charlestown,MA,02129,US,6172414999,"",EST,"",Active
+Shays Pub & Wine Bar,American (Traditional),42.3717754,-71.1208141,58 JFK St,Harvard Square,Cambridge,MA,02138,US,6178649161,"",EST,"",Active
+Shabu & Mein,Hot Pot,42.366246432066,-71.077893152833,148 1st St,Kendall Square/MIT,Cambridge,MA,02142,US,6175777888,"",EST,"",Active
+Mudflat Pottery School,Art Schools,42.387435,-71.081916,81 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176280589,"",EST,"",Active
+The Slutcracker: A Burlesque,Performing Arts,42.3962643742561,-71.1221200972795,55 Davis Sq,Davis Square,Somerville,MA,02144,US,6176255700,"",EST,"",Active
+Modern Pastry Shop,Bakeries,42.3632507324219,-71.0547409057617,257 Hanover St,North End,Boston,MA,02113,US,6175233783,"",EST,"",Active
+Your Garden Curator.,Landscaping,42.3930817,-71.1114807,176 Albion St,"Somerville, MA 02144",Somerville,MA,02144,US,6177100243,"",EST,"",Active
+SunBug Solar,Solar Installation,42.396225,-71.1213455,411 Highland Ave,Davis Square,Somerville,MA,02144,US,6175003938,"",EST,"",Active
+Friendship Auto School,Driving Schools,42.3908805847168,-71.1089172363281,235D Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177765911,"",EST,"",Active
+OggiGourmet,Pizza,42.3729897,-71.1182175,1350 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174926444,"",EST,"",Active
+Rangzen Tibetan Restaurant,Himalayan/Nepalese,42.3640312,-71.1032374,24 Pearl St,Central Square,Cambridge,MA,02139,US,6173548881,"",EST,"",Active
+Somerville Gas,Gas & Service Stations,42.3845223337412,-71.1007241159678,73 Summer St,"Somerville, MA 02143",Somerville,MA,02143,US,6177766667,"",EST,"",Active
+Angel Nails,Nail Salons,42.3794285210648,-71.095403709787,9 Union Sq,"Somerville, MA 02143",Somerville,MA,02143,US,6176664988,"",EST,"",Active
+Paris Model Nail,Nail Salons,42.3929405,-71.0935745,321 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,6176230745,"",EST,"",Active
+Carlo's Cucina Italiana,Italian,42.3529406636953,-71.1311222612858,131 Brighton Ave,Allston/Brighton,Allston,MA,02134,US,6172549759,"",EST,"",Active
+The Coffee Trike,Coffee & Tea,42.3527578278786,-71.0554103851318,Dewey Square,Waterfront,Boston,MA,02111,US,8570000000,"",EST,"",Active
+Benny Blanco Barber,Barbers,42.3896580934525,-71.1066095530987,199A Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176298307,"",EST,"",Active
+"M Hanif Butt, BDS DMD",Orthodontists,42.3936882019043,-71.118782043457,341 Summer St,Davis Square,Somerville,MA,02144,US,6176259400,"",EST,"",Active
+Mike & Patty's,Sandwiches,42.3485697036883,-71.0677027702332,12 Church St,"Boston, MA 02116",Boston,MA,02116,US,6174233447,"",EST,"",Active
+Mystic Coffee Roaster,Coffee & Tea,42.4179969727993,-71.1086634546518,30 Riverside Ave,"Medford, MA 02155",Medford,MA,02155,US,7813910042,"",EST,"",Active
+La Cascia's Bakery,Bakeries,42.403751373291,-71.1070175170898,418 Main St,"Medford, MA 02155",Medford,MA,02155,US,7813965041,"",EST,"",Active
+Ostra,Seafood,42.351574820241,-71.0673004388809,1 Charles St S,Back Bay,Boston,MA,02116,US,6174211200,"",EST,"",Active
+Museum of Modern Renaissance,Museums,42.39975,-71.117851,115 College Ave,"Somerville, MA 02144",Somerville,MA,02144,US,6176289303,"",EST,"",Active
+Kolbeh of Kabob,Middle Eastern,42.374027,-71.104652,1500 Cambridge St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178769400,"",EST,"",Active
+Cha Yen Thai Cookery,Thai,42.3707814,-71.1582909,613 Mt Auburn St,"Watertown, MA 02472",Watertown,MA,02472,US,6173930031,"",EST,"",Active
+George Dilboy Veterans of Foreign War,Venues & Event Spaces,42.393993,-71.120041,371 Summer Street,Davis Square,Somerville,MA,02144,US,6176668794,"",EST,"",Active
+Saus,Belgian,42.3610800091721,-71.0570718850568,33 Union St,"Boston, MA 02108",Boston,MA,02108,US,6172488835,"",EST,"",Active
+Fish Market Sushi Bar,Sushi Bars,42.3530513048172,-71.1329669505358,170 Brighton Ave,Allston/Brighton,Allston,MA,02134,US,6177831268,"",EST,"",Active
+Toscano Restaurant,Italian,42.357408381604,-71.069847310732,47 Charles St,Beacon Hill,Boston,MA,02114,US,6177234090,"",EST,"",Active
+Harvard Vanguard Medical Associates,Medical Centers,42.3975169658661,-71.123410910368,40 Holland St,Davis Square,Somerville,MA,02144,US,6176296000,"",EST,"",Active
+"John Saragas, MD",Laser Eye Surgery/Lasik,42.3963432312012,-71.1214904785156,413 Highland Ave,Davis Square,Somerville,MA,02144,US,6176231900,"",EST,"",Active
+Angelo's Pizza,Pizza,42.37294,-71.11071,444 Broadway,Harvard Square,Cambridge,MA,02138,US,6176618049,"",EST,"",Active
+Inman Square,Landmarks & Historical Buildings,42.3737183,-71.1007996,Cambridge & Hampshire St,Inman Square,Cambridge,MA,02139,US,,"",EST,"",Active
+Border Café,Tex-Mex,42.374278750456,-71.120297821449,32 Church St,Harvard Square,Cambridge,MA,02138,US,6178646100,"",EST,"",Active
+Boston Common,Parks,42.3553726380041,-71.0657501220703,Beacon St,"Boston, MA 02139",Boston,MA,02139,US,3045634951,"",EST,"",Active
+Garlic 'n Lemons,Middle Eastern,42.3521091789007,-71.1318954080343,133 Harvard Ave,Allston/Brighton,Allston,MA,02134,US,6177838100,"",EST,"",Active
+Ernesto's,Pizza,42.363353729248,-71.0558242797852,69 Salem St,North End,Boston,MA,02113,US,6175231373,"",EST,"",Active
+Locale,Italian,42.3650849,-71.053187,352 Hanover St,North End,Boston,MA,02113,US,6177429600,"",EST,"",Active
+Cigar and Lounge,Tobacco Shops,42.3682996630669,-71.1609511077404,56 Dexter Ave,"Watertown, MA 02472",Watertown,MA,02472,US,6173931645,"",EST,"",Active
+Mistral,French,42.3481578332115,-71.072759141675,223 Columbus Ave,Back Bay,Boston,MA,02116,US,6178679300,"",EST,"",Active
+Asian House Restaurant,Asian Fusion,42.3825314691829,-71.079182633555,99 Cambridge St,Charlestown,Boston,MA,02129,US,6172424165,"",EST,"",Active
+Eastern Standard Kitchen and Drinks,American (New),42.348740324378,-71.0960168391466,528 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6175329100,"",EST,"",Active
+El Pelón Taquería,Mexican,42.3432216793299,-71.0989652574062,92 Peterborough St,Fenway,Boston,MA,02215,US,6172629090,"",EST,"",Active
+The Similans,Thai,42.36631,-71.07805,145 1st St,Kendall Square/MIT,Cambridge,MA,02142,US,6174916999,"",EST,"",Active
+"Richard Michalowski, DDS DMD",General Dentistry,42.3971481,-71.123291,20 Holland St,Ste 400,Somerville,MA,02144,US,6177643440,"",EST,"",Active
+Cafe Zing,Coffee & Tea,42.389626783162,-71.11900032752,25 White St,Porter Square,Cambridge,MA,02140,US,6174979464,"",EST,"",Active
+Pearl Street Auto Sales,Gas & Service Stations,42.3866312205791,-71.0910051316023,180 Pearl St,"Somerville, MA 02145",Somerville,MA,02145,US,6176165789,"",EST,"",Active
+Top Performance Fitness,Trainers,42.403576746583,-71.1279887706041,1180 Broadway,Teele Square,Somerville,MA,02143,US,6174800855,"",EST,"",Active
+The Hawthorne,Cocktail Bars,42.3486925877382,-71.0953666879285,Hotel Commonwealth,500A Commonwealth Ave,Boston,MA,02215,US,6175329150,"",EST,"",Active
+Trustedwalker,Dog Walkers,42.4023017883301,-71.1203689575195,"Somerville, MA 02144",,Somerville,MA,02144,US,5613018044,"",EST,"",Active
+All Boston Apartments,Apartments,42.395465,-71.1197274,387 Highland Ave,Davis Square,Somerville,MA,02144,US,6176231600,"",EST,"",Active
+Bliss Massage Studio,Massage,42.3749695,-71.0851364,14 McGrath Hwy,"Somerville, MA 02143",Somerville,MA,02143,US,3395328037,"",EST,"",Active
+Royal Pastry Shop,Bakeries,42.371955871582,-71.0892181396484,738 Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6175472053,"",EST,"",Active
+Mulligans,Sandwiches,42.3641167,-71.0593948,83 Canal St,"Boston, MA 02114",Boston,MA,02114,US,6172481520,"",EST,"",Active
+"Cambridge, 1.",Pizza,42.3745231628418,-71.1200332641602,27 Church St,Harvard Square,Cambridge,MA,02138,US,6175761111,"",EST,"",Active
+Thinking Cup,Coffee & Tea,42.3539183288813,-71.0639215260744,165 Tremont St,"Boston, MA 02111",Boston,MA,02111,US,6174825555,"",EST,"",Active
+Cambridge Deli & Grill,Delis,42.3641281,-71.1077576,90 River St,Central Square,Cambridge,MA,02139,US,6178686740,"",EST,"",Active
+Punjab Palace,Indian,42.352732,-71.130435,109 Brighton Ave,Allston/Brighton,Allston,MA,02134,US,6172541500,"",EST,"",Active
+Temple Bar,American (New),42.38273,-71.12006,1688 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6175475055,"",EST,"",Active
+Render Coffee,Cafes,42.3411102,-71.0815582,563 Columbus Ave,"Boston, MA 02118",Boston,MA,02118,US,6172624142,"",EST,"",Active
+All Star Pizza Bar,Pizza,42.373222,-71.098045,1238 Cambridge St,Inman Square,Cambridge,MA,02139,US,6175470836,"",EST,"",Active
+Bon Me,Vietnamese,42.3665695,-71.0901871,1 Kendall Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6179899804,"",EST,"",Active
+Falafel King,Falafel,42.35607,-71.061827,48 Winter St,Ste 1,Boston,MA,02108,US,6173388355,"",EST,"",Active
+The Blue Room,Mediterranean,42.36657,-71.09019,Hampshire and Portland,"1 Kendall Sq, Ste 200",Cambridge,MA,02139,US,6174949034,"",EST,"",Active
+Ole,Mexican,42.3740653991699,-71.1001586914062,11 Springfield St,Inman Square,Cambridge,MA,02139,US,6174924495,"",EST,"",Active
+Boston Tea Stop,Coffee & Tea,42.3718298384495,-71.1206388473511,54 JFK St,Harvard Square,Cambridge,MA,02138,US,6179450017,"",EST,"",Active
+Christopher's,Bars,42.3890113830566,-71.1200332641602,1920 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178769180,"",EST,"",Active
+The Harvard Bridge,Local Flavor,42.3534738755083,-71.0907571937319,Massachusetts Ave Bridge,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+Caffè Nero,Coffee & Tea,42.3535129107984,-71.0623134436442,560 Washington St,Chinatown,Boston,MA,02111,US,6179363432,"",EST,"",Active
+Avana Sushi,Japanese,42.3515687774432,-71.0609107137522,42 Beach St,Chinatown,Boston,MA,02111,US,6178187782,"",EST,"",Active
+Anton's Cleaners,Dry Cleaning & Laundry,42.3860512,-71.1143036,723 Somerville Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6177766364,"",EST,"",Active
+Clover,Coffee & Tea,42.3730270564556,-71.0950277745724,1075 Cambridge St,Inman Square,Cambridge,MA,02141,US,,"",EST,"",Active
+Andala Coffee House,Coffee & Tea,42.364874,-71.105764,286 Franklin St,Central Square,Cambridge,MA,02139,US,6179452212,"",EST,"",Active
+The Muddy Charles Pub at MIT,Pubs,42.3591766,-71.0877228,142 Memorial Dr,Kendall Square/MIT,Cambridge,MA,02139,US,6172532086,"",EST,"",Active
+Gyro City,Greek,42.3431622796524,-71.0989929288362,88 Peterborough St,Fenway,Boston,MA,02215,US,6172664976,"",EST,"",Active
+Somerville YMCA,Gyms,42.3873291,-71.09935,101 Highland Ave,"Somerville, MA 02143",Somerville,MA,02143,US,6176255050,"",EST,"",Active
+Grotto,Italian,42.359920501709,-71.0631332397461,37 Bowdoin St,Beacon Hill,Boston,MA,02114,US,6172273434,"",EST,"",Active
+Assembly Sports Club,Gyms,42.3906141,-71.0820257,"Somerville, MA 02145",,Somerville,MA,02145,US,6176284272,"",EST,"",Active
+Hillside Auto Repair,Auto Repair,42.39864,-71.10799,583 Broadway,"Somerville, MA 02145",Somerville,MA,02145,US,7813959679,"",EST,"",Active
+Central Kitchen,American (New),42.3648499,-71.10248,567 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174915599,"",EST,"",Active
+Brookline Lunch,Diners,42.3637641,-71.1017365,9 Brookline St,Central Square,Cambridge,MA,02139,US,6173542983,"",EST,"",Active
+Stone Place Park,Parks,42.3803406,-71.0951004,Stone Place,Sanborn Court,Somerville,MA,02143,US,,"",EST,"",Active
+Knight Moves,Cafes,42.3414485,-71.1250103,1402 Beacon St,Coolidge Corner,Brookline,MA,02446,US,6174875259,"",EST,"",Active
+Thinking Cup,Coffee & Tea,42.351938,-71.074951,85 Newbury St,Back Bay,Boston,MA,02116,US,6172473333,"",EST,"",Active
+Cafe Deia,Breakfast & Brunch,42.404747,-71.1075745,394 Main St,Ste B,Medford,MA,02155,US,7812194929,"",EST,"",Active
+Cafe Madeleine,Bakeries,42.3420690000057,-71.0799805819988,517 Columbus Ave,South End,Boston,MA,02118,US,8572398052,"",EST,"",Active
+Hair Cuttery,Hair Salons,42.3952642180573,-71.078265682721,495 Artisan Way,"Somerville, MA 02145",Somerville,MA,02145,US,6176280308,"",EST,"",Active
+Rite Aid,Drugstores,42.3957945495716,-71.1199647944428,393 Highland Ave,Davis Square,Somerville,MA,02143,US,6177767730,"",EST,"",Active
+The Daily Catch,Italian,42.3640594,-71.0539703,323 Hanover St,North End,Boston,MA,02113,US,6175238567,"",EST,"",Active
+Scampo,Italian,42.3619616026651,-71.0704138066145,The Liberty Hotel,215 Charles St,Boston,MA,02114,US,6175362100,"",EST,"",Active
+Four Wheels Auto Repair,Auto Repair,42.3912419378757,-71.1066256463528,83 Albion Street,"Somerville, MA 02143",Somerville,MA,02143,US,6176290030,"",EST,"",Active
+Winn Dry Cleaners,Dry Cleaning & Laundry,42.3973231762648,-71.1218632757664,22 College Ave,Davis Square,Somerville,MA,02144,US,6176235458,"",EST,"",Active
+Pho Viet's,Vietnamese,42.3523331,-71.1247025,1095 Commonwealth Ave,Allston/Brighton,Boston,MA,02228,US,6175628828,"",EST,"",Active
+Shaw's,Grocery,42.3749695,-71.0851364,Twin City Plaza,14 McGrath Hwy,Somerville,MA,02143,US,6176254070,"",EST,"",Active
+Roy's Cold Cuts,Delis,42.3755264282227,-71.0346527099609,198 Marion St,East Boston,Boston,MA,02128,US,6175679760,"",EST,"",Active
+The Abbey,American (New),42.3851057658005,-71.1191113498644,1755 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6177144944,"",EST,"",Active
+Theo's Cozy Corner,Breakfast & Brunch,42.3660926818848,-71.0551147460938,162 Salem St,North End,Boston,MA,02113,US,6172410202,"",EST,"",Active
+State Park,Southern,42.3661738054722,-71.0909571161469,1 Kendall Sq,Bldg 300 Lower Level,Cambridge,MA,02139,US,6178484355,"",EST,"",Active

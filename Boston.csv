@@ -1,0 +1,981 @@
+Name,Brand*,Lat*,Lng*,Address1,Address2,City,State,Zip code,Country,Phone,Store hours,Time zone,Dma Code,Status*
+Giacomo's Ristorante,Italian,42.3645799,-71.05344,355 Hanover St,North End,Boston,MA,02113,US,6175239026,"",EST,"",Active
+Shawarma Falafel,Middle Eastern,42.357013,-71.0597644,26 Province St,Downtown,Boston,MA,02108,US,8572653017,"",EST,"",Active
+North End Fish Market,Sushi Bars,42.3639030456543,-71.0554885864258,99 Salem St,North End,Boston,MA,02113,US,8573627477,"",EST,"",Active
+City of Boston,Local Flavor,42.3603324890137,-71.0579986572266,1 City Hall Plz,Downtown,Boston,MA,02201,US,,"",EST,"",Active
+Galleria Umberto,Pizza,42.36377812922,-71.0544499754906,289 Hanover St,North End,Boston,MA,02113,US,6172275709,"",EST,"",Active
+Tenoch Mexican,Mexican,42.3633091,-71.0517996,3 Lewis St,North End,Boston,MA,02110,US,6172489537,"",EST,"",Active
+Pauli's,Sandwiches,42.363244212396,-71.0560854227807,65 Salem St,North End,Boston,MA,02113,US,8572847064,"",EST,"",Active
+Flour Bakery + Café,Bakeries,42.3513679504395,-71.0488128662109,12 Farnsworth St,Waterfront,Boston,MA,02210,US,6173384333,"",EST,"",Active
+Al's State Street Cafe,Sandwiches,42.35927,-71.05507,110 State St,"Boston, MA 02109",Boston,MA,02109,US,6177205555,"",EST,"",Active
+Mike & Patty's,Sandwiches,42.3485697036883,-71.0677027702332,12 Church St,"Boston, MA 02116",Boston,MA,02116,US,6174233447,"",EST,"",Active
+No. 9 Park,French,42.35762,-71.062789,9 Park St,Downtown,Boston,MA,02108,US,6177429991,"",EST,"",Active
+Avana Sushi,Japanese,42.3515687774432,-71.0609107137522,42 Beach St,Chinatown,Boston,MA,02111,US,6178187782,"",EST,"",Active
+Fenway Park,Stadiums & Arenas,42.3463520835969,-71.0976473255867,4 Yawkey Way,Fenway,Boston,MA,02115,US,8777337699,"",EST,"",Active
+Regina Pizza,Pizza,42.3654185550275,-71.0568833173494,11 Thacher St,North End,Boston,MA,02113,US,6172270765,"",EST,"",Active
+James Hook & Co,Seafood,42.355005189947,-71.050886414287,440 Atlantic Ave,Waterfront,Boston,MA,02110,US,6174235501,"",EST,"",Active
+The North End,Local Flavor,42.3636176318038,-71.0547208786011,North End,"Boston, MA 02455",Boston,MA,02455,US,,"",EST,"",Active
+Modern Pastry Shop,Bakeries,42.3632507324219,-71.0547409057617,257 Hanover St,North End,Boston,MA,02113,US,6175233783,"",EST,"",Active
+Ostra,Seafood,42.351574820241,-71.0673004388809,1 Charles St S,Back Bay,Boston,MA,02116,US,6174211200,"",EST,"",Active
+Caffè Nero,Coffee & Tea,42.3535129107984,-71.0623134436442,560 Washington St,Chinatown,Boston,MA,02111,US,6179363432,"",EST,"",Active
+Saus,Belgian,42.3610800091721,-71.0570718850568,33 Union St,"Boston, MA 02108",Boston,MA,02108,US,6172488835,"",EST,"",Active
+HarborWalk,Parks,42.36552,-71.05524,North End,"Boston, MA 02113",Boston,MA,02113,US,6174821722,"",EST,"",Active
+Biddy Early's,Dive Bars,42.3546486,-71.0537415,141 Pearl St,Financial District,Boston,MA,02110,US,6176549944,"",EST,"",Active
+Thinking Cup,Coffee & Tea,42.3539183288813,-71.0639215260744,165 Tremont St,"Boston, MA 02111",Boston,MA,02111,US,6174825555,"",EST,"",Active
+Grass Roots Cafe,Sandwiches,42.3549818247557,-71.0585443675518,101 Arch St,Downtown,Boston,MA,02110,US,6179512124,"",EST,"",Active
+Row 34,American (New),42.3496337161869,-71.0473232766807,383 Congress St,Waterfront,Boston,MA,02210,US,6175535900,"",EST,"",Active
+Mistral,French,42.3481578332115,-71.072759141675,223 Columbus Ave,Back Bay,Boston,MA,02116,US,6178679300,"",EST,"",Active
+Falafel King,Falafel,42.35607,-71.061827,48 Winter St,Ste 1,Boston,MA,02108,US,6173388355,"",EST,"",Active
+Locale,Italian,42.3650849,-71.053187,352 Hanover St,North End,Boston,MA,02113,US,6177429600,"",EST,"",Active
+L'Espalier,French,42.3488797992468,-71.0815322399139,774 Boylston St,Back Bay,Boston,MA,02199,US,6172623023,"",EST,"",Active
+Barcelona Wine Bar South End,Spanish,42.3445511,-71.0708542,525 Tremont St,South End,Boston,MA,02116,US,6172662600,"",EST,"",Active
+Ernesto's,Pizza,42.363353729248,-71.0558242797852,69 Salem St,North End,Boston,MA,02113,US,6175231373,"",EST,"",Active
+Boston Common,Parks,42.3553726380041,-71.0657501220703,Beacon St,"Boston, MA 02139",Boston,MA,02139,US,3045634951,"",EST,"",Active
+The Capital Grille,Steakhouses,42.3477607644841,-71.0853301886383,900 Boylston St,Back Bay,Boston,MA,02115,US,6172628900,"",EST,"",Active
+Roy's Cold Cuts,Delis,42.3755264282227,-71.0346527099609,198 Marion St,East Boston,Boston,MA,02128,US,6175679760,"",EST,"",Active
+Render Coffee,Cafes,42.3411102,-71.0815582,563 Columbus Ave,"Boston, MA 02118",Boston,MA,02118,US,6172624142,"",EST,"",Active
+Ogawa Coffee,Coffee & Tea,42.3567795753479,-71.0579220950603,10 Milk St,Downtown,Boston,MA,02108,US,6177807139,"",EST,"",Active
+DavidsTea,Coffee & Tea,42.3420601,-71.0757675,661 Tremont St,South End,Boston,MA,02118,US,6175859534,"",EST,"",Active
+Pita Thyme,Lebanese,42.3580650427804,-71.0550380316331,102 Water St,Financial District,Boston,MA,02109,US,6177427482,"",EST,"",Active
+Italian Express Pizzeria,Italian,42.367273879279,-71.035738156977,336 Sumner St,East Boston,Boston,MA,02128,US,6175610038,"",EST,"",Active
+Clover,Food Trucks,42.3529583942053,-71.0558474063873,Dewey Sq,Waterfront,Boston,MA,02111,US,,"",EST,"",Active
+Picco,Ice Cream & Frozen Yogurt,42.3447380009299,-71.070559652418,513 Tremont St,South End,Boston,MA,02116,US,6179270066,"",EST,"",Active
+Atlantic Fish Company,Seafood,42.3492217873536,-71.0811272917217,761 Boylston St,Back Bay,Boston,MA,02116,US,6172674000,"",EST,"",Active
+Shabu-Zen,Japanese,42.350822,-71.060475,16 Tyler St,Chinatown,Boston,MA,02111,US,6172928828,"",EST,"",Active
+The Daily Catch,Italian,42.3640594,-71.0539703,323 Hanover St,North End,Boston,MA,02113,US,6175238567,"",EST,"",Active
+Cafe Madeleine,Bakeries,42.3420690000057,-71.0799805819988,517 Columbus Ave,South End,Boston,MA,02118,US,8572398052,"",EST,"",Active
+Drink,Lounges,42.3506699,-71.0484619,348 Congress St,Waterfront,Boston,MA,02228,US,6176951806,"",EST,"",Active
+Charles River Bike Paths,Parks,42.3603070472907,-71.0725625172882,Storrow and Memorial Dr,Beacon Hill,Boston,MA,02228,US,,"",EST,"",Active
+Blunch,Breakfast & Brunch,42.3354929990873,-71.0747301578522,59 E Springfield St,South End,Boston,MA,02118,US,6172478100,"",EST,"",Active
+Island Creek Oyster Bar,Seafood,42.348682243174,-71.095118452365,500 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6175325300,"",EST,"",Active
+Da Vinci,Italian,42.3493148,-71.07076,162 Columbus Ave,Back Bay,Boston,MA,02116,US,6173500007,"",EST,"",Active
+Mamma Maria,Italian,42.3640543,-71.0533338,3 N Square,North End,Boston,MA,02113,US,6175230077,"",EST,"",Active
+Toscano Restaurant,Italian,42.357408381604,-71.069847310732,47 Charles St,Beacon Hill,Boston,MA,02114,US,6177234090,"",EST,"",Active
+Mulligans,Sandwiches,42.3641167,-71.0593948,83 Canal St,"Boston, MA 02114",Boston,MA,02114,US,6172481520,"",EST,"",Active
+Flour Bakery & Cafe,Bakeries,42.338443,-71.074548,1595 Washington St,South End,Boston,MA,02118,US,6172674300,"",EST,"",Active
+Bonapita,Mediterranean,42.3556009,-71.0586968,49 Franklin St,Downtown,Boston,MA,02110,US,8573504606,"",EST,"",Active
+Grotto,Italian,42.359920501709,-71.0631332397461,37 Bowdoin St,Beacon Hill,Boston,MA,02114,US,6172273434,"",EST,"",Active
+Thinking Cup,Coffee & Tea,42.3633754209916,-71.0550363743384,236 Hanover St,North End,Boston,MA,02113,US,8572335277,"",EST,"",Active
+Toro,Tapas Bars,42.3370768,-71.0760316,1704 Washington St,South End,Boston,MA,02118,US,6175364300,"",EST,"",Active
+Taranta Cucina Meridionale,Latin American,42.363031,-71.0555801,210 Hanover St,North End,Boston,MA,02113,US,6177200052,"",EST,"",Active
+Banh Mi House,Bubble Tea,42.3559303,-71.0619736,48 Winter St,Downtown,Boston,MA,02108,US,6179564039,"",EST,"",Active
+Shojo,Asian Fusion,42.3510322719812,-71.0607028752565,9A Tyler St,Chinatown,Boston,MA,02111,US,6174237888,"",EST,"",Active
+My Diner,Diners,42.3427851498127,-71.0544767975807,98 A St,South Boston,Boston,MA,02127,US,6172689889,"",EST,"",Active
+Yvonne's,American (New),42.35549,-71.06141,2 Winter Pl,Downtown,Boston,MA,02108,US,6172670047,"",EST,"",Active
+Ko Pies At the Shipyard,American (New),42.3642387,-71.032753,256 Marginal St,Bldg 16,Boston,MA,02128,US,6174185234,"",EST,"",Active
+Flour Bakery + Café,American (New),42.3483420163393,-71.0740153491497,131 Clarendon St,Back Bay,Boston,MA,02116,US,6174377700,"",EST,"",Active
+Theo's Cozy Corner,Breakfast & Brunch,42.3660926818848,-71.0551147460938,162 Salem St,North End,Boston,MA,02113,US,6172410202,"",EST,"",Active
+Egg Puffs,Desserts,42.3516293312528,-71.0608778893948,42 Beach St,Chinatown,Boston,MA,02111,US,,"",EST,"",Active
+Barrington Coffee Roasting Company,Coffee & Tea,42.3506966,-71.0486984,346 Congress St,Waterfront,Boston,MA,02210,US,8572771914,"",EST,"",Active
+Al's South Street Cafe,Sandwiches,42.3520819,-71.0573908,179 Essex St,Waterfront,Boston,MA,02111,US,6173301002,"",EST,"",Active
+Granary Burial Ground,Landmarks & Historical Buildings,42.357037579692594,-71.0615658760071,101a Tremont St,Downtown,Boston,MA,02108,US,6176354505,"",EST,"",Active
+The Well Coffee House,Coffee & Tea,42.3516830317191,-71.0551238669604,2 South Station,Ste A6,Boston,MA,02011,US,,"",EST,"",Active
+Thinking Cup,Coffee & Tea,42.351938,-71.074951,85 Newbury St,Back Bay,Boston,MA,02116,US,6172473333,"",EST,"",Active
+Asta,American (New),42.3498513,-71.0891662,47 Massachusetts Ave,Back Bay,Boston,MA,02115,US,6175859575,"",EST,"",Active
+Sorellina,Italian,42.3480695590921,-71.0781222595259,1 Huntington Ave,Back Bay,Boston,MA,02116,US,6174124600,"",EST,"",Active
+Kaze Shabu Shabu,Japanese,42.3522693,-71.0614931,1 Harrison Ave,Chinatown,Boston,MA,02111,US,6173388283,"",EST,"",Active
+Rino's Place,Italian,42.378294552494,-71.032104213469,258 Saratoga St,East Boston,Boston,MA,02128,US,6175677412,"",EST,"",Active
+Carmelina's,Italian,42.3640943,-71.0541488,307 Hanover St,North End,Boston,MA,02113,US,6177420020,"",EST,"",Active
+Marliave,French,42.357014071346,-71.060306250729,10 Bosworth St,Downtown,Boston,MA,02108,US,6174220004,"",EST,"",Active
+Jm Curley,American (New),42.3551788330078,-71.0623931884766,21 Temple Pl,Downtown,Boston,MA,02111,US,6173385333,"",EST,"",Active
+Dino's,Italian,42.365123257041,-71.0554242879152,141 Salem St,North End,Boston,MA,02113,US,6172271991,"",EST,"",Active
+Chicken & Rice Guys - Catering & Food Trucks,Chicken Wings,42.3592837851859,-71.0595243236817,Downtown,"Boston, MA 02116",Boston,MA,02116,US,6179038538,"",EST,"",Active
+Chacarero,Sandwiches,42.3549818247557,-71.0585443675518,101 Arch St,Downtown,Boston,MA,02108,US,6175420392,"",EST,"",Active
+Prezza,Italian,42.36473,-71.0527,24 Fleet St,North End,Boston,MA,02113,US,6172271577,"",EST,"",Active
+The Charles River,Active Life,42.3612747192383,-71.0749053955078,Storrow Dr,"Boston, MA 02114",Boston,MA,02114,US,,"",EST,"",Active
+Jacques Cabaret,Performing Arts,42.349911108613,-71.0672561824322,79 Broadway,"Boston, MA 02116",Boston,MA,02116,US,6174268902,"",EST,"",Active
+sweetgreen,Salad,42.3500447371692,-71.0479737950144,372 Congress St,Waterfront,Boston,MA,02210,US,8572637916,"",EST,"",Active
+Al Dente Restaurant,Italian,42.3642272949219,-71.0553665161133,109 Salem St,North End,Boston,MA,02113,US,6175230990,"",EST,"",Active
+Sportello,Italian,42.3505159467459,-71.0485987365246,348 Congress St,Waterfront,Boston,MA,02210,US,6177371234,"",EST,"",Active
+Santarpio's Pizza,Pizza,42.3726043701172,-71.0352554321289,111 Chelsea St,East Boston,Boston,MA,02128,US,6175679871,"",EST,"",Active
+Cafe Gigu,Cafes,42.3728274,-71.0392549,102 Meridian St,East Boston,Boston,MA,02128,US,6175614448,"",EST,"",Active
+Deuxave,American (New),42.349521,-71.089166,371 Commonwealth Ave,Back Bay,Boston,MA,02115,US,6175175915,"",EST,"",Active
+sweetgreen,Salad,42.35002,-71.07866,659 Boylston St,Back Bay,Boston,MA,02116,US,6179363464,"",EST,"",Active
+Zo,Greek,42.3592415,-71.0553207,Merchants Row Entrance,92 State St,Boston,MA,02109,US,,"",EST,"",Active
+Cuppacoffee,Coffee & Tea,42.3633245,-71.0606972,1 Merrimac St,Downtown,Boston,MA,02114,US,6172480011,"",EST,"",Active
+Bostonia Public House,American (New),42.3589973449707,-71.0542373657227,131 State St,Financial District,Boston,MA,02109,US,6179489800,"",EST,"",Active
+Orinoco,Latin American,42.3388543725014,-71.0758392512798,477 Shawmut Ave,South End,Boston,MA,02118,US,6173697075,"",EST,"",Active
+Limoncello Ristorante,Italian,42.3633328825235,-71.0539074987173,190 North St,North End,Boston,MA,02113,US,6175234480,"",EST,"",Active
+Shakespeare on the Common,Parks,42.3507957458496,-71.076545715332,Boston Common,"Boston, MA 02116",Boston,MA,02116,US,6174260863,"",EST,"",Active
+Silvertone,Bars,42.3571472,-71.0608749,69 Bromfield St,Downtown,Boston,MA,02108,US,6173387887,"",EST,"",Active
+Hillstone Restaurant,American (New),42.3591464425085,-71.0555362701416,60 State St,"Boston, MA 02109",Boston,MA,02109,US,6175739777,"",EST,"",Active
+Equal Exchange Café,Coffee & Tea,42.3667793,-71.0594101,226 Causeway St,North End,Boston,MA,02114,US,6173728777,"",EST,"",Active
+The Tap Trailhouse,American (Traditional),42.3609285960884,-71.056898076297,19 Union St,"Boston, MA 02108",Boston,MA,02108,US,6173670033,"",EST,"",Active
+Cafe Polonia,Polish,42.32878,-71.05712,611 Dorchester Ave,South Boston,Boston,MA,02127,US,6172690110,"",EST,"",Active
+Mr. Dooley's,Irish,42.35765,-71.0536599,77 Broad St,Financial District,Boston,MA,02109,US,6173385656,"",EST,"",Active
+Stoked Wood Fired Pizza,Food Trucks,42.3531626418461,-71.0556462478491,Waterfront,"Boston, MA 02110",Boston,MA,02110,US,6179823473,"",EST,"",Active
+Boston Kebab House,Turkish,42.3578242957592,-71.0551781952381,7 Liberty Sq,Financial District,Boston,MA,02109,US,6172276900,"",EST,"",Active
+Coppa,Italian,42.3434600830078,-71.068733215332,253 Shawmut Ave,South End,Boston,MA,02118,US,6173910902,"",EST,"",Active
+The Salty Pig,American (New),42.3463669,-71.0757446,130 Dartmouth St,Back Bay,Boston,MA,02116,US,6175366200,"",EST,"",Active
+Meritage Restaurant,American (New),42.3565521,-71.0505981,70 Rowes Wharf,Waterfront,Boston,MA,02110,US,6174393995,"",EST,"",Active
+Taqueria Jalisco,Mexican,42.3787193,-71.028183,291 Bennington St,East Boston,Boston,MA,02128,US,6175676367,"",EST,"",Active
+Panza,Italian,42.364584133029,-71.053721755743,326 Hanover St,North End,Boston,MA,02113,US,6175579248,"",EST,"",Active
+Troquet,French,42.3522682,-71.0662308,140 Boylston St,"Boston, MA 02116",Boston,MA,02116,US,6176959463,"",EST,"",Active
+Sip Cafe,Sandwiches,42.3560703332238,-71.0553216934204,0 Post Office Sq,Financial District,Boston,MA,02109,US,6173383080,"",EST,"",Active
+Scampo,Italian,42.3619616026651,-71.0704138066145,The Liberty Hotel,215 Charles St,Boston,MA,02114,US,6175362100,"",EST,"",Active
+Bistro Du Midi,French,42.351981434352,-71.069533707682,272 Boylston St,Back Bay,Boston,MA,02116,US,6174267878,"",EST,"",Active
+Pedro's Tacos,Mexican,42.356927767396,-71.0605996102095,55 Bromfield St,Downtown,Boston,MA,02108,US,6174828822,"",EST,"",Active
+New Dong Khanh,Vietnamese,42.350983992219,-71.0614418238401,83 Harrison Ave,Chinatown,Boston,MA,02111,US,6174269410,"",EST,"",Active
+Fleming's Prime Steakhouse & Wine Bar,Wine Bars,42.3507765,-71.0680852,217 Stuart St,Back Bay,Boston,MA,02116,US,6172920808,"",EST,"",Active
+My Cousin's Place,Cafes,42.3659527825682,-71.0529154596387,396 Hanover St,North End,Boston,MA,02113,US,8573503029,"",EST,"",Active
+Billy's Sub Shop,Diners,42.34662,-71.07046,57 Berkeley St,South End,Boston,MA,02116,US,6174261822,"",EST,"",Active
+Figaro's,Delis,42.3506813049316,-71.0583190917969,105 beach St,Waterfront,Boston,MA,02111,US,6174262121,"",EST,"",Active
+Flat Black Coffee Company,Coffee & Tea,42.3580284,-71.0537262,50 Broad St,Financial District,Boston,MA,02109,US,6179511440,"",EST,"",Active
+Pho Basil,Vietnamese,42.345767,-71.087371,177 Massachusetts Ave,Ste A,Boston,MA,02115,US,6172625377,"",EST,"",Active
+Mi Pueblito Restaurant,Mexican,42.3790932,-71.0398865,333 Border St,East Boston,Boston,MA,02128,US,6175693787,"",EST,"",Active
+Gaslight,Modern European,42.3408975452185,-71.0675378143787,560 Harrison Ave,South End,Boston,MA,02118,US,6174220224,"",EST,"",Active
+Figs,Pizza,42.3572082519531,-71.0702590942383,42 Charles St,Beacon Hill,Boston,MA,02114,US,6177423447,"",EST,"",Active
+Fogo de Chão Brazilian Steakhouse,Brazilian,42.34880756427,-71.077162199668,200 Dartmouth St,Back Bay,Boston,MA,02116,US,6175856300,"",EST,"",Active
+B & G Oysters,Seafood,42.343879699707,-71.0712432861328,550 Tremont St,South End,Boston,MA,02116,US,6174230550,"",EST,"",Active
+El Pelón Taquería,Mexican,42.3432216793299,-71.0989652574062,92 Peterborough St,Fenway,Boston,MA,02215,US,6172629090,"",EST,"",Active
+Aria Trattoria,Italian,42.3632969,-71.0549427,253 Hanover St,North End,Boston,MA,02113,US,6177421276,"",EST,"",Active
+Franklin Café,Lounges,42.34291,-71.06895,278 Shawmut Ave,South End,Boston,MA,02118,US,6173500010,"",EST,"",Active
+Falafel King,Middle Eastern,42.3578462497398,-71.0578912496567,260 Washington St,Downtown,Boston,MA,02108,US,6172276400,"",EST,"",Active
+La Voile,French,42.34967,-71.0832099,261 Newbury St,Back Bay,Boston,MA,02116,US,6175874200,"",EST,"",Active
+Quincy Market,Food Court,42.3601450332,-71.0556999665,4 S Market St,"Boston, MA 02109",Boston,MA,02109,US,6175231300,"",EST,"",Active
+The Paramount,Breakfast & Brunch,42.357291,-71.070088,44 Charles St,Beacon Hill,Boston,MA,02114,US,6177201152,"",EST,"",Active
+Nico Ristorante,Italian,42.3656649,-71.0528222,417 Hanover St,North End,Boston,MA,02113,US,6177420404,"",EST,"",Active
+Barrington Coffee Roasting Company,Coffee & Tea,42.3489418,-71.0855103,303 Newbury St,Back Bay,Boston,MA,02115,US,8572502780,"",EST,"",Active
+Sabroso Taqueria,Mexican,42.3573494,-71.0546494,2 Oliver St,Financial District,Boston,MA,02109,US,8579911015,"",EST,"",Active
+The Corner Pub,Dive Bars,42.3507191240788,-71.0585430264473,162 Lincoln St,Waterfront,Boston,MA,02111,US,6175427080,"",EST,"",Active
+La Famiglia Giorgio's,Italian,42.36459,-71.05571,112 Salem St,North End,Boston,MA,02113,US,6173676711,"",EST,"",Active
+The Courtyard Restaurant,American (New),42.3493576049805,-71.0782699584961,The Catered Affair,230 Darmouth St,Boston,MA,02116,US,6178592251,"",EST,"",Active
+Oishii Boston,Sushi Bars,42.343216559683,-71.066379535192,1166 Washington St,South End,Boston,MA,02118,US,6174828868,"",EST,"",Active
+Yankee Lobster Fish Market,Seafood Markets,42.347921583679,-71.035987943405,300 Northern Ave,Waterfront,Boston,MA,02210,US,6173459799,"",EST,"",Active
+My Thai Vegan Cafe,Thai,42.3514661192894,-71.0625569522381,3 Beach St,2nd Fl,Boston,MA,02111,US,6174512395,"",EST,"",Active
+Lolita Cocina & Tequila Bar,Mexican,42.350595690564,-71.07748186798,271 Dartmouth St,Back Bay,Boston,MA,02116,US,6173695609,"",EST,"",Active
+Caffé Vittoria,Coffee & Tea,42.36418,-71.05448,296 Hanover St,North End,Boston,MA,02113,US,6172277606,"",EST,"",Active
+Ward 8,Cocktail Bars,42.3653984,-71.0586472,90 N Washington St,North End,Boston,MA,02113,US,6178234478,"",EST,"",Active
+Karo's BBQ,Food Stands,42.3549525,-71.0597632,State Street (One Washington Mall),Copley Square (Boylston Street),Boston,MA,02110,US,8572441174,"",EST,"",Active
+Anchovies,Italian,42.343939,-71.077598,433 Columbus Ave,South End,Boston,MA,02116,US,6172665088,"",EST,"",Active
+21st Amendment,Bars,42.358404744459,-71.062613549108,150 Bowdoin Sq,Beacon Hill,Boston,MA,02108,US,6172277100,"",EST,"",Active
+Gyro City,Greek,42.3431622796524,-71.0989929288362,88 Peterborough St,Fenway,Boston,MA,02215,US,6172664976,"",EST,"",Active
+Mul's Diner,Diners,42.341818761813,-71.055741536944,75 W Broadway,South Boston,Boston,MA,02127,US,6172685748,"",EST,"",Active
+Mooo Restaurant,Steakhouses,42.3584,-71.06197,15 Beacon St,Downtown,Boston,MA,02108,US,6176702515,"",EST,"",Active
+Delux Café,Bars,42.34628,-71.07289,100 Chandler St,South End,Boston,MA,02116,US,6173385258,"",EST,"",Active
+The Hawthorne,Cocktail Bars,42.3486925877382,-71.0953666879285,Hotel Commonwealth,500A Commonwealth Ave,Boston,MA,02215,US,6175329150,"",EST,"",Active
+New Saigon Sandwich,Delis,42.351176193839,-71.062741050927,696 Washington St,Chinatown,Boston,MA,02111,US,6175426296,"",EST,"",Active
+Irashai Sushi and Teriyaki,Japanese,42.3509865,-71.0625458,8 Kneeland St,Chinatown,Boston,MA,02111,US,6173506888,"",EST,"",Active
+Grill 23 & Bar,Steakhouses,42.3493362,-71.0719261,161 Berkeley St,Back Bay,Boston,MA,02116,US,6175422255,"",EST,"",Active
+Giacomo's,Italian,42.34406,-71.077732,431 Columbus Ave,Back Bay,Boston,MA,02116,US,6175365723,"",EST,"",Active
+Eastern Standard Kitchen and Drinks,American (New),42.348740324378,-71.0960168391466,528 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6175329100,"",EST,"",Active
+Boston Chowda Co.,Seafood,42.360156558668,-71.055152437753,1 Faneuil Hall Market Pl,"Boston, MA 02109",Boston,MA,02109,US,6177424441,"",EST,"",Active
+Leonard P. Zakim Bunker Hill Memorial Bridge,Landmarks & Historical Buildings,42.3663644492626,-71.0600443929434,100 Beverly St,North End,Boston,MA,02114,US,,"",EST,"",Active
+The Parish Cafe,Sandwiches,42.351822284275,-71.071625035216,361 Boylston St,Back Bay,Boston,MA,02116,US,6172474777,"",EST,"",Active
+Lucy Ethiopian Cafe,Ethiopian,42.3423691,-71.0841217,334 Massachusetts Ave,"Boston, MA 02115",Boston,MA,02115,US,6175360415,"",EST,"",Active
+Q Restaurant,Chinese,42.351812533351,-71.062679301879,660 Washington St,Chinatown,Boston,MA,02111,US,8573503968,"",EST,"",Active
+Corner Tavern,Bars,42.3501587,-71.0894318,421 Marlborough St,Back Bay,Boston,MA,02115,US,6172625555,"",EST,"",Active
+The Christian Science Plaza,Churches,42.344110284178,-71.084479140845,210 Massachusetts Ave,"Boston, MA 02115",Boston,MA,02115,US,6174502000,"",EST,"",Active
+The Oceanaire Seafood Room,Seafood,42.3590990155935,-71.0590895265341,40 Court St,Downtown,Boston,MA,02108,US,6177422277,"",EST,"",Active
+The Five Seventy Market,Grocery,42.343399,-71.0723267,570 Tremont St,South End,Boston,MA,02118,US,8573627525,"",EST,"",Active
+North Street Grille,Breakfast & Brunch,42.3653886282848,-71.0517768189311,229 North St,North End,Boston,MA,02113,US,6177202010,"",EST,"",Active
+Myers & Chang,Asian Fusion,42.344034,-71.066226,1145 Washington St,South End,Boston,MA,02118,US,6175425200,"",EST,"",Active
+Cafe Hemshin,Cafes,42.3577371,-71.0593509,8 City Hall Ave,Downtown,Boston,MA,02108,US,6172270505,"",EST,"",Active
+Scollay Square,Seafood,42.3580742,-71.0626678,21 Beacon St,Beacon Hill,Boston,MA,02108,US,6177424900,"",EST,"",Active
+Espresso Love,Coffee & Tea,42.358437,-71.054497,33 Broad St,Financial District,Boston,MA,02109,US,8572847462,"",EST,"",Active
+Bricco,Italian,42.3631202,-71.0549297,241 Hanover St,North End,Boston,MA,02113,US,6172486800,"",EST,"",Active
+Tea Do Contemporary Tea House,Coffee & Tea,42.351155,-71.060512,8 Tyler St,Chinatown,Boston,MA,02111,US,6179888002,"",EST,"",Active
+Maurizios,Italian,42.3653869628906,-71.0532836914062,364 Hanover St,North End,Boston,MA,02113,US,6173671123,"",EST,"",Active
+Pomodoro,Pizza,42.3645401,-71.0534897,351 Hanover St,North End,Boston,MA,02113,US,6173674348,"",EST,"",Active
+Wai Wai Restaurant,Chinese,42.3516808,-71.0602722,26 Oxford St,Chinatown,Boston,MA,02111,US,6173389833,"",EST,"",Active
+Wired Puppy,Coffee & Tea,42.349323,-71.082596,250 Newbury St,Back Bay,Boston,MA,02116,US,8573664655,"",EST,"",Active
+J.P. Licks,Ice Cream & Frozen Yogurt,42.3470193,-71.0887018,1106 Boylston St,"Boston, MA 02215",Boston,MA,02215,US,8572335805,"",EST,"",Active
+Legal Crossing,Seafood,42.3536691583522,-71.0622538856179,558 Washington St,Chinatown,Boston,MA,02111,US,6176928888,"",EST,"",Active
+Aquitaine,French,42.34391,-71.07226,569 Tremont St,South End,Boston,MA,02118,US,6174248577,"",EST,"",Active
+Cafe Fleuri,Breakfast & Brunch,42.3564959317446,-71.0541609674692,250 Franklin St,Financial District,Boston,MA,02110,US,6174511900,"",EST,"",Active
+Angela's Cafe,Mexican,42.378532,-71.034996,131 Lexington St,East Boston,Boston,MA,02128,US,6175674972,"",EST,"",Active
+Teatro,Italian,42.352997,-71.064342,177 Tremont St,"Boston, MA 02111",Boston,MA,02111,US,6177786841,"",EST,"",Active
+Genki Ya,Sushi Bars,42.3512460187279,-71.0647221654654,232 Tremont St,"Boston, MA 02116",Boston,MA,02116,US,6173388686,"",EST,"",Active
+Stanza Dei Sigari,Tobacco Shops,42.3642073,-71.0542421,292 Hanover St,North End,Boston,MA,02113,US,6172270295,"",EST,"",Active
+Carmen Trattoria,Italian,42.363453,-71.053807,33 North Sq,North End,Boston,MA,02113,US,6177426421,"",EST,"",Active
+Croke Park/Whitey's,Dive Bars,42.3391748964787,-71.0513278841972,268 W Broadway,South Boston,Boston,MA,02127,US,6174644869,"",EST,"",Active
+Luke's Lobster,Seafood,42.3485603,-71.0792465,75 Exeter Street,Back Bay,Boston,MA,02116,US,8573504626,"",EST,"",Active
+Fill-A-Buster,Delis,42.3584861755371,-71.0626525878906,142 Bowdoin St,Beacon Hill,Boston,MA,02108,US,6175238164,"",EST,"",Active
+Mike's City Diner,Diners,42.3369865,-71.0760727,1714 Washington St,South End,Boston,MA,02118,US,6172679393,"",EST,"",Active
+Figs,Pizza,42.373618,-71.062565,67 Main St,Charlestown,Boston,MA,02129,US,6172422229,"",EST,"",Active
+Cafe Rustico,Italian,42.3640825599432,-71.0595052689314,85 Canal St,"Boston, MA 02114",Boston,MA,02114,US,6177428770,"",EST,"",Active
+Abe & Louie's Steakhouse,Steakhouses,42.3492240905762,-71.0815887451172,793 Boylston St,Back Bay,Boston,MA,02116,US,6175366300,"",EST,"",Active
+Mei Sum,Bakeries,42.3515936,-71.0616044,36 Beach St,Chinatown,Boston,MA,02111,US,6173574050,"",EST,"",Active
+Terramia Ristorante,Italian,42.364028,-71.055697,98 Salem St,North End,Boston,MA,02113,US,6175233112,"",EST,"",Active
+75 Chestnut,American (New),42.35693359375,-71.0709838867188,75 Chestnut St,Beacon Hill,Boston,MA,02108,US,6172272175,"",EST,"",Active
+The Gallows,American (New),42.3411771655083,-71.0700604319572,1395 Washington St,South End,Boston,MA,02118,US,6174250200,"",EST,"",Active
+Piattini,Italian,42.3496932983398,-71.0812225341797,226 Newbury St,Back Bay,Boston,MA,02116,US,6175362020,"",EST,"",Active
+Coda,American (New),42.3462394,-71.0750068,329 Columbus Ave,Back Bay,Boston,MA,02116,US,6175362632,"",EST,"",Active
+Roast Beast,Sandwiches,42.351783181146,-71.1236789566271,1080 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6178778690,"",EST,"",Active
+Metropolis,Wine Bars,42.343145,-71.0728435,584 Tremont St,South End,Boston,MA,02118,US,6172472931,"",EST,"",Active
+Davio's,Italian,42.3502377375106,-71.0701250997561,75 Arlington St,Back Bay,Boston,MA,02116,US,6173574810,"",EST,"",Active
+The Butcher Shop,Steakhouses,42.34376,-71.071454,552 Tremont St,South End,Boston,MA,02118,US,6174234800,"",EST,"",Active
+Anthony's Cafe,Italian,42.3639907836914,-71.0513610839844,252 Commercial St,North End,Boston,MA,02109,US,6177422987,"",EST,"",Active
+PS Gourmet Coffee,Coffee & Tea,42.3351402,-71.0457916,106 Dorchester St,South Boston,Boston,MA,02127,US,6172694020,"",EST,"",Active
+Durty Nelly's,Bars,42.3616471141577,-71.0563945770264,108 Blackstone St,"Boston, MA 02109",Boston,MA,02109,US,6177422090,"",EST,"",Active
+Taiwan Café,Taiwanese,42.351503,-71.060239,34 Oxford St,Chinatown,Boston,MA,02111,US,6174268181,"",EST,"",Active
+Legal Sea Foods,Seafood,42.3596689850092,-71.051329895854,255 State St,Waterfront,Boston,MA,02109,US,6177425300,"",EST,"",Active
+The Tip Tap Room,American (New),42.36105,-71.063986,138 Cambridge St,Beacon Hill,Boston,MA,02114,US,8573503344,"",EST,"",Active
+Kitchen,American (New),42.3437225818634,-71.0719882696867,560 Tremont St,South End,Boston,MA,02118,US,6176951250,"",EST,"",Active
+Cinquecento,Italian,42.3420052975416,-71.0661041736603,500 Harrison Ave,South End,Boston,MA,02118,US,6173389500,"",EST,"",Active
+Pete's Dockside,American (Traditional),42.3451843,-71.0372238,12 Channel St,South Boston,Boston,MA,02210,US,6174231110,"",EST,"",Active
+Smith & Wollensky,Steakhouses,42.3531183164592,-71.05287385159,294 Congress St,Waterfront,Boston,MA,02210,US,6177782200,"",EST,"",Active
+Archie's New York Deli,Delis,42.3550415,-71.0591278,101 Arch St,Downtown,Boston,MA,02110,US,6173305145,"",EST,"",Active
+Zest Mediterranean Grille,Mediterranean,42.3469996,-71.0879785,1076 Boylston St,"Boston, MA 02215",Boston,MA,02215,US,6178676767,"",EST,"",Active
+Strip By Strega,American (Traditional),42.3509903,-71.0700607,64 Arlington St,Back Bay,Boston,MA,02116,US,6174565300,"",EST,"",Active
+The Beehive,Jazz & Blues,42.3444811,-71.0706586,541 Tremont St,South End,Boston,MA,02116,US,6174230069,"",EST,"",Active
+Bogie's Place,Steakhouses,42.3551712,-71.0622864,25 Temple Pl,Downtown,Boston,MA,02111,US,6173385333,"",EST,"",Active
+Mehak,Indian,42.3671035766602,-71.0360794067383,329 Sumner St,East Boston,Boston,MA,02128,US,6175671900,"",EST,"",Active
+Douzo,Sushi Bars,42.346832,-71.075424,131 Dartmouth St,Back Bay,Boston,MA,02116,US,6178598886,"",EST,"",Active
+Viga Italian Eatery and Caterer,Italian,42.3541489,-71.0579605,291 Devonshire St,Downtown,Boston,MA,02110,US,6174821113,"",EST,"",Active
+Stella,Italian,42.3398154617462,-71.0725331180971,1525 Washington St,South End,Boston,MA,02118,US,6172477747,"",EST,"",Active
+Boston Kitchen Pizza,Pizza,42.3510218,-71.0631478,1 Stuart St,Chinatown,Boston,MA,02116,US,6174820085,"",EST,"",Active
+Trattoria Di Monica,Italian,42.36522,-71.05523,67 Prince St,North End,Boston,MA,02113,US,6177205472,"",EST,"",Active
+Georges Island,Parks,42.358333,-71.060278,Downtown,"Boston, MA 02228",Boston,MA,02228,US,,"",EST,"",Active
+Viga Eatery & Catering,Italian,42.35474,-71.0538399,133 Pearl St,Financial District,Boston,MA,02110,US,6174821112,"",EST,"",Active
+Lucky's Lounge,Lounges,42.350040435791,-71.0484848022461,355 Congress St,Waterfront,Boston,MA,02210,US,6173575825,"",EST,"",Active
+Commonwealth Avenue Mall,Parks,42.348503,-71.094223,484 Commonwealth Ave,"Boston, MA 02116",Boston,MA,02116,US,6176354500,"",EST,"",Active
+Trattoria Il Panino,Italian,42.3639035,-71.054771,11 Parmenter St,North End,Boston,MA,02113,US,6177201336,"",EST,"",Active
+Corner Cafe,Dive Bars,42.3656005859375,-71.0561828613281,87 Prince St,North End,Boston,MA,02113,US,6175238997,"",EST,"",Active
+Boston Chops,Bars,42.3415092,-71.0695165,1375 Washington St,South End,Boston,MA,02118,US,6172275011,"",EST,"",Active
+Harborside Inn,Hotels,42.35915,-71.05278,185 State St,Financial District,Boston,MA,02109,US,6177237500,"",EST,"",Active
+Les Zygomates,French,42.351162781091,-71.057466873432,129 South St,Waterfront,Boston,MA,02111,US,6175425108,"",EST,"",Active
+Gourmet Dumpling House,Chinese,42.351532,-71.060661,52 Beach St,Chinatown,Boston,MA,02111,US,6173386223,"",EST,"",Active
+The Bar at Taj Boston,Bars,42.3528099,-71.071579,15 Arlington St,Back Bay,Boston,MA,02116,US,6175365700,"",EST,"",Active
+Winsor Dim Sum Café,Dim Sum,42.351011898927,-71.060564754751,10 Tyler St,Chinatown,Boston,MA,02111,US,6173381688,"",EST,"",Active
+Roxy's Gourmet Grilled Cheese,Sandwiches,42.3370170593262,-71.0720062255859,South End,"Boston, MA 02118",Boston,MA,02118,US,6172025864,"",EST,"",Active
+Strega Waterfront,Italian,42.353216,-71.045152,One Marina Park Dr,56 Northern Ave On GPS,Boston,MA,02210,US,6173453992,"",EST,"",Active
+Oliver's Street Cafe,Italian,42.3569564819336,-71.0539779663086,260 Franklin St,Financial District,Boston,MA,02110,US,6173305355,"",EST,"",Active
+Saigon Hut,Vietnamese,42.3772659,-71.0390472,305 Meridian St,East Boston,Boston,MA,02128,US,6175671944,"",EST,"",Active
+Bukowski Tavern,Pubs,42.34726832024,-71.085402407346,50 Dalton St,Back Bay,Boston,MA,02115,US,6174379999,"",EST,"",Active
+J.P. Licks,Ice Cream & Frozen Yogurt,42.3599606752396,-71.0708469897509,150 Charles St,Beacon Hill,Boston,MA,02114,US,8572332771,"",EST,"",Active
+J.J. Foley's Cafe,Pubs,42.3437165,-71.0651999,117 E Berkeley St,South End,Boston,MA,02118,US,6177289101,"",EST,"",Active
+Boston Burger Company,Burgers,42.3468132019043,-71.0884704589844,1100 Boylston St,"Boston, MA 02215",Boston,MA,02215,US,8572334560,"",EST,"",Active
+163 Vietnamese Sandwiches & Bubble Tea,Vietnamese,42.351326,-71.061058,66 Harrison Ave,Chinatown,Boston,MA,02111,US,6175427903,"",EST,"",Active
+Olga's Kafe,Breakfast & Brunch,42.353787,-71.058278,99 Summer St,Downtown,Boston,MA,02110,US,6172049808,"",EST,"",Active
+Pret A Manger,Coffee & Tea,42.3556213,-71.0554199,185 Franklin Street,Financial District,Boston,MA,02110,US,6172049280,"",EST,"",Active
+Lincoln Tavern & Restaurant,American (New),42.3365590721369,-71.0474239289761,425 W Broadway,South Boston,Boston,MA,02127,US,6177658636,"",EST,"",Active
+Gaga Seafood Restaurant,Seafood,42.35071,-71.06097,25-27 Tyler St,Chinatown,Boston,MA,02111,US,6173388770,"",EST,"",Active
+Lucca,Italian,42.3631864,-71.0550955,226 Hanover St,North End,Boston,MA,02113,US,6177429200,"",EST,"",Active
+PRESSED,Juice Bars & Smoothies,42.359226,-71.070992,120 Charles St,Beacon Hill,Boston,MA,02114,US,8573503103,"",EST,"",Active
+Antico Forno,Italian,42.363801,-71.0556657,93 Salem St,North End,Boston,MA,02113,US,6177236733,"",EST,"",Active
+Patisserie on Newbury,Desserts,42.3494751,-71.0830638,257 Newbury St,Back Bay,Boston,MA,02116,US,6176706040,"",EST,"",Active
+Back Bay Sandwich,Sandwiches,42.3508682,-71.0714874,31 St James Ave,Back Bay,Boston,MA,02116,US,6174511561,"",EST,"",Active
+Amorino,Coffee & Tea,42.3497657775879,-71.0828094482422,249 Newbury St,Back Bay,Boston,MA,02116,US,6175853185,"",EST,"",Active
+Amsterdam Falafelshop,Falafel,42.3492548500249,-71.0953465693108,642 Beacon St,"Boston, MA 02215",Boston,MA,02215,US,8573172742,"",EST,"",Active
+Clover,Food Stands,42.356143951416,-71.062858581543,138 Tremont St,Downtown,Boston,MA,02111,US,,"",EST,"",Active
+Stoddard's Fine Food & Ale,American (Traditional),42.3552208,-71.0616074,48 Temple Pl,Downtown,Boston,MA,02111,US,6174260048,"",EST,"",Active
+Intermission Tavern,Bars,42.3513412475586,-71.0645904541016,228 Tremont St,"Boston, MA 02116",Boston,MA,02116,US,6174515997,"",EST,"",Active
+Clio,American (New),42.3485908508301,-71.0887298583984,370 Commonwealth Ave,Back Bay,Boston,MA,02215,US,6175367200,"",EST,"",Active
+La Sanghita Cafe,Vegan,42.36569,-71.02906,389 Maverick St,East Boston,Boston,MA,02128,US,8572562917,"",EST,"",Active
+Caffe Paradiso,Desserts,42.36322,-71.0548,255 Hanover St,North End,Boston,MA,02113,US,6177421768,"",EST,"",Active
+Maggiano's Little Italy,Italian,42.3513145744801,-71.0684162378311,4 Columbus Ave,Back Bay,Boston,MA,02116,US,6175423456,"",EST,"",Active
+Zen Japanese Grill & Sushi Bar,Japanese,42.3580742,-71.0626678,21 A Beacon St,Beacon Hill,Boston,MA,02108,US,6173711230,"",EST,"",Active
+Piccolo Nido,Italian,42.3634600121396,-71.0523010070374,247 N St,North End,Boston,MA,02113,US,6177424272,"",EST,"",Active
+"Josephine, Restaurant Parisien",French,42.3485145568848,-71.0934829711914,468 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6173750699,"",EST,"",Active
+Bleacher Bar,Sports Bars,42.3469855442944,-71.096686816461,Fenway Park,82 Lansdowne St,Boston,MA,02228,US,6172622424,"",EST,"",Active
+The Tam,Dive Bars,42.3515,-71.0645399,222 Tremont St,"Boston, MA 02118",Boston,MA,02118,US,,"",EST,"",Active
+La Summa,Italian,42.36468,-71.05255,30 Fleet St,North End,Boston,MA,02113,US,6175239503,"",EST,"",Active
+Swish Shabu,Japanese,42.3430901,-71.0991135,84 86 Peterborough St,Fenway,Boston,MA,02215,US,6172360255,"",EST,"",Active
+Saraceno,Italian,42.36398,-71.05455,286 Hanover St,North End,Boston,MA,02113,US,6172275353,"",EST,"",Active
+Erbaluce,Italian,42.350149,-71.068389,69 Church St,"Boston, MA 02116",Boston,MA,02116,US,6174266969,"",EST,"",Active
+Hong Kong Eatery,Cantonese,42.3510131835938,-71.0616302490234,79 Harrison Ave,Chinatown,Boston,MA,02111,US,6174230838,"",EST,"",Active
+Newbury Street,Landmarks & Historical Buildings,42.3492157403417,-71.0841545358009,10 Newbury St,Back Bay,Boston,MA,02228,US,,"",EST,"",Active
+Boloco,American (New),42.3543117,-71.0563778,133 Federal St,Financial District,Boston,MA,02110,US,6173579727,"",EST,"",Active
+Boston Common Coffee Co.,Coffee & Tea,42.353430587367,-71.05665963509401,10 High St,Financial District,Boston,MA,02110,US,6176959700,"",EST,"",Active
+Clover,Food Stands,42.3602642696616,-71.0589909553528,City Hall Plaza,Downtown,Boston,MA,02108,US,,"",EST,"",Active
+City Bar,Lounges,42.3490681,-71.0794721,61 Exeter St,Back Bay,Boston,MA,02199,US,6175365300,"",EST,"",Active
+Mei Mei Street Kitchen,Food Trucks,42.3474002278245,-71.1061915963046,506 Park Dr,"Boston, MA 02215",Boston,MA,02215,US,8572504959,"",EST,"",Active
+Peter's Park Dog Run,Parks,42.3424076288939,-71.0677356272936,1277 Washington St,South End,Boston,MA,02118,US,,"",EST,"",Active
+Bastille Kitchen,Bars,42.349462,-71.0501609,49 Melcher St,Waterfront,Boston,MA,02210,US,6175568000,"",EST,"",Active
+Fort Independence Park,Parks,42.3341843859394,-71.0272979736328,William J Day Blvd,South Boston,Boston,MA,02127,US,,"",EST,"",Active
+Rondo's Sub Shop,Sandwiches,42.3410537838936,-71.0542193055153,134 W Broadway,South Boston,Boston,MA,02127,US,6172690274,"",EST,"",Active
+Pellino's Ristorante,Bars,42.364029,-71.053627,2 Prince St,North End,Boston,MA,02109,US,6172277300,"",EST,"",Active
+Trattoria Il Panino,Mediterranean,42.3638492077589,-71.0545270889997,278 Hanover St,North End,Boston,MA,02113,US,6177201336,"",EST,"",Active
+Great Taste Bakery & Restaurant,Bakeries,42.3510895,-71.0601883,63 Beach St,Chinatown,Boston,MA,02111,US,6174268899,"",EST,"",Active
+Daddy's Fried Dough,Desserts,42.3564503341913,-71.0619802772999,Park Street T Station & Boston Commons,Tremont St and Park St,Boston,MA,02108,US,9788460860,"",EST,"",Active
+Rod Dee Thai 2,Thai,42.3430470265358,-71.0992394306382,94 Peterborough St,Fenway,Boston,MA,02215,US,6178590969,"",EST,"",Active
+Five Horses Tavern South End,American (New),42.3417445441842,-71.0805253552637,535 Columbus Ave,"Boston, MA 02118",Boston,MA,02118,US,6179363930,"",EST,"",Active
+Berkeley Perk Cafe,Sandwiches,42.3468094,-71.0705338,69 Berkeley St,South End,Boston,MA,02116,US,6174267375,"",EST,"",Active
+Pad Thai Cafe,Thai,42.3467399,-71.08872,1116 Boylston St,"Boston, MA 02115",Boston,MA,02115,US,6172473399,"",EST,"",Active
+Crush Pizza,Pizza,42.3591313,-71.0549778,107 State St,Financial District,Boston,MA,02109,US,8573504222,"",EST,"",Active
+Legal Harborside,Seafood,42.3486255517066,-71.0378787321779,270 Northern Ave,Waterfront,Boston,MA,02210,US,6174772900,"",EST,"",Active
+Sultan's Kitchen,Middle Eastern,42.3593445,-71.054657,116 State St,"Boston, MA 02109",Boston,MA,02109,US,6175709009,"",EST,"",Active
+Masa,American (New),42.346815,-71.0692466,439 Tremont St,South End,Boston,MA,02116,US,6173388884,"",EST,"",Active
+Maná Escondido Café,Spanish,42.3412341624498,-71.075509339571,68 Aguadilla St,South End,Boston,MA,02118,US,6172660900,"",EST,"",Active
+Andre's Cafe,American (Traditional),42.3358688354492,-71.0742034912109,811 Harrison Ave,South End,Boston,MA,02118,US,6172679599,"",EST,"",Active
+India Quality Restaurant,Indian,42.3485649735803,-71.0943808368296,484 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6172674499,"",EST,"",Active
+Ruth's Chris Steak House,Steakhouses,42.3578462497398,-71.0596454143524,45 School St,Downtown,Boston,MA,02108,US,6177428401,"",EST,"",Active
+John Hancock Tower,Landmarks & Historical Buildings,42.34926,-71.07511,200 Clarendon St,Back Bay,Boston,MA,02228,US,6175726420,"",EST,"",Active
+Doughboy Donuts & Deli,Donuts,42.340173,-71.056792,220 Dorchester Ave,South Boston,Boston,MA,02127,US,6172698741,"",EST,"",Active
+Boloco Copley Square,American (New),42.35062,-71.076431,569 Boylston St,Back Bay,Boston,MA,02116,US,6172591619,"",EST,"",Active
+Ali Baba,Turkish,42.3436126,-71.0648162,145 E Berkeley St,South End,Boston,MA,02118,US,6174820654,"",EST,"",Active
+Battery Park Bar & Lounge,American (Traditional),42.357783,-71.054102,33 Batterymarch St,Financial District,Boston,MA,02110,US,6173507275,"",EST,"",Active
+Cheeseboy,American (Traditional),42.3572558,-71.05825,280 Washington St,Downtown,Boston,MA,02108,US,6174230481,"",EST,"",Active
+Morton's The Steakhouse,Steakhouses,42.348858,-71.04084,2 Seaport Ln,Waterfront,Boston,MA,02210,US,6175260410,"",EST,"",Active
+The Boston Sail Loft,Bars,42.362543759667,-71.050748116975,80 Atlantic Ave,North End,Boston,MA,02110,US,6172277280,"",EST,"",Active
+Ristorante Euno,Italian,42.3644708096981,-71.0554745793343,119 Salem St,North End,Boston,MA,02113,US,6175739406,"",EST,"",Active
+Mela,Indian,42.3433342,-71.0725021,578 Tremont St,South End,Boston,MA,02118,US,6178594805,"",EST,"",Active
+Gene's Chinese Flatbread Cafe,Chinese,42.3534194,-71.0595619,86 Bedford St,"Boston, MA 02111",Boston,MA,02111,US,6174821888,"",EST,"",Active
+The Lower Depths,Pubs,42.348511,-71.093849,476 Commonwealth Ave,"Boston, MA 02115",Boston,MA,02115,US,6172666662,"",EST,"",Active
+Benevento's,Italian,42.3642807,-71.0553513,111 Salem St,North End,Boston,MA,02113,US,6175234111,"",EST,"",Active
+Boston Indian Kitchen,Indian,42.3496932983398,-71.0892333984375,51A Massachusetts Ave,Back Bay,Boston,MA,02115,US,6178597400,"",EST,"",Active
+Guerrilla Queer Bar,Gay Bars,42.358333,-71.060278,Downtown,"Boston, MA 02228",Boston,MA,02228,US,,"",EST,"",Active
+Del Frisco's Double Eagle Steak House,Seafood,42.348544,-71.038523,250 Northern Ave,Ste 200,Boston,MA,02210,US,6179511368,"",EST,"",Active
+"Pastoral - Artisan Pizza, Kitchen & Bar",Pizza,42.3505763940776,-71.0488574567263,345 Congress St,Waterfront,Boston,MA,02210,US,6173450005,"",EST,"",Active
+The Vegetable Guy,Fruits & Veggies,42.363808,-71.055077,18 Parmenter St,North End,Boston,MA,02113,US,,"",EST,"",Active
+Teranga,Bars,42.336586869527004,-71.07665195362,1746 Washington St,South End,Boston,MA,02118,US,6172660003,"",EST,"",Active
+Granary Tavern,American (New),42.3587303,-71.052597,170 Milk St,Financial District,Boston,MA,02109,US,6174497110,"",EST,"",Active
+Beantown Pho & Grill,Vietnamese,42.3492707312107,-71.0835298150778,272 Newbury St,Back Bay,Boston,MA,02116,US,8572638440,"",EST,"",Active
+Red Lantern,Asian Fusion,42.348503112793,-71.073356628418,39 Stanhope St,Back Bay,Boston,MA,02116,US,6172623900,"",EST,"",Active
+Trophy Room,American (New),42.3469703698508,-71.0711350197154,26 Chandler St,South End,Boston,MA,02116,US,6174823450,"",EST,"",Active
+Haymarket Pizza,Pizza,42.3616404086351,-71.0563858598471,106 Blackstone St,"Boston, MA 02109",Boston,MA,02109,US,6177238585,"",EST,"",Active
+Tremont 647,Bars,42.3422470092773,-71.0754318237305,647 Tremont St,South End,Boston,MA,02118,US,6172664600,"",EST,"",Active
+Porters Bar & Grill,Bars,42.3642896,-71.061702,173 Portland St,"Boston, MA 02114",Boston,MA,02114,US,6177427678,"",EST,"",Active
+Beacon Hill,Local Flavor,42.36238,-71.06588,"Boston, MA 02114",,Boston,MA,02114,US,,"",EST,"",Active
+Temple Place Cafe,Coffee & Tea,42.3554115,-71.0620422,26 Temple Pl,Downtown,Boston,MA,02111,US,6172922626,"",EST,"",Active
+Piattini Gelateria and Café,Italian,42.349712,-71.081154,224 Newbury St,Back Bay,Boston,MA,02116,US,6175367500,"",EST,"",Active
+Pho Pasteur,Vietnamese,42.351233877569,-71.0628962516785,682 Washington St,Chinatown,Boston,MA,02111,US,6174827467,"",EST,"",Active
+Dirty Water Dough Co.,Pizza,42.349734,-71.081072,222 Newbury St,Back Bay,Boston,MA,02116,US,6172620090,"",EST,"",Active
+Seoul,Korean,42.36108,-71.064752,156 Cambridge St,Beacon Hill,Boston,MA,02114,US,6179736680,"",EST,"",Active
+Maria's Taqueria,Mexican,42.351395,-71.064575,226 Tremont St,"Boston, MA 02116",Boston,MA,02116,US,6173577399,"",EST,"",Active
+Last Hurrah,Bars,42.35779479146,-71.0599632561207,60 School St,Downtown,Boston,MA,02108,US,6173051888,"",EST,"",Active
+Liquid Art House,American (New),42.3499842,-71.0695033,100 Arlington St,"Boston, MA 02116",Boston,MA,02116,US,6174578130,"",EST,"",Active
+New Jumbo Seafood Restaurant,Seafood,42.3509638756514,-71.0600296407938,5 Hudson St,Chinatown,Boston,MA,02111,US,6175422823,"",EST,"",Active
+The Best Little Restaurant,Chinese,42.3507996,-71.0602493,13A Hudson St,Chinatown,Boston,MA,02111,US,6173384988,"",EST,"",Active
+Trade,American (New),42.353533,-71.053072,540 Atlantic Ave,Waterfront,Boston,MA,02110,US,6174511234,"",EST,"",Active
+The Wholy Grain,Coffee & Tea,42.3430595,-71.0694199,275 Shawmut Ave,South End,Boston,MA,02118,US,8572771531,"",EST,"",Active
+Trident Booksellers & Café,Bookstores,42.3482437133789,-71.0866241455078,338 Newbury St,Back Bay,Boston,MA,02115,US,6172678688,"",EST,"",Active
+Hot Pot Buffet,Chinese,42.3513603,-71.0597992,70 Beach St,Chinatown,Boston,MA,02111,US,6173380808,"",EST,"",Active
+Pavement Coffeehouse,Coffee & Tea,42.3469565156457,-71.0884725931989,1096 Boylston St,"Boston, MA 02215",Boston,MA,02215,US,6172361500,"",EST,"",Active
+Parla,Italian,42.3632455,-71.0552327,230 Hanover St,North End,Boston,MA,02113,US,6173672824,"",EST,"",Active
+Cantina Italiana,Italian,42.365013,-71.0534499,346 Hanover St,North End,Boston,MA,02113,US,6177234577,"",EST,"",Active
+Blue Dragon,Asian Fusion,42.349348,-71.049653,324 A St,Waterfront,Boston,MA,02210,US,6173388585,"",EST,"",Active
+Estragon,Tapas Bars,42.338475510478,-71.0706505179405,700 Harrison Ave,South End,Boston,MA,02118,US,6172660443,"",EST,"",Active
+Penang,Malaysian,42.3513510985963,-71.0629915757408,685 Washington St,Chinatown,Boston,MA,02111,US,6174516373,"",EST,"",Active
+Café de Lulu,Chinese,42.3515739,-71.0609436,42 Beach St,Chinatown,Boston,MA,02111,US,6173910888,"",EST,"",Active
+Rhythm 'n Wraps,Vegetarian,42.3584308,-71.0597732,Downtown,"Boston, MA",Boston,MA,,US,8578291090,"",EST,"",Active
+Viva Burrito,Mexican,42.3629393,-71.0639805,66 Staniford St,"Boston, MA 02114",Boston,MA,02114,US,6175236390,"",EST,"",Active
+Highball Lounge,Cocktail Bars,42.3573824,-71.0608754,90 Tremont St,2nd Fl,Boston,MA,02108,US,6177720202,"",EST,"",Active
+Uburger,Burgers,42.34957,-71.09527,Kenmore Sq,636 Beacon St,Boston,MA,02215,US,6175360448,"",EST,"",Active
+Stephi's on Tremont,American (New),42.3436382,-71.07257,571 Tremont St,South End,Boston,MA,02118,US,6172362063,"",EST,"",Active
+Yada Yada,Greek,42.351884,-71.048083,34 Farnsworth St,Waterfront,Boston,MA,02210,US,6174519232,"",EST,"",Active
+Koy,Korean,42.3605931357964,-71.056273070639,16 North St,"Boston, MA 02109",Boston,MA,02109,US,8579911483,"",EST,"",Active
+Capital One 360 Cafe,Cafes,42.3490843,-71.0816735,799 Boylston St,Back Bay,Boston,MA,02116,US,6172360585,"",EST,"",Active
+Café Jaffa,Middle Eastern,42.34866,-71.08414,48 Gloucester St,Back Bay,Boston,MA,02115,US,6175360230,"",EST,"",Active
+Darryl's Corner Bar & Kitchen,Bars,42.33976,-71.08241,604 Columbus Ave,"Boston, MA 02118",Boston,MA,02118,US,6175361100,"",EST,"",Active
+Cheeseboy: Grilled Cheese To Go,Sandwiches,42.3505266755819,-71.056467667222,South Station Train Concourse,720 Atlantic Ave,Boston,MA,02110,US,6177374600,"",EST,"",Active
+South Street Diner,Diners,42.3497247634028,-71.0574558062586,178 Kneeland St,Waterfront,Boston,MA,02111,US,6173500028,"",EST,"",Active
+Cha Cha Cha Taqueria,Mexican,42.347446,-71.074943,145 Dartmouth St,Back Bay,Boston,MA,02116,US,6177853516,"",EST,"",Active
+Woody's Grill and Tap,Bars,42.344859,-71.089571,58 Hemenway St,"Boston, MA 02115",Boston,MA,02115,US,6173759663,"",EST,"",Active
+Mario's Restaurant,Italian,42.378173,-71.028861,347 Chelsea St,East Boston,Boston,MA,02128,US,6175678608,"",EST,"",Active
+Papagayo,Mexican,42.34977,-71.05004,283 Summer Street,Waterfront,Boston,MA,02210,US,6174231000,"",EST,"",Active
+Cafe de Boston,Buffets,42.3550833,-71.0565126,75 Federal St,Financial District,Boston,MA,02110,US,6174821006,"",EST,"",Active
+Grasshopper Cafe,Sandwiches,42.3794708,-71.0633011,229 Bunker Hill St,Charlestown,Boston,MA,02129,US,6172420000,"",EST,"",Active
+Boloco,Mexican,42.3522856,-71.0671914,2 Park Plz,"Boston, MA 02116",Boston,MA,02116,US,6177786772,"",EST,"",Active
+Loco Taqueria and Oyster Bar,Cocktail Bars,42.3369670759542,-71.0477377406966,412 W Broadway,South Boston,Boston,MA,02127,US,6179175626,"",EST,"",Active
+Coffee Central,Coffee & Tea,42.362545,-71.0693665,Massachusetts General Hospital,55 Fruit St,Boston,MA,02114,US,,"",EST,"",Active
+Massachusetts State House,Landmarks & Historical Buildings,42.358084,-71.063651,24 Beacon St,Beacon Hill,Boston,MA,02133,US,6177277030,"",EST,"",Active
+Vejigantes,Puerto Rican,42.3416595,-71.0722504,57 W Dedham St,South End,Boston,MA,02118,US,6172479249,"",EST,"",Active
+Sofá Café,Cafes,42.350155,-71.08138,217 Newbury St,Back Bay,Boston,MA,02116,US,8572502381,"",EST,"",Active
+Ducali Pizzeria & Bar,Pizza,42.3669548,-71.0582428,289 Causeway St,North End,Boston,MA,02114,US,6177424144,"",EST,"",Active
+Gennaro's 5 North Square,Italian,42.364029822735,-71.0535063604355,5 North Sq,North End,Boston,MA,02113,US,6177201050,"",EST,"",Active
+Peach Farm,Chinese,42.3511428833008,-71.0604095458984,4 Tyler St,Chinatown,Boston,MA,02111,US,6174821116,"",EST,"",Active
+Pita,Mediterranean,42.33975,-71.06499,473 Albany St,South End,Boston,MA,02118,US,6175562600,"",EST,"",Active
+The Pour House,Bars,42.3482836782932,-71.0841581225395,907 Boylston St,Back Bay,Boston,MA,02115,US,6172361767,"",EST,"",Active
+Abby Lane Food & Spirits,American (New),42.35017798841,-71.065249890089,255 Tremont St,"Boston, MA 02116",Boston,MA,02116,US,6174512229,"",EST,"",Active
+Boston Pizza Tours,Tours,42.3727492851004,-71.0530471801758,71 Commercial St,Suite 134,Boston,MA,02109,US,8554874992,"",EST,"",Active
+The Four's Restaurant & Sports Bar,Sports Bars,42.36498,-71.06098,166 Canal St,"Boston, MA 02114",Boston,MA,02114,US,6177204455,"",EST,"",Active
+Townsman,Brasseries,42.3522148132324,-71.0590591430664,120 Kingston St,Chinatown,Boston,MA,02111,US,6179930750,"",EST,"",Active
+Deli One,Delis,42.3552956432104,-71.0582305490971,85 Arch St,Downtown,Boston,MA,02110,US,6172927825,"",EST,"",Active
+Addis Red Sea,Ethiopian,42.3440132141113,-71.071044921875,544 Tremont St,South End,Boston,MA,02116,US,6174268727,"",EST,"",Active
+Quattro,Pizza,42.3636293,-71.054888,264 Hanover St,North End,Boston,MA,02113,US,6177200444,"",EST,"",Active
+Faneuil Hall,Landmarks & Historical Buildings,42.360058147001,-71.0562658309937,0 Faneuil Hall Sq,"Boston, MA 02109",Boston,MA,02109,US,6175231300,"",EST,"",Active
+Dolce Vita Ristorante,Italian,42.36277,-71.0552,221 Hanover St,North End,Boston,MA,02113,US,6177200422,"",EST,"",Active
+Taqueria Cancun,Mexican,42.369244077092,-71.040182052625,192 Sumner St,East Boston,Boston,MA,02128,US,6175674449,"",EST,"",Active
+Mirisola's,Italian,42.331371307373,-71.0350112915039,200 L St,South Boston,Boston,MA,02127,US,6172699701,"",EST,"",Active
+Post 390,Bars,42.3488638811714,-71.0740035028749,406 Stuart St,Back Bay,Boston,MA,02116,US,6173990015,"",EST,"",Active
+Strega,Italian,42.3650488,-71.0531742,379 Hanover St,North End,Boston,MA,02113,US,6175238481,"",EST,"",Active
+Boston Common Coffee Co.,Coffee & Tea,42.35429,-71.0621414,515 Washington St,Downtown,Boston,MA,02111,US,6175420595,"",EST,"",Active
+Boston National Historical Park,Parks,42.3600406170855,-71.0562391217041,Charlestown Navy Yard,"Boston, MA 02455",Boston,MA,02455,US,6172425601,"",EST,"",Active
+Asian House Restaurant,Asian Fusion,42.3825314691829,-71.079182633555,99 Cambridge St,Charlestown,Boston,MA,02129,US,6172424165,"",EST,"",Active
+JJ Foley's Bar & Grille,Pubs,42.35384,-71.0592099,21 Kingston St,Downtown,Boston,MA,02111,US,6176952529,"",EST,"",Active
+The Barracuda Tavern,Bars,42.3570779711008,-71.0605392605066,15 Bosworth St,Downtown,Boston,MA,02108,US,6174820301,"",EST,"",Active
+Paraiso Restaurant,Spanish,42.3176535218954,-71.0663495957851,750 Dudley St,Uphams Corner,Boston,MA,02125,US,6172657067,"",EST,"",Active
+Carrie Nation Restaurant & Cocktail Club,American (Traditional),42.3582519,-71.0617576,11 Beacon St,Downtown,Boston,MA,02108,US,6172273100,"",EST,"",Active
+Uptown Cafe,Italian,42.3610458,-71.0635452,120 Cambridge St,Beacon Hill,Boston,MA,02114,US,6172271181,"",EST,"",Active
+Tasty Burger,Burgers,42.3446525,-71.0979707,1301 Boylston St,Fenway,Boston,MA,02215,US,6174254444,"",EST,"",Active
+The Sevens Ale House,Pubs,42.358163031345,-71.070565798128,77 Charles St,Beacon Hill,Boston,MA,02114,US,6175239074,"",EST,"",Active
+Pasta Beach,Italian,42.357012450807,-71.05047044822,30 Rowes Wharf,Waterfront,Boston,MA,02110,US,6174396900,"",EST,"",Active
+Chinatown Cafe,Chinese,42.3475601524115,-71.0626823455095,262 Harrison Ave,Chinatown,Boston,MA,02111,US,6176959888,"",EST,"",Active
+Harvard Gardens,Bars,42.3609451,-71.0688988,316 Cambridge St,Beacon Hill,Boston,MA,02114,US,6175232727,"",EST,"",Active
+Bacco,Italian,42.36417,-71.05538,107 Salem St,North End,Boston,MA,02113,US,6176240454,"",EST,"",Active
+The Old State House,Landmarks & Historical Buildings,42.358739412865,-71.0574688454484,206 Washington St,Downtown,Boston,MA,02108,US,6177201713,"",EST,"",Active
+Fin's Sushi and Grill,Sushi Bars,42.3495635986328,-71.0952835083008,636 Beacon St,"Boston, MA 02215",Boston,MA,02215,US,6172678888,"",EST,"",Active
+Tresca,Italian,42.3630402,-71.0549946,233 Hanover St,North End,Boston,MA,02113,US,6177428240,"",EST,"",Active
+Boston Shawarma,Lebanese,42.34118,-71.08766,315 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6176700460,"",EST,"",Active
+Wow Barbecue,Food Trucks,42.352094,-71.063145,2 Boylston St,Chinatown,Boston,MA,02116,US,5088263192,"",EST,"",Active
+Rose Fitzgerald Kennedy Greenway,Parks,42.3497200012207,-71.0569915771484,Atlantic Ave,Waterfront,Boston,MA,02111,US,6172920020,"",EST,"",Active
+Cactus Mexican Grill,Mexican,42.3700263351202,-71.0390889644623,44 Maverick Sq,East Boston,Boston,MA,02128,US,6175612800,"",EST,"",Active
+Hei La Moon,Dim Sum,42.3510632294959,-71.0588194521079,88 Beach St,Waterfront,Boston,MA,02111,US,6173388813,"",EST,"",Active
+Sakura-Bana,Japanese,42.35798,-71.05431,57 Broad St,Financial District,Boston,MA,02109,US,6175424311,"",EST,"",Active
+King and I,Thai,42.3603591918945,-71.0705642700195,145 Charles St,Beacon Hill,Boston,MA,02114,US,6172273320,"",EST,"",Active
+B. Good,American (Traditional),42.34683,-71.07542,131 Dartmouth St,Back Bay,Boston,MA,02116,US,6174245252,"",EST,"",Active
+City Table,Bars,42.3490681,-71.0794721,The Lenox,61 Exeter St,Boston,MA,02116,US,6179334800,"",EST,"",Active
+The Elephant Walk,Cambodian,42.3411293,-71.0703278,1415 Washington St,South End,Boston,MA,02118,US,6172471500,"",EST,"",Active
+Papa Razzi,Italian,42.3508987,-71.0786285,159 Newbury Street,Back Bay,Boston,MA,02116,US,6175369200,"",EST,"",Active
+Artu,Italian,42.3585929870605,-71.0705032348633,89 Charles St,Beacon Hill,Boston,MA,02114,US,6172279023,"",EST,"",Active
+Fenway Victory Gardens,Parks,42.347306,-71.087669,Boylston St,"Boston, MA 02215",Boston,MA,02215,US,8572440262,"",EST,"",Active
+Boston Harbor Islands,Parks,42.358323,-71.0514327,National Park Service,191w Atlantic Ave,Boston,MA,02110,US,6172238666,"",EST,"",Active
+D'Guru Restaurant,Indian,42.3558769,-71.0574951,187 Devonshire St,Financial District,Boston,MA,02110,US,6173194392,"",EST,"",Active
+Citgo Sign,Local Flavor,42.3491287,-71.096283,666 Beacon St,"Boston, MA 02215",Boston,MA,02215,US,,"",EST,"",Active
+Moonshine 152,American (New),42.3413315,-71.0569153,152 Dorchester Ave,South Boston,Boston,MA,02127,US,6177524191,"",EST,"",Active
+Upper Crust Pizzeria,Pizza,42.3566654492322,-71.0698099806905,20 Charles St,Beacon Hill,Boston,MA,02114,US,6177239600,"",EST,"",Active
+South End Buttery,Bakeries,42.342109,-71.0704467,314 Shawmut Ave,South End,Boston,MA,02118,US,6174821015,"",EST,"",Active
+Wink & Nod,Cocktail Bars,42.346547,-71.069656,3 Appleton St,South End,Boston,MA,02116,US,6174820117,"",EST,"",Active
+Clay Pot Cafe,Cantonese,42.3504982,-71.0604549,74 Kneeland St,Chinatown,Boston,MA,02111,US,6173575262,"",EST,"",Active
+Lucca Back Bay,Italian,42.3465561,-71.0799281,116 Huntington Ave,Back Bay,Boston,MA,02116,US,6172472400,"",EST,"",Active
+Assaggio,Italian,42.3646377772093,-71.0543661564589,29 Prince St,North End,Boston,MA,02113,US,6172277380,"",EST,"",Active
+Mangia Mangia,Italian,42.36502,-71.05714,147 Endicott St,North End,Boston,MA,02113,US,6175231768,"",EST,"",Active
+Internal Matter,Wine Bars,42.3461781442165,-71.0509959608316,35 Channel Center St,Ste 100,Boston,MA,02210,US,8572335873,"",EST,"",Active
+Max's Deli Cafe,Caterers,42.3576657,-71.0541498,151 Milk St,Financial District,Boston,MA,02109,US,6173309790,"",EST,"",Active
+Sullivan's,Fast Food,42.3389449,-71.0139566,2080 Day Blvd,South Boston,Boston,MA,02127,US,6172685685,"",EST,"",Active
+Boston Common Coffee Co.,Coffee & Tea,42.3638382,-71.055481,97 Salem St,North End,Boston,MA,02113,US,6177250040,"",EST,"",Active
+El Triunfo,Mexican,42.3434715270996,-71.064811706543,147 E Berkeley St,South End,Boston,MA,02118,US,6175428499,"",EST,"",Active
+Tantric India Bistro,Indian,42.3511449247599,-71.0655469447374,123 Stuart St,"Boston, MA 02116",Boston,MA,02116,US,6173678742,"",EST,"",Active
+La Galleria 33,Italian,42.3646531999111,-71.0554544627666,125 Salem St,North End,Boston,MA,02113,US,6177237233,"",EST,"",Active
+Bristol Restaurant and Bar,American (New),42.3520899,-71.06831,Four Seasons Hotel Boston,200 Boylston Street,Boston,MA,02116,US,6173512037,"",EST,"",Active
+Sonsie,American (New),42.34884,-71.08625,327 Newbury St,Back Bay,Boston,MA,02115,US,6173512500,"",EST,"",Active
+Flame Cafe,Mediterranean,42.3571268,-71.0543838,2 Oliver St,Financial District,Boston,MA,02109,US,6176159792,"",EST,"",Active
+Blue State Coffee,Coffee & Tea,42.3498701,-71.0430434,155 Seaport Blvd,Waterfront,Boston,MA,02210,US,8572502484,"",EST,"",Active
+Dumpling Cafe,Taiwanese,42.3513071776239,-71.0630919367381,695 Washington St,Chinatown,Boston,MA,02111,US,6173388858,"",EST,"",Active
+Fins Sushi and Grill,Japanese,42.3611053079367,-71.0667639970779,240 Cambridge St,Beacon Hill,Boston,MA,02114,US,6172272277,"",EST,"",Active
+Maverick Marketplace Cafe,Coffee & Tea,42.369918,-71.037922,Maverick Marketplace,154 Maverick St,Boston,MA,02128,US,6174556232,"",EST,"",Active
+Sister Sorel,Bars,42.3422333,-71.0753444,645 Tremont St,South End,Boston,MA,02116,US,6172664600,"",EST,"",Active
+Boloco,American (New),42.3580212641966,-71.0563667836454,50 Congress St,Financial District,Boston,MA,02109,US,6173579013,"",EST,"",Active
+Shake Shack,Burgers,42.3496666,-71.0816727,234 Newbury St,Back Bay,Boston,MA,02116,US,6179335050,"",EST,"",Active
+Sate Asian Grill,Ethnic Food,42.3518072367983,-71.0574840959931,89 S St,Waterfront,Boston,MA,02111,US,,"",EST,"",Active
+Green Dragon Tavern,Pubs,42.3614501953125,-71.0568008422852,11 Marshall St,"Boston, MA 02108",Boston,MA,02108,US,6173670055,"",EST,"",Active
+The Boston Common Frog Pond,Skating Rinks,42.3559117668085,-71.0659217834473,Beacon St,"Boston, MA 02108",Boston,MA,02108,US,6176352120,"",EST,"",Active
+Emmet's Irish Pub & Restaurant,Pubs,42.3582161,-71.0612726,6 Beacon St,Downtown,Boston,MA,02108,US,6177428565,"",EST,"",Active
+High Spot Deli,Delis,42.3581454902887,-71.0619031637907,10 Beacon St,Downtown,Boston,MA,02108,US,6177424000,"",EST,"",Active
+Oakleaf Cakes,Bakeries,42.3434116,-71.0866001,12 Westland Ave,"Boston, MA 02115",Boston,MA,02115,US,6172991504,"",EST,"",Active
+The Black Rose,Pubs,42.3594142632159,-71.0536410447498,160 State St,"Boston, MA 02109",Boston,MA,02109,US,6177422286,"",EST,"",Active
+Antonio's Cucina Italiana,Italian,42.36094,-71.06815,286 Cambridge St,Beacon Hill,Boston,MA,02114,US,6173673310,"",EST,"",Active
+Legal Sea Foods,Seafood,42.3715721795968,-71.0207476455078,Logan Airport,"1 Harborside Dr, Terminal B",Boston,MA,02128,US,6175682811,"",EST,"",Active
+Citizen Public House & Oyster Bar,Gastropubs,42.3443535715342,-71.0983946174383,1310 Boylston St,Fenway,Boston,MA,02215,US,6174509000,"",EST,"",Active
+Beacon Hill Pub,Pubs,42.4234042,-71.0733572,149 Charles St,Beacon Hill,Boston,MA,02108,US,,"",EST,"",Active
+Boston News Cafe,Cafes,42.3551598,-71.0580597,80 Arch St,Downtown,Boston,MA,02110,US,6174231149,"",EST,"",Active
+Petit Robert Bistro,French,42.342830657959,-71.0785827636719,480 Columbus Ave,South End,Boston,MA,02118,US,6178670600,"",EST,"",Active
+Rigoletto Ristorante,Italian,42.3650245595744,-71.0554274196434,115 Salem St,North End,Boston,MA,02113,US,8573503402,"",EST,"",Active
+Derne Street Deli,Delis,42.359539,-71.0634384,16 Derne St,Beacon Hill,Boston,MA,02114,US,6177421449,"",EST,"",Active
+Uni Sashimi Bar,Sushi Bars,42.3485908508301,-71.0887298583984,370 Commonwealth Ave,Back Bay,Boston,MA,02215,US,6175367200,"",EST,"",Active
+Capital One 360 Cafe,Cafes,42.3563222587109,-71.0620372742414,129 Tremont St,Downtown,Boston,MA,02108,US,8884647868,"",EST,"",Active
+AK's Takeout & Delivery,Pizza,42.3399869352579,-71.0493571311235,309 D St,South Boston,Boston,MA,02127,US,6172693500,"",EST,"",Active
+Casa Romero,Mexican,42.34945,-71.08451,30 Gloucester St,Back Bay,Boston,MA,02115,US,6175364341,"",EST,"",Active
+Smith & Wollensky,Steakhouses,42.3497946,-71.0699564,101 Arlington St,Back Bay,Boston,MA,02116,US,6174231112,"",EST,"",Active
+Mobsters & Lobsters Trolley Tour,Tours,42.3589553833008,-71.0578079223633,Downtown,"Boston, MA 02201",Boston,MA,02201,US,6172744715,"",EST,"",Active
+Carmella's Market,Cheese Shops,42.3678818,-71.0353165,86 Cottage St,East Boston,Boston,MA,02128,US,6175676373,"",EST,"",Active
+Red Barn Coffee Roasters,Coffee & Tea,42.3600861730104,-71.0564788161693,1 Faneuil Hall Sq,"Boston, MA 02109",Boston,MA,02109,US,6173713970,"",EST,"",Active
+Lala Rokh,Middle Eastern,42.3579426,-71.0697412,97 Mt. Vernon St,Beacon Hill,Boston,MA,02108,US,6177205511,"",EST,"",Active
+Jade Garden,Chinese,42.350749,-71.060539,18-20 Tyler St,Chinatown,Boston,MA,02111,US,6174233288,"",EST,"",Active
+Top of the Hub,American (New),42.3486489962079,-71.0832595825195,800 Boylston St,Ste 52,Boston,MA,02199,US,6175361775,"",EST,"",Active
+Legal Sea Foods,Seafood,42.347334,-71.0788745,100 Huntington Ave,Back Bay,Boston,MA,02116,US,6172667775,"",EST,"",Active
+Jacob Wirth,German,42.351155,-71.063896,31 Stuart St,Ste 37,Boston,MA,02116,US,6173388586,"",EST,"",Active
+The Merchant,American (New),42.3554384,-71.0580345,60 Franklin St,Downtown,Boston,MA,02110,US,6174826060,"",EST,"",Active
+Neighborhoods Coffee And Crepes,Coffee & Tea,42.343162,-71.099228,96 Peterborough St,Fenway,Boston,MA,02215,US,6172627700,"",EST,"",Active
+Bon Me,Vietnamese,42.349254,-71.100721,602 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6179452615,"",EST,"",Active
+Gather,American (New),42.3523779,-71.0452809,75 Northern Ave,Waterfront,Boston,MA,02210,US,6179827220,"",EST,"",Active
+Legal Sea Foods,Seafood,42.3510123,-71.0679728,26 Park Plaza,Back Bay,Boston,MA,02116,US,6174264444,"",EST,"",Active
+Baltic Deli & Cafe,Delis,42.32826,-71.05669,632 Dorchester Ave,South Boston,Boston,MA,02127,US,6172682435,"",EST,"",Active
+Thirst Juice Co,Vegetarian,42.3566387290209,-71.0600560704862,44 Province St,Downtown,Boston,MA,02108,US,8572334535,"",EST,"",Active
+Tapeo,Tapas Bars,42.3491668701172,-71.0831909179688,266 Newbury St,Back Bay,Boston,MA,02116,US,6172674799,"",EST,"",Active
+Mei Mei Restaurant,Asian Fusion,42.3474142084205,-71.1062359253643,506 Park Dr,"Boston, MA 02215",Boston,MA,02215,US,8572504959,"",EST,"",Active
+Sushi Time,Sushi Bars,42.355848907992,-71.060340330623,417 Washington St,Downtown,Boston,MA,02108,US,6172927610,"",EST,"",Active
+Five Guys Burgers and Fries,Burgers,42.3424825,-71.0853711,263 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6175722074,"",EST,"",Active
+TR Street Foods,American (New),42.350552,-71.049426,343 Congress St,Fort Point,Boston,MA,02210,US,6177900808,"",EST,"",Active
+Montien Thai Restaurant,Thai,42.3510517179966,-71.0639523714781,63 Stuart St,Chinatown,Boston,MA,02116,US,6173385600,"",EST,"",Active
+Fóumami,Sandwiches,42.3560386199727,-71.053454875946,225 Franklin St,Financial District,Boston,MA,02110,US,6174268858,"",EST,"",Active
+Back Bay Social Club,American (New),42.3487206,-71.0834503,867 Boylston St,Back Bay,Boston,MA,02116,US,6172473200,"",EST,"",Active
+Kelley Square Pub,Pubs,42.376202121377,-71.0357013344765,84 Bennington St,East Boston,Boston,MA,02128,US,6175674627,"",EST,"",Active
+Anna's Taqueria,Mexican,42.3610414265935,-71.0679904717241,242 Cambridge St,Beacon Hill,Boston,MA,02114,US,6172278822,"",EST,"",Active
+Prudential Tower,Landmarks & Historical Buildings,42.3475113,-71.0813522,800 Boylston St,Back Bay,Boston,MA,02199,US,6172363100,"",EST,"",Active
+The Paramount,Breakfast & Brunch,42.335373,-71.03788,667 E Broadway,South Boston,Boston,MA,02127,US,6172699999,"",EST,"",Active
+The Florentine Cafe,Italian,42.3643272,-71.0536758,333 Hanover St,North End,Boston,MA,02113,US,6172271777,"",EST,"",Active
+Audubon Boston,American (Traditional),42.347459,-71.10323,838 Beacon St,"Boston, MA 02215",Boston,MA,02215,US,6174211910,"",EST,"",Active
+Herrera's,Mexican,42.35544,-71.06273,11 Temple Pl,Downtown,Boston,MA,02111,US,6174262350,"",EST,"",Active
+Ziti's Italian Express,Pizza,42.3555908,-71.0626297,140 Tremont St,Downtown,Boston,MA,02111,US,8579911246,"",EST,"",Active
+Brown Sugar Cafe,Thai,42.352041047903,-71.121633890381,1033 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6177874242,"",EST,"",Active
+Tavern Road,American (New),42.350641,-71.049346,343 Congress St,Waterfront,Boston,MA,02210,US,6177900808,"",EST,"",Active
+68 Chinese,Chinese,42.3559303,-71.0619736,48 Winter St,Downtown,Boston,MA,02108,US,6173382137,"",EST,"",Active
+Thaitation,Thai,42.3423309326172,-71.0969619750977,129 Jersey St,Fenway,Boston,MA,02215,US,6175859909,"",EST,"",Active
+Good Life,Lounges,42.353525,-71.05918,28 Kingston St,"Boston, MA 02111",Boston,MA,02111,US,6174512622,"",EST,"",Active
+Cornwall's,Pubs,42.34939,-71.0959,654 Beacon St,"Boston, MA 02215",Boston,MA,02215,US,6172623749,"",EST,"",Active
+Wabora,Sushi Bars,42.3492889404297,-71.0827255249023,254 Newbury St,Back Bay,Boston,MA,02116,US,6174312284,"",EST,"",Active
+Parker's Restaurant,American (New),42.35779479146,-71.0599632561207,60 School St,Downtown,Boston,MA,02108,US,6172278600,"",EST,"",Active
+North End Park,Parks,42.3623155879086,-71.0562213449829,Between the North End and the Financial District,"Boston, MA 02113",Boston,MA,02113,US,,"",EST,"",Active
+Chinatown,Chinese,42.3513031005859,-71.0604705810547,65 Beach St,Chinatown,Boston,MA,02111,US,,"",EST,"",Active
+Central Bistro,French,42.3549818247557,-71.0585443675518,101 Arch St,Downtown,Boston,MA,02110,US,6177371777,"",EST,"",Active
+Chilli Duck,Thai,42.3489418029785,-71.0826568603516,829 Boylston St,Back Bay,Boston,MA,02116,US,6172365208,"",EST,"",Active
+Socializing for Justice,Active Life,42.358333,-71.060278,Downtown,"Boston, MA 02228",Boston,MA,02228,US,,"",EST,"",Active
+Davio's To Go,Italian,42.350514,-71.071035,10 St James St,Back Bay,Boston,MA,02116,US,6173574810,"",EST,"",Active
+Salvatore's,Italian,42.34856072838,-71.038549773245,225 Northern Ave,Waterfront,Boston,MA,02210,US,6177375454,"",EST,"",Active
+Parish Cafe,American (New),42.3393478,-71.0805817,493 Massachusetts Ave,South End,Boston,MA,02118,US,6173910501,"",EST,"",Active
+Pavement Coffeehouse,Coffee & Tea,42.3417702,-71.087204,44 Gainsborough St,"Boston, MA 02115",Boston,MA,02115,US,6178597080,"",EST,"",Active
+Pushcart Cafe & Pizzeria,Italian,42.364838,-71.055475,117 Salem St,North End,Boston,MA,02113,US,6175238123,"",EST,"",Active
+Pho Viet's,Vietnamese,42.3523331,-71.1247025,1095 Commonwealth Ave,Allston/Brighton,Boston,MA,02228,US,6175628828,"",EST,"",Active
+Viga,Sandwiches,42.3578415,-71.058342,275 Washington St,Downtown,Boston,MA,02108,US,6177428442,"",EST,"",Active
+P.F. Chang's,Chinese,42.3513488468168,-71.0661417245865,8 Park Plaza,"Boston, MA 02116",Boston,MA,02116,US,6175730821,"",EST,"",Active
+Union Oyster House,Seafood,42.3612670898438,-71.0568923950195,41 Union St,"Boston, MA 02108",Boston,MA,02108,US,6172272750,"",EST,"",Active
+Mobile Yelp Desk,Local Flavor,42.345985,-71.070495,130 Columbus Ave,South End,Boston,MA,02116,US,,"",EST,"",Active
+Alibi,Lounges,42.362014,-71.070142,215 Charles St,"Boston, MA 02114",Boston,MA,02114,US,8572411144,"",EST,"",Active
+Pret A Manger,Coffee & Tea,42.3508484057599,-71.0748283385857,507 Boylston Street,Back Bay,Boston,MA,02116,US,6172360634,"",EST,"",Active
+Hidyan Café,Ice Cream & Frozen Yogurt,42.34255,-71.09912,80 Kilmarnock St,Fenway,Boston,MA,02215,US,6174370966,"",EST,"",Active
+Nud Pob Thai Cuisine,Thai,42.349852949539,-71.107011845593,738 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6172329992,"",EST,"",Active
+Sushi Station,Japanese,42.332906,-71.101709,1562 Tremont St,Ste 1,Boston,MA,02120,US,6177380888,"",EST,"",Active
+Milano's Delicatessen,Delis,42.3870201,-71.0073929,978 Saratoga St,East Boston,Boston,MA,02128,US,6175676718,"",EST,"",Active
+Solas,Pubs,42.3493082,-71.0796434,710 Boylston St,Back Bay,Boston,MA,02199,US,6179334803,"",EST,"",Active
+Sweet Cheeks,Southern,42.3438762985484,-71.101050100398,1381 Boylston St,Fenway,Boston,MA,02215,US,6172661300,"",EST,"",Active
+Rabia's,Italian,42.3643762,-71.055642,73 Salem St,North End,Boston,MA,02113,US,6172276637,"",EST,"",Active
+Moyzilla,Food Trucks,42.3364742,-71.0732286,South End,"Boston, MA 02010",Boston,MA,02010,US,7816402361,"",EST,"",Active
+Oliveiras Restaurant East Boston,Brazilian,42.3769645690918,-71.0301971435547,297 Chelsea St,East Boston,Boston,MA,02128,US,6175617277,"",EST,"",Active
+Loconte's Italian Cuisine,Italian,42.3646572232246,-71.0555758327246,116 Salem St,North End,Boston,MA,02113,US,6177200339,"",EST,"",Active
+New Golden Gate,Chinese,42.3511811345816,-71.0596420615911,66 Beach St,Chinatown,Boston,MA,02111,US,6173387721,"",EST,"",Active
+Sip Wine Bar and Kitchen,Wine Bars,42.3534477310604,-71.0626994386251,581 Washington St,Chinatown,Boston,MA,02111,US,6179560888,"",EST,"",Active
+Burritos and Tacos To Go,Mexican,42.3473908019202,-71.0752098820008,Back Bay Station,145 Dartmouth St,Boston,MA,02116,US,,"",EST,"",Active
+Crossroads Irish Pub,Pubs,42.350524,-71.089744,495 Beacon St,Back Bay,Boston,MA,02115,US,8572335943,"",EST,"",Active
+Pita,Mediterranean,42.3451309,-71.086792,197A Massachusetts Ave,"Boston, MA 02115",Boston,MA,02115,US,8572638390,"",EST,"",Active
+Chicken Lou's,Fast Food,42.3381946,-71.0898874,50 Forsyth St,"Boston, MA 02115",Boston,MA,02115,US,6178597017,"",EST,"",Active
+Select Oyster Bar,Seafood,42.3486099,-71.0841064,50 Gloucester St,Back Bay,Boston,MA,02115,US,8572398064,"",EST,"",Active
+Blue State Coffee,Coffee & Tea,42.3519897,-71.1188889,957 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6172540929,"",EST,"",Active
+Blackstone Grill,American (Traditional),42.3608092,-71.0567962,15 Union St,"Boston, MA 02108",Boston,MA,02108,US,8572653480,"",EST,"",Active
+Vito's Tavern,Pubs,42.3631357401609,-71.0562437027693,54 Salem St,"Boston, MA 02113",Boston,MA,02113,US,8572770229,"",EST,"",Active
+North 26,American (Traditional),42.361556,-71.056058,Millennium Bostonian Hotel,"Boston, MA 02109",Boston,MA,02109,US,6175233600,"",EST,"",Active
+Thai Basil,Thai,42.3509216308594,-71.0766906738281,132 Newbury St,Back Bay,Boston,MA,02116,US,6175780089,"",EST,"",Active
+Boston Beer Works,Pubs,42.3644577,-71.0600313,112 Canal St,"Boston, MA 02114",Boston,MA,02114,US,6178962337,"",EST,"",Active
+Yamato II,Japanese,42.3505745,-71.0760345,545 Boylston St,Back Bay,Boston,MA,02116,US,8572504473,"",EST,"",Active
+Crazy Dough's Pizza,Pizza,42.3468097,-71.0889597,1124 Boylston St,"Boston, MA 02215",Boston,MA,02215,US,6172665656,"",EST,"",Active
+Caffébene,Gelato,42.3422516,-71.0844606,333 Massachusetts Ave,"Boston, MA 02115",Boston,MA,02115,US,6179826688,"",EST,"",Active
+Style Cafe,Cafes,42.373752410498,-71.051664437253,197 8th St,Charlestown,Boston,MA,02129,US,6172417300,"",EST,"",Active
+Legal Sea Foods - Logan Airport Terminal C,Seafood,42.3662811678079,-71.0170841217041,1 Harborside Dr,East Boston,Boston,MA,02128,US,6175682800,"",EST,"",Active
+The Junction,Bars,42.335090637207,-71.0459518432617,110 Dorchester St,South Boston,Boston,MA,02127,US,6172686429,"",EST,"",Active
+Blu Restaurant & Bar,American (New),42.3530951,-71.0627476,Equinox Sports Club,4 Avery St 4th Fl,Boston,MA,02111,US,6173758550,"",EST,"",Active
+Victoria's Diner,Diners,42.327076,-71.066801,1024 Massachusetts Ave,"Boston, MA 02118",Boston,MA,02118,US,6174425965,"",EST,"",Active
+Copley Square,Parks,42.3498938756525,-71.0763502120972,Back Bay,"Boston, MA 02116",Boston,MA,02116,US,,"",EST,"",Active
+Penguin Pizza,Pizza,42.334502,-71.10545,735 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6172779200,"",EST,"",Active
+Chau Chow City,Dim Sum,42.3525011,-71.0602416,83 Essex St,Chinatown,Boston,MA,02111,US,6173388158,"",EST,"",Active
+Bon Me,Vietnamese,42.348722,-71.057985,185 Kneeland St,Waterfront,Boston,MA,02111,US,6179459804,"",EST,"",Active
+Amrheins,American (New),42.3419113,-71.0552216,80 W Broadway,South Boston,Boston,MA,02127,US,6172686189,"",EST,"",Active
+Seiyo,Sushi Bars,42.3369298875332,-71.0765178501606,1721 Washington St,South End,Boston,MA,02118,US,6174472183,"",EST,"",Active
+Lucia Ristorante,Italian,42.365592956543,-71.0527114868164,415 Hanover St,North End,Boston,MA,02113,US,6173672353,"",EST,"",Active
+Paradise Rock Club,Bars,42.35177,-71.1192632,967 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6175628800,"",EST,"",Active
+Freshii,Soup,42.3545680940151,-71.0548107326031,100 High St,Ste 100,Boston,MA,02110,US,8572332674,"",EST,"",Active
+Sullivan's Tap,Dive Bars,42.36501,-71.0611799,168 Canal St,"Boston, MA 02114",Boston,MA,02114,US,6176177617,"",EST,"",Active
+Beacon Hill Hotel & Bistro,Hotels,42.356802383547,-71.06961486681,25 Charles St,Beacon Hill,Boston,MA,02114,US,6177231133,"",EST,"",Active
+Farmer Horse Coffee,Coffee & Tea,42.3419329,-71.0834116,374 Massachusetts Ave,"Boston, MA 02115",Boston,MA,02115,US,6179827183,"",EST,"",Active
+Gracenote,Coffee & Tea,42.3515995758639,-71.0581312420251,108 Lincoln St,Waterfront,Boston,MA,02111,US,,"",EST,"",Active
+Potluck Cafe,Chinese,42.35117,-71.061989,7 Knapp St,Chinatown,Boston,MA,02111,US,6174821188,"",EST,"",Active
+Ristorante Fiore,Italian,42.3635826,-71.0549316,250 Hanover St,North End,Boston,MA,02113,US,6173711176,"",EST,"",Active
+Boloco Atlantic Wharf,Mexican,42.3527145,-71.0525284,284 Congress St,Waterfront,Boston,MA,02210,US,8572847488,"",EST,"",Active
+Miel,French,42.3539856484377,-71.052186191082,InterContinental Boston,510 Atlantic Ave,Boston,MA,02210,US,6172175151,"",EST,"",Active
+Symphony Sushi,Japanese,42.3417364060879,-71.0868249088526,45 Gainsborough St,"Boston, MA 02115",Boston,MA,02115,US,6172623888,"",EST,"",Active
+Anthem Kitchen and Bar,American (New),42.359763021257,-71.0556122920653,101 S Market St,"Boston, MA 02109",Boston,MA,02109,US,6177205570,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3588981628418,-71.0705795288086,97 Charles St,Beacon Hill,Boston,MA,02114,US,6172273812,"",EST,"",Active
+Rina's Pizzeria & Cafe,Italian,42.3648872375488,-71.0531387329102,371 Hanover St,North End,Boston,MA,02113,US,6174565700,"",EST,"",Active
+Crudo,Japanese,42.3636849645937,-71.0559069509264,78 Salem St,North End,Boston,MA,02113,US,6173676500,"",EST,"",Active
+Bean & Leaf Cafe,Sandwiches,42.3581696,-71.0530548,20 Custom House St,Financial District,Boston,MA,02110,US,6172614727,"",EST,"",Active
+Carlo's Market & Cold Cut Center,Delis,42.3824838548899,-71.0186042636633,567 Bennington St,East Boston,Boston,MA,02128,US,6175670058,"",EST,"",Active
+Capitol Coffee House,Coffee & Tea,42.3588486,-71.0626984,122 Bowdoin St,Beacon Hill,Boston,MA,02108,US,6172274865,"",EST,"",Active
+Bin 26 Enoteca,Italian,42.3567997335806,-71.0697841644287,26 Charles St,Beacon Hill,Boston,MA,02114,US,6177235939,"",EST,"",Active
+Tico,Latin American,42.350461,-71.07292,222 Berkeley St,Back Bay,Boston,MA,02116,US,6173510400,"",EST,"",Active
+Pierrot Bistrot Francais,French,42.36094,-71.06793,272 Cambridge St,Beacon Hill,Boston,MA,02114,US,6177258855,"",EST,"",Active
+Boloco Berklee,Mexican,42.34692,-71.0880737,1080 Boylston St,"Boston, MA 02115",Boston,MA,02115,US,6173699087,"",EST,"",Active
+Panera Cares,Cafes,42.359086,-71.060119,3 Center Plz,Downtown,Boston,MA,02108,US,6173713991,"",EST,"",Active
+Hot Mess! Sundays,Dance Clubs,42.3500324785709,-71.0652847588062,275 Tremont St,"Boston, MA 02116",Boston,MA,02116,US,6178194297,"",EST,"",Active
+Uno Due Go,American (New),42.354474206834,-71.058871762822,52 Summer St,Downtown,Boston,MA,02110,US,6176951834,"",EST,"",Active
+Sushiteq Sushi & Tequila Experience,Sushi Bars,42.353961,-71.051914,InterContinental Boston,510 Atlantic Ave,Boston,MA,02210,US,6177471000,"",EST,"",Active
+Starbucks,Coffee & Tea,42.352094186471,-71.056004661882,1 Financial Ctr,Waterfront,Boston,MA,02210,US,6174280080,"",EST,"",Active
+Popeyes,Fast Food,42.3475227,-71.0984039,21 Brookline Ave,"Boston, MA 02215",Boston,MA,02215,US,6172621687,"",EST,"",Active
+6B Lounge,Lounges,42.3580017089844,-71.0615921020508,6B Beacon St,Downtown,Boston,MA,02108,US,6177420306,"",EST,"",Active
+Back Bay Harry's,American (New),42.3489003,-71.0720904,142 Berkeley St,Back Bay,Boston,MA,02116,US,6174246711,"",EST,"",Active
+Dolphin Bay,Taiwanese,42.3524595116339,-71.128802412403,72 Brighton Ave,Allston/Brighton,Boston,MA,02134,US,6175621668,"",EST,"",Active
+OAK Long Bar + Kitchen,Bars,42.3492754035969,-71.0767042636871,138 St. James Ave,Back Bay,Boston,MA,02116,US,6172675300,"",EST,"",Active
+The Lansdowne Pub,Pubs,42.3472148180008,-71.0948427021503,9 Lansdowne St,Fenway,Boston,MA,02215,US,6172471222,"",EST,"",Active
+Wing's Kitchen,Chinese,42.350525,-71.060364,23 Hudson St,Chinatown,Boston,MA,02111,US,6173382218,"",EST,"",Active
+Marlboro Market,Grocery,42.3498956859112,-71.0890994220972,45 Massachusetts Ave,Back Bay,Boston,MA,02115,US,6175366614,"",EST,"",Active
+Campus Trolley,Food Stands,42.3496840022047,-71.1029842123389,665 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6172367884,"",EST,"",Active
+Pavia Italian Cuisine,Italian,42.3577592521906,-71.0556804388762,82 Water St,Financial District,Boston,MA,02109,US,6177203000,"",EST,"",Active
+El Penol,Latin American,42.3756663501263,-71.0370209813118,54 Bennington St,East Boston,Boston,MA,02128,US,6175690100,"",EST,"",Active
+Temptations Cafe,Coffee & Tea,42.341126235729,-71.0875931299024,313 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6172666080,"",EST,"",Active
+Bon Me,Food Trucks,42.351188659668,-71.0756530761719,220 Clarendon St,Back Bay,Boston,MA,02116,US,6179899804,"",EST,"",Active
+Milk Street Cafe,Sandwiches,42.357002,-71.057617,50 Milk St,Downtown,Boston,MA,02109,US,6175423663,"",EST,"",Active
+Cafe Mamtaz,Indian,42.3342604190111,-71.0354116559029,87 L St,South Boston,Boston,MA,02127,US,6174644800,"",EST,"",Active
+Stephanie's On Newbury,American (New),42.3502893,-71.0794029,190 Newbury St,Back Bay,Boston,MA,02116,US,6172360990,"",EST,"",Active
+Joe's American Bar & Grill,American (Traditional),42.3506393,-71.0791245,181 Newbury St,Back Bay,Boston,MA,02116,US,6175364200,"",EST,"",Active
+Aragosta Bar and Bistro,Italian,42.3661701893958,-71.0512661933899,3 Battery Wharf,North End,Boston,MA,02109,US,6179949000,"",EST,"",Active
+Regina Pizzeria,Pizza,42.3442548214725,-71.0984469096914,1330 Boylston St,Fenway,Boston,MA,02215,US,6172669210,"",EST,"",Active
+Mother Anna's Restaurant,Italian,42.3626207560301,-71.0556381940842,211 Hanover St,North End,Boston,MA,02113,US,6175238496,"",EST,"",Active
+Billy Tse Restaurant,Japanese,42.3637294,-71.0514761,240 Commercial St,North End,Boston,MA,02109,US,6172279990,"",EST,"",Active
+Charlestown Navy Yard,Landmarks & Historical Buildings,42.3720207,-71.0593491,Charlestown Navy Yard,Charlestown,Boston,MA,02129,US,,"",EST,"",Active
+Sal's Pizza,Pizza,42.3547383629011,-71.0634434223175,150 Tremont St,Downtown,Boston,MA,02111,US,6172271010,"",EST,"",Active
+Rustic Kitchen,Italian,42.35038,-71.06748,210 Stuart St,"Boston, MA 02116",Boston,MA,02116,US,6174235700,"",EST,"",Active
+China Pearl Restaurant,Dim Sum,42.35113,-71.06077,9 Tyler St,Chinatown,Boston,MA,02111,US,6174264338,"",EST,"",Active
+Felcaro Pizzeria,Pizza,42.3610115,-71.0688412,280 Cambridge St,Beacon Hill,Boston,MA,02114,US,6177420011,"",EST,"",Active
+Umai,Japanese,42.349712,-71.081154,224 Newbury St,Back Bay,Boston,MA,02116,US,6172622228,"",EST,"",Active
+L'osteria,Italian,42.3642414808273,-71.0556153953075,104 Salem St,North End,Boston,MA,02113,US,6177237847,"",EST,"",Active
+Four Winds Bar and Grill,Bars,42.3643188476562,-71.0513534545898,266 Commercial St,North End,Boston,MA,02109,US,6177423922,"",EST,"",Active
+Potbelly Sandwich Shop,Sandwiches,42.3695431,-71.0200613,Logan International Airport 1 Harborside Dr,Terminal C,Boston,MA,02128,US,6178744047,"",EST,"",Active
+Ariana Restaurant,Afghan,42.3625232865598,-71.1388816773072,384 Western Ave,"Boston, MA 02135",Boston,MA,02135,US,6172088072,"",EST,"",Active
+Kashmir Indian Restaurant,Indian,42.349387,-71.083977,279 Newbury St,Ste 2,Boston,MA,02116,US,6175361695,"",EST,"",Active
+Tavern In The Square,Sports Bars,42.3657680641523,-71.0601403604627,120 Beverly St,"Boston, MA 02114",Boston,MA,02114,US,6172630404,"",EST,"",Active
+Eat Street Cafe,Delis,42.3624564707279,-71.0693744570017,55 Fruit St,"Boston, MA 02228",Boston,MA,02228,US,6177262000,"",EST,"",Active
+The Glenville Stops,American (New),42.3494633823329,-71.134942010915,87 Glenville Ave,Allston/Brighton,Boston,MA,02134,US,6179033638,"",EST,"",Active
+Wichit,Sandwiches,42.349626,-71.082437,244 Newbury St,Back Bay,Boston,MA,02116,US,8572771708,"",EST,"",Active
+Falafel King,Falafel,42.3542272,-71.0586884,62 Summer St,Downtown,Boston,MA,02110,US,6174822223,"",EST,"",Active
+BarLola Tapas Lounge,Tapas Bars,42.3513,-71.0786399,160 Commonwealth Ave,Back Bay,Boston,MA,02116,US,6172661122,"",EST,"",Active
+The Bacon Truck,Food Trucks,42.3377967,-71.0705763,560 Harrison Ave,South End,Boston,MA,02118,US,2016949060,"",EST,"",Active
+Durgin-Park,Seafood,42.3604673407354,-71.0550384250855,340 Faneuil Hall Market Pl,"Boston, MA 02109",Boston,MA,02109,US,6172272038,"",EST,"",Active
+The Back Bay Fens,Parks,42.341843636386,-71.0964746133586,Park Dr at Jersey St,Fenway,Boston,MA,02215,US,,"",EST,"",Active
+Thornton's,Breakfast & Brunch,42.3449142099432,-71.0819613933563,150 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6172676336,"",EST,"",Active
+Blackthorn Bar,Bars,42.33556,-71.0462,471 W Broadway,South Boston,Boston,MA,02127,US,6172695510,"",EST,"",Active
+Sami's Wrap N Roll,Food Stands,42.33742059826,-71.103247493449,107 Ave Louis Pasteur,"Boston, MA 02115",Boston,MA,02115,US,6174320402,"",EST,"",Active
+Crave Mad For Chicken,Japanese,42.3502805,-71.0607747,75 Kneeland St,Chinatown,Boston,MA,02111,US,6173380188,"",EST,"",Active
+Appleton Cafe,Bakeries,42.3452724,-71.074715,123 Appleton St,South End,Boston,MA,02116,US,6178598222,"",EST,"",Active
+Boston & Maine Fish,Seafood,42.3600210249424,-71.0556127130985,1 Faneuil Hall Market Pl,"Boston, MA 02109",Boston,MA,02109,US,6177234111,"",EST,"",Active
+Barney Fanning's,Irish,42.3573072999716,-71.0525623708963,99 Broad St,Financial District,Boston,MA,02110,US,6173578287,"",EST,"",Active
+El Centro,Mexican,42.3386069387197,-71.0760410875082,472 Shawmut Ave,South End,Boston,MA,02118,US,6172625708,"",EST,"",Active
+The Kinsale,Pubs,42.3597908,-71.0602493,2 Center Plz,Downtown,Boston,MA,02108,US,6177425577,"",EST,"",Active
+Hale and Hearty Soups,Soup,42.3556213,-71.0554199,185 Franklin St,Financial District,Boston,MA,02110,US,6173301900,"",EST,"",Active
+Bumpkin Island,Parks,42.3408851623535,-71.0948181152344,Boston Harbor,"Boston, MA 02115",Boston,MA,02115,US,6172238666,"",EST,"",Active
+Bonne Chance Cafe & Bakery,Bakeries,42.3640443384647,-71.0594630241394,77 Canal St,"Boston, MA 02114",Boston,MA,02114,US,6177423115,"",EST,"",Active
+Equator,Thai,42.33695636718,-71.076735183847,1721 Washington St,South End,Boston,MA,02118,US,6175366386,"",EST,"",Active
+OTTO,Pizza,42.35044,-71.11526,888 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6172320447,"",EST,"",Active
+Finagle A Bagel,Bagels,42.3508492,-71.0755692,535 Boylston St,Back Bay,Boston,MA,02116,US,6172662500,"",EST,"",Active
+The Medieval Manor Theatre Restaurant,Performing Arts,42.3434402,-71.0631391,246 E Berkeley St,South End,Boston,MA,02118,US,6174234900,"",EST,"",Active
+Massimino's,Italian,42.36654,-71.05786,207 Endicott St,North End,Boston,MA,02113,US,6175235959,"",EST,"",Active
+Pavement Coffeehouse,Coffee & Tea,42.348843,-71.084396,286 Newbury St,Back Bay,Boston,MA,02115,US,6178599515,"",EST,"",Active
+Legal Test Kitchen,American (New),42.3487845808268,-71.0388763993979,225 Northern Ave,Waterfront,Boston,MA,02210,US,6173307430,"",EST,"",Active
+Larry J's BBQ Cafe,Barbeque,42.3488883972168,-71.0390090942383,600 D St,Waterfront,Boston,MA,02210,US,6173489800,"",EST,"",Active
+Jeveli's Restauant,Italian,42.3794701,-71.0273923,387 Chelsea St,East Boston,Boston,MA,02128,US,6175679539,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3577556107396,-71.0591174423663,27 School St,Downtown,Boston,MA,02108,US,6172277731,"",EST,"",Active
+Babbo Pizzeria e Enoteca,Pizza,42.353733,-71.04535,11 Fan Pier Blvd,Waterfront,Boston,MA,02210,US,6174214466,"",EST,"",Active
+Scullers Jazz Club,Jazz & Blues,42.36007,-71.1182,Double Tree Hotel,400 Soldiers Rd,Boston,MA,02134,US,6175624111,"",EST,"",Active
+Five Guys Burgers and Fries,Burgers,42.3543727,-71.0587193,58 Summer St,Downtown,Boston,MA,02110,US,6174822244,"",EST,"",Active
+Bar 10,Lounges,42.34881,-71.07746,10 Huntington Ave,Back Bay,Boston,MA,02116,US,6174247446,"",EST,"",Active
+Al Capone's V,Pizza,42.353977886819,-71.05825672235,82 Summer St,Downtown,Boston,MA,02110,US,6174261800,"",EST,"",Active
+wagamama,Japanese,42.3601740515266,-71.0541444965554,Quincy Market Bldg,1 S Market St,Boston,MA,02109,US,6177429242,"",EST,"",Active
+Garden Halal Meat,African,42.3616062104702,-71.0563402622938,96 Blackstone St,"Boston, MA 02109",Boston,MA,02109,US,6177230888,"",EST,"",Active
+The Barking Crab,Seafood,42.35393,-71.048629,88 Sleeper St,Waterfront,Boston,MA,02210,US,6174262722,"",EST,"",Active
+Cathedral Station,Sports Bars,42.3427887,-71.0667114,1222 Washington St,South End,Boston,MA,02118,US,6173386060,"",EST,"",Active
+The Bell In Hand,Lounges,42.3615760803223,-71.0570678710938,45 Union St,"Boston, MA 02108",Boston,MA,02108,US,6172272098,"",EST,"",Active
+Asian Garden,Chinese,42.35193,-71.06102,28 Harrison Ave,Chinatown,Boston,MA,02111,US,6176951646,"",EST,"",Active
+Tom English's Cottage,Bars,42.3358181118965,-71.0404662787914,118 Emerson St,South Boston,Boston,MA,02127,US,6172699805,"",EST,"",Active
+East Ocean City,Chinese,42.3513252,-71.0615663,27 Beach St,Chinatown,Boston,MA,02111,US,6175422504,"",EST,"",Active
+South Boston Lithuanian Club,Polish,42.3379,-71.04891,368 W Broadway,South Boston,Boston,MA,02127,US,6172689058,"",EST,"",Active
+Pikaichi,Ramen,42.3522292077541,-71.125316619873,1 Brighton Ave,Allston/Brighton,Boston,MA,02134,US,6177894818,"",EST,"",Active
+MAST',Pizza,42.356885,-71.060223,45 Province St,Downtown,Boston,MA,02108,US,6179363800,"",EST,"",Active
+New Saigon,Vietnamese,42.3863369,-71.0073229,985 Bennington St,East Boston,Boston,MA,02128,US,6175616500,"",EST,"",Active
+Peet's Coffee & Tea,Coffee & Tea,42.357713206394,-71.0703165829182,66 Charles St,Beacon Hill,Boston,MA,02114,US,8573666704,"",EST,"",Active
+Caffe Dello Sport,Coffee & Tea,42.364302,-71.0541317,308 Hanover St,North End,Boston,MA,02113,US,6175235063,"",EST,"",Active
+McGann's Pub,Restaurants,42.3645133972168,-71.0617141723633,197 Portland St,"Boston, MA 02114",Boston,MA,02114,US,6172274059,"",EST,"",Active
+Alley Bar,Gay Bars,42.3581220209599,-71.0588139295578,14 Pi Alley,Downtown,Boston,MA,02108,US,6172631449,"",EST,"",Active
+Scoozi,Italian,42.349675744772,-71.0823550075293,237 Newbury St,Back Bay,Boston,MA,02116,US,6172478847,"",EST,"",Active
+Legal Test Kitchen - Logan Airport Terminal A,Seafood,42.3600825,-71.0588801,1 Harborside Dr,Downtown,Boston,MA,02128,US,6175681888,"",EST,"",Active
+Artu,Italian,42.3641323,-71.0537365,6 Prince St,North End,Boston,MA,02113,US,6177424336,"",EST,"",Active
+Boston Beer Works,Breweries,42.3472023010254,-71.0991439819336,61 Brookline Ave,Fenway,Boston,MA,02215,US,6175362337,"",EST,"",Active
+Summer Shack,Seafood,42.347067,-71.085658,50 Dalton St,"Boston, MA 02115",Boston,MA,02115,US,6178679955,"",EST,"",Active
+Saté Grill-on-Wheels,Asian Fusion,42.3529544298535,-71.0556435585022,Dewey Sq,Waterfront,Boston,MA,02116,US,6718070706,"",EST,"",Active
+Central Wharf Co,Bars,42.3585953,-71.0527324,160 Milk St,Financial District,Boston,MA,02109,US,6174519460,"",EST,"",Active
+Hong Kong At Faneuil Hall,Lounges,42.359669120182,-71.053907939597,65 Chatham St,"Boston, MA 02109",Boston,MA,02109,US,6172272226,"",EST,"",Active
+Copp's Hill Burying Ground,Landmarks & Historical Buildings,42.3667560517788,-71.0554973781109,21 Hull St,North End,Boston,MA,02113,US,,"",EST,"",Active
+Avery Bar,Bars,42.3531901091337,-71.0628519952297,10 Avery St,Chinatown,Boston,MA,02111,US,6175747100,"",EST,"",Active
+Thai Dish,Thai,42.3495712,-71.0952682,636 Beacon St,"Boston, MA 02215",Boston,MA,02215,US,6174379611,"",EST,"",Active
+Hot Eastern,Mongolian,42.3515739,-71.0609436,42 Beach St,Chinatown,Boston,MA,02111,US,6177179866,"",EST,"",Active
+Sidebar Food & Spirits,American (Traditional),42.3564764857292,-71.0598278045654,14 Bromfield St,Downtown,Boston,MA,02108,US,6173571899,"",EST,"",Active
+Jaho Coffee Roaster & Wine Bar,Wine Bars,42.35183,-71.06322,665 Washington St,Chinatown,Boston,MA,02116,US,8572334094,"",EST,"",Active
+The Green T Coffee Shop,Coffee & Tea,42.333454,-71.10569,754 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6174878409,"",EST,"",Active
+The Brahmin,American (New),42.3484325,-71.0731806,33 Stanhope St,Back Bay,Boston,MA,02116,US,6177233131,"",EST,"",Active
+Tatte Bakery & Cafe,Cafes,42.3578910827637,-71.0706329345703,70 Charles St,Beacon Hill,Boston,MA,02114,US,6177235555,"",EST,"",Active
+The Walrus & the Carpenter Oyster Bar,Seafood,42.360415,-71.054252,Quincy Market,1 Faneuil Hall Sq,Boston,MA,02109,US,6177421530,"",EST,"",Active
+Nespresso Boutique Bar,Coffee & Tea,42.3526993,-71.0713882,7 Newbury Street,Back Bay,Boston,MA,02116,US,8005621465,"",EST,"",Active
+Quic Pic BBQ,Chinese,42.351536,-71.06073,50 Beach St,Chinatown,Boston,MA,02111,US,6174261110,"",EST,"",Active
+Empire Asian Restaurant & Lounge,Lounges,42.3529147863218,-71.0455799102783,1 Marina Park Dr,Waterfront,Boston,MA,02210,US,6172950001,"",EST,"",Active
+Basho Japanese Brasserie,Japanese,42.3440947383642,-71.099374294281,1338 Boylston St,Fenway,Boston,MA,02215,US,6172621338,"",EST,"",Active
+Precinct Kitchen + Bar,Bars,42.3493362,-71.0723568,154 Berkeley St,Back Bay,Boston,MA,02116,US,6175323827,"",EST,"",Active
+Nunzio's Pizzeria,Pizza,42.359169,-71.0525818,195 State St,Financial District,Boston,MA,02109,US,6177234321,"",EST,"",Active
+Ichiban Yakitori Sushi,Korean,42.3433111789979,-71.0866500982307,14a Westland Ave,"Boston, MA 02115",Boston,MA,02115,US,6172367907,"",EST,"",Active
+Downtown Harvard Club of Boston,Venues & Event Spaces,42.3560715,-71.0569916,Downtown Club,1 Federal St,Boston,MA,02110,US,6175422070,"",EST,"",Active
+Geido Sushi,Sushi Bars,42.3523615086722,-71.1255211383104,1 Brighton Ave,Allston/Brighton,Boston,MA,02134,US,6179870135,"",EST,"",Active
+Scali Cafe,Burgers,42.3546717,-71.0534953,147 Pearl St,Waterfront,Boston,MA,02110,US,6175421965,"",EST,"",Active
+Teriyaki House,Japanese,42.3427,-71.056381,32 W Broadway,South Boston,Boston,MA,02127,US,6172692000,"",EST,"",Active
+Haru,Japanese,42.346887578355,-71.080269963777,55 Huntington Ave,Back Bay,Boston,MA,02199,US,6175360770,"",EST,"",Active
+Chart House,Seafood,42.36019,-71.0494,60 Long Wharf,Waterfront,Boston,MA,02110,US,6172271576,"",EST,"",Active
+Another Cup,Coffee & Tea,42.34858,-71.062941,1 Nassau St,Chinatown,Boston,MA,02111,US,8572332576,"",EST,"",Active
+Scholars American Bistro & Cocktail Lounge,American (New),42.357769319572,-71.059207250754,25 School St,Downtown,Boston,MA,02108,US,6172480025,"",EST,"",Active
+Sam's,American (New),42.35447,-71.04446,60 Northern Ave,Waterfront,Boston,MA,02210,US,6172950191,"",EST,"",Active
+Brownstone,Bars,42.3464813,-71.0752869,111 Dartmouth St,Back Bay,Boston,MA,02116,US,6178674142,"",EST,"",Active
+Pho & I,Thai,42.3421789705753,-71.0858680307865,267 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6172620011,"",EST,"",Active
+Map Room Café,Cafes,42.349856,-71.077799,The Boston Public Library,230 Darmouth St,Boston,MA,02116,US,6178592250,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3487625,-71.0773926,Westin Hotel Copley,10 Huntington Ave,Boston,MA,02116,US,6178670491,"",EST,"",Active
+Boloco Northeastern,Fast Food,42.340055608578005,-71.09023236726901,"Marino Center, Northeastern University",359 Huntington Ave,Boston,MA,02115,US,6175366814,"",EST,"",Active
+Cosi,Sandwiches,42.3568687,-71.0579147,14 Milk St,Downtown,Boston,MA,02108,US,6174260593,"",EST,"",Active
+Rocco's Cucina & Bar,Sports Bars,42.3674477,-71.053254,450 Commercial St,North End,Boston,MA,02109,US,6175234055,"",EST,"",Active
+Caffe Lil Italy,Coffee & Tea,42.36656,-71.05485,178 Salem St,North End,Boston,MA,02113,US,6172271303,"",EST,"",Active
+Red Hat,Dive Bars,42.3609886,-71.063179,9 Bowdoin St,Beacon Hill,Boston,MA,02114,US,6175232175,"",EST,"",Active
+5 Spices House,Taiwanese,42.3513735830784,-71.0604359954596,58 Beach St,Chinatown,Boston,MA,02111,US,6175748888,"",EST,"",Active
+Bella Vista,Italian,42.3640199,-71.0545099,288 Hanover St,North End,Boston,MA,02113,US,6173674999,"",EST,"",Active
+Salvatores Theater District,Italian,42.3536994,-71.0623251,545 Washington St,Chinatown,Boston,MA,02111,US,6175425555,"",EST,"",Active
+Black Seed Cafe & Grill,Middle Eastern,42.35634,-71.062278,131 Tremont St,Downtown,Boston,MA,02111,US,6173380024,"",EST,"",Active
+Royal Roast Beef & Seafood,Seafood,42.3856010437012,-71.0107955932617,752 Bennington St,East Boston,Boston,MA,02128,US,6175677779,"",EST,"",Active
+The Hill Tavern,Pubs,42.360981,-71.066658,228 Cambridge St,Beacon Hill,Boston,MA,02114,US,6177426192,"",EST,"",Active
+Brasserie Jo,French,42.346223,-71.080838,120 Huntington Ave,Back Bay,Boston,MA,02116,US,6174253240,"",EST,"",Active
+Committee,Mediterranean,42.3529892,-71.0455704,50 Northern Ave,Waterfront,Boston,MA,02210,US,6177375051,"",EST,"",Active
+Max Brenner,Desserts,42.349479675293,-71.0806503295898,745 Boylston St,Back Bay,Boston,MA,02116,US,6172741741,"",EST,"",Active
+Zumas Tex Mex Grill,Tex-Mex,42.360225,-71.05469,Faneuil Hall Marketplace,7 N Market St,Boston,MA,02109,US,6173679114,"",EST,"",Active
+Rowes Wharf Sea Grille,American (New),42.3565521,-71.0505981,70 Rowes Wharf,Waterfront,Boston,MA,02110,US,6178567744,"",EST,"",Active
+Met Back Bay,American (New),42.3510919511318,-71.0777764767408,279 Dartmouth St,Back Bay,Boston,MA,02116,US,6172670451,"",EST,"",Active
+Bond Restaurant | Lounge,Lounges,42.3565712,-71.0542068,250 Franklin St,Financial District,Boston,MA,02110,US,6179568765,"",EST,"",Active
+Towne Stove and Spirits,American (New),42.3482841,-71.0834741,900 Boylston St,Back Bay,Boston,MA,02115,US,6172470400,"",EST,"",Active
+MMMac & Cheese,American (Traditional),42.3600387573242,-71.0562362670898,Quincy Market Building,1 Faneuil Hall Marketplace,Boston,MA,02109,US,,"",EST,"",Active
+Flat Black Coffee Company,Cafes,42.3569564819336,-71.0539779663086,260 Franklin St,Financial District,Boston,MA,02110,US,6179511440,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.3496513366699,-71.0800094604492,715 Boylston St,Back Bay,Boston,MA,02116,US,6172677153,"",EST,"",Active
+Shenannigan's Irish Pub & Restaurant,Bars,42.33849,-71.04971,332 W Broadway,South Boston,Boston,MA,02127,US,6172699509,"",EST,"",Active
+The Boston University Pub,Pubs,42.3508415222168,-71.103645324707,225 Bay State Rd,"Boston, MA 02115",Boston,MA,02115,US,6173533456,"",EST,"",Active
+Suishaya,Japanese,42.3512316,-71.0604492,2 Tyler St,Chinatown,Boston,MA,02111,US,6174233848,"",EST,"",Active
+SA PA,Vietnamese,42.3533617,-71.0595138,92 Bedford St,"Boston, MA 02111",Boston,MA,02111,US,6173037000,"",EST,"",Active
+Clink,American (New),42.362238,-71.070537,The Liberty Hotel,215 Charles St,Boston,MA,02114,US,6172244004,"",EST,"",Active
+McGreevy's,Sports Bars,42.3484688,-71.0844116,911 Boylston St,Back Bay,Boston,MA,02115,US,6172620911,"",EST,"",Active
+Panificio,Bakeries,42.3598776,-71.0708957,144 Charles St,Beacon Hill,Boston,MA,02114,US,6172274340,"",EST,"",Active
+Bishop's Mediterranean,Mediterranean,42.3629627376795,-71.0638538002968,70 Staniford St,"Boston, MA 02114",Boston,MA,02114,US,6177423300,"",EST,"",Active
+American Airlines Admiral's Club,Airport Lounges,42.3628281280958,-71.0172867251816,1 Harborside Dr,East Boston,Boston,MA,02128,US,,"",EST,"",Active
+Frost Ice Loft,Cocktail Bars,42.3601991730825,-71.0548014576721,Faneuil Hall Market Pl,200 State St N Bldg 3rd Fl,Boston,MA,02109,US,6173077331,"",EST,"",Active
+Pho Hoa Noodle Soup,Vietnamese,42.3513085,-71.0618885,17 Beach St,Chinatown,Boston,MA,02111,US,6174233934,"",EST,"",Active
+Sakanaya,Seafood,42.352581779668,-71.130359172821,75 Linden St,Allston/Brighton,Boston,MA,02134,US,6172540009,"",EST,"",Active
+Drydock Cafe,Seafood,42.3444786,-71.036232,7 Drydock Ave,South Boston,Boston,MA,02210,US,6179512999,"",EST,"",Active
+Samurai Boston,Sushi Bars,42.34896,-71.08257,827 Boylston St,Back Bay,Boston,MA,02116,US,6172367672,"",EST,"",Active
+Haymarket International Food Co,Middle Eastern,42.3614272,-71.0562087,88 Blackstone St,"Boston, MA 02109",Boston,MA,02109,US,6179189988,"",EST,"",Active
+House of Siam,Thai,42.34141,-71.08033,542 Columbus Ave,South End,Boston,MA,02118,US,6172671755,"",EST,"",Active
+Slate Bar & Grill,American (Traditional),42.3547838,-71.0544682,109 High St,Financial District,Boston,MA,02110,US,8572637372,"",EST,"",Active
+The Dugout,Dive Bars,42.349545,-71.105995,722 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6172478656,"",EST,"",Active
+Worden Hall,American (New),42.3427610900378,-71.0568092748732,22 W Broadway,South Boston,Boston,MA,02127,US,6177524206,"",EST,"",Active
+Nix's Mate,American (New),42.3573418,-71.0532303,89 Broad St,Financial District,Boston,MA,02110,US,6173481234,"",EST,"",Active
+Cafeteria Boston,American (New),42.3492317,-71.0844193,279A Newbury St,Back Bay,Boston,MA,02116,US,6175362233,"",EST,"",Active
+Beantown Pub,Pubs,42.357451481565,-71.060911746876,100 Tremont St,Downtown,Boston,MA,02108,US,6174260111,"",EST,"",Active
+Cafe G,American (New),42.3383751,-71.0986176,Isabella Stewart Gardner Museum,25 Evans Way,Boston,MA,02115,US,6175661088,"",EST,"",Active
+Dumpling Palace,Taiwanese,42.345703125,-71.0873413085938,179 Massachusetts Ave,"Boston, MA 02115",Boston,MA,02115,US,6172668888,"",EST,"",Active
+Boston Barber & Tattoo Co,Barbers,42.364377,-71.0555082,113 Salem St,North End,Boston,MA,02113,US,6177420611,"",EST,"",Active
+UBurger,Burgers,42.351597,-71.121687,1022 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6174874855,"",EST,"",Active
+Empire Garden Restaurant,Dim Sum,42.351177,-71.062865,690 Washington St,Chinatown,Boston,MA,02111,US,6174828898,"",EST,"",Active
+Cafe Arpeggio,Coffee & Tea,42.337371,-71.048149,398 W Broadway,South Boston,Boston,MA,02127,US,6172698822,"",EST,"",Active
+The Landing,Bars,42.3597856181253,-71.0503201610399,One Long Wharf,Waterfront,Boston,MA,02110,US,6172274321,"",EST,"",Active
+Fiouna's Persian Fusion Cuisine,Persian/Iranian,42.343415,-71.099013,90 Peterborough St,Fenway,Boston,MA,02215,US,6172477717,"",EST,"",Active
+La Abundancia Bakery & Restaurant,Colombian,42.3718109,-71.0386963,59 Meridian St,East Boston,Boston,MA,02128,US,6178748250,"",EST,"",Active
+Minibar,Lounges,42.3483582,-71.0786209,51 Huntington Ave,Back Bay,Boston,MA,02116,US,6174248500,"",EST,"",Active
+The Cheesecake Factory,American (Traditional),42.3457537046228,-71.08194757584,115 Huntington Ave,Suite 181,Boston,MA,02199,US,6173997777,"",EST,"",Active
+Trattoria Andiamo,Delis,42.3512200266123,-71.0572388023138,104 South St,Waterfront,Boston,MA,02111,US,6176953775,"",EST,"",Active
+Bon Me - Fort Point,Asian Fusion,42.3510895,-71.0502777,313 Congress St,Waterfront,Boston,MA,02210,US,6179452615,"",EST,"",Active
+Riccardo's Ristorante,Italian,42.363174,-71.053771,175 North St,North End,Boston,MA,02109,US,6177203994,"",EST,"",Active
+Lanta Asian Cuisine,Thai,42.3576469,-71.0539856,38 Batterymarch St,Financial District,Boston,MA,02110,US,6174826046,"",EST,"",Active
+Starbucks,Coffee & Tea,42.355936,-71.052562,1 International Pl,Financial District,Boston,MA,02110,US,6177374688,"",EST,"",Active
+Bailey & Sage,Sandwiches,42.3589516,-71.0550995,103 State St,Financial District,Boston,MA,02109,US,8573503032,"",EST,"",Active
+DaCoopas Pizza and Subs,Pizza,42.380116,-71.0272287,474 Saratoga St,East Boston,Boston,MA,02128,US,6175673399,"",EST,"",Active
+Tataway,Tattoo Removal,42.3514305,-71.0575966,123 South St,Fl 4,Boston,MA,02111,US,8572844800,"",EST,"",Active
+RumBa,Lounges,42.354093,-71.051903,InterContinental Boston,510 Atlantic Ave,Boston,MA,02210,US,6172175148,"",EST,"",Active
+B. Good,American (Traditional),42.3581342472305,-71.0580600276947,255 Washington St,Downtown,Boston,MA,02108,US,6172271006,"",EST,"",Active
+University Grill & Pizza,Pizza,42.3496184,-71.1055338,712 Commonwealth Ave,Ste 2,Boston,MA,02215,US,6172477120,"",EST,"",Active
+Bel Ari,Italian,42.3514404,-71.057663,107 South St,Waterfront,Boston,MA,02111,US,6172591560,"",EST,"",Active
+BBQsmith,Street Vendors,42.3512556820976,-71.0595032572746,Surface Rd & Beach St,Chinatown,Boston,MA,02111,US,,"",EST,"",Active
+El Paisa Orient Heights,Colombian,42.3871002197266,-71.0063171386719,1012 Bennington St,East Boston,Boston,MA,02128,US,6175695267,"",EST,"",Active
+Ethel and Andy's Sandwich Shop,Sandwiches,42.3382602632046,-71.0374722629786,134 K St,South Boston,Boston,MA,02127,US,6172683027,"",EST,"",Active
+Nebo Cucina & Enoteca,Italian,42.3538883,-71.0531263,520 Atlantic Ave,Waterfront,Boston,MA,02210,US,6177236326,"",EST,"",Active
+Disappearing Inc,Tattoo Removal,42.3564012,-71.0619355,128A Tremont St,Ste 5F,Boston,MA,02108,US,6174778636,"",EST,"",Active
+Stairhopper Movers,Movers,42.3795079439878,-71.0712090879679,420 Rutherford Ave,Charlestown,Boston,MA,02129,US,8579280876,"",EST,"",Active
+Starbucks,Coffee & Tea,42.363998,-71.050484,2 Atlantic Ave,North End,Boston,MA,02110,US,6177237819,"",EST,"",Active
+Oppa Sushi,Sushi Bars,42.350904,-71.1313152,185 Harvard Ave,Allston/Brighton,Boston,MA,02134,US,6172023808,"",EST,"",Active
+Limoo Tea Bar,Mediterranean,42.3515579,-71.1222208,1032 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6173968823,"",EST,"",Active
+Halftime Pizza,Pizza,42.3651695,-71.0615616,115 Causeway St,"Boston, MA 02114",Boston,MA,02114,US,6177204578,"",EST,"",Active
+Machine,Gay Bars,42.3449287,-71.095871,1256 Boylston St,Fenway,Boston,MA,02215,US,6175361950,"",EST,"",Active
+Homsy Jewelers,Jewelry,42.3568636,-71.0589007,333 Washington St,Ste 215,Boston,MA,02108,US,6175231918,"",EST,"",Active
+The Living Room,Lounges,42.3617097199521,-71.0523066780897,101 Atlantic Ave,Waterfront,Boston,MA,02110,US,6177235101,"",EST,"",Active
+Savvor Restaurant and Lounge,Lounges,42.350483,-71.058691,180 Lincoln St,Waterfront,Boston,MA,02111,US,8572502165,"",EST,"",Active
+Vintage Restaurant and Lounge,Lounges,42.3577003,-71.0530167,72 Broad St,Financial District,Boston,MA,02110,US,6174821900,"",EST,"",Active
+Clarkes Saloon at Faneuil Hall,American (Traditional),42.3594208,-71.055397,21 Merchants Row,"Boston, MA 02109",Boston,MA,02109,US,6172277800,"",EST,"",Active
+B. Good,Burgers,42.346862079069,-71.087698403397,137 Massachusetts Ave,"Boston, MA 02115",Boston,MA,02115,US,6172365480,"",EST,"",Active
+Emerald Lounge,Lounges,42.3508582393446,-71.0669466122337,200 Stuart St,"Boston, MA 02116",Boston,MA,02116,US,6174572626,"",EST,"",Active
+Triangle Coffee,Coffee & Tea,42.3603324890137,-71.0579986572266,1 City Hall Square,Fl 3,Boston,MA,02201,US,7632501287,"",EST,"",Active
+China House,Chinese,42.3642082214355,-71.053840637207,331 Hanover St,North End,Boston,MA,02113,US,6177239888,"",EST,"",Active
+Salumeria Italiana,Grocery,42.3634019185521,-71.0544474060821,151 Richmond St,North End,Boston,MA,02109,US,6175238743,"",EST,"",Active
+Boston Public Garden,Community Gardens,42.3515255,-71.0669081,4 Charles St,Beacon Hill,Boston,MA,02116,US,,"",EST,"",Active
+Eddie C's Bar,Dive Bars,42.369961,-71.039352,34 Maverick Sq,East Boston,Boston,MA,02128,US,6175679395,"",EST,"",Active
+Ashburton Cafe,Cafes,42.35952,-71.0622406,1 Ashburton Pl,Downtown,Boston,MA,02108,US,6172483957,"",EST,"",Active
+Rowes Wharf Bar,Wine Bars,42.3565521,-71.0505981,70 Rowes Wharf,Waterfront,Boston,MA,02110,US,6174397000,"",EST,"",Active
+Alfredo's,Italian,42.3536911,-71.135437,229 Brighton Ave,Allston/Brighton,Boston,MA,02228,US,6175628222,"",EST,"",Active
+New York Pizza,Pizza,42.351448059082,-71.0645599365234,224 Tremont St,"Boston, MA 02116",Boston,MA,02116,US,6174823459,"",EST,"",Active
+Bar Boulud - Boston,Burgers,42.3487981,-71.0813006,Mandarin Oriental Hotel,776 Boylston St,Boston,MA,02199,US,6175358800,"",EST,"",Active
+Mama's Place,Greek,42.3334503,-71.1059036,764 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6175661300,"",EST,"",Active
+Potbelly Sandwich Shop,Sandwiches,42.3576058382877,-71.0581693377554,263 Washington St,Downtown,Boston,MA,02109,US,6179330140,"",EST,"",Active
+Kung Fu Tea,Bubble Tea,42.342518,-71.0843592,334 Massachusetts Ave,"Boston, MA 02115",Boston,MA,02115,US,6179363608,"",EST,"",Active
+The North Star,American (Traditional),42.3643299937248,-71.0609469562769,222 Friend St,"Boston, MA 02114",Boston,MA,02114,US,6177233222,"",EST,"",Active
+Snappy Sushi,Sushi Bars,42.3513588309288,-71.0757514089346,108 Newbury St,Back Bay,Boston,MA,02116,US,6172624530,"",EST,"",Active
+Trattoria Newbury,Italian,42.349186,-71.083115,264 Newbury St,Back Bay,Boston,MA,02116,US,6172660707,"",EST,"",Active
+Bone Daddy's Burgers,Food Trucks,42.3600825,-71.0588801,Downtown,"Boston, MA",Boston,MA,,US,7817045837,"",EST,"",Active
+The Sausage Guy,Food Stands,42.3474006652832,-71.0971374511719,49 Lansdowne St,Fenway,Boston,MA,02215,US,6172688324,"",EST,"",Active
+Ecco Pizzeria,Pizza,42.3508071899414,-71.1265411376953,1147 Commonwealth Ave,Allston/Brighton,Boston,MA,02134,US,6179034324,"",EST,"",Active
+Foodie's Urban Market,Grocery,42.3411827087402,-71.0708465576172,1421 Washington St,South End,Boston,MA,02118,US,6172669911,"",EST,"",Active
+Nick's House of Pizza & Seafood,Pizza,42.3356667,-71.0462265,467 W Broadway,South Boston,Boston,MA,02127,US,6172691161,"",EST,"",Active
+Decca,Burgers,42.3728202788089,-71.0555569121948,Charlestown Navy Yard,Bldg 10,Boston,MA,02129,US,6173983210,"",EST,"",Active
+Legal C Bar,Seafood,42.362682,-71.018077,"Logan International Airport, Terminal B",1 Harborside Dr,Boston,MA,02128,US,8572412000,"",EST,"",Active
+Tarboosh,Pizza,42.352078,-71.1255544,2 Brighton Ave,Allston/Brighton,Boston,MA,02134,US,6176715939,"",EST,"",Active
+Urban AdvenTours,Tours,42.3616524785757,-71.0520373284817,103 Atlantic Ave,Waterfront,Boston,MA,02110,US,6176700637,"",EST,"",Active
+Warehouse Bar & Grille,American (Traditional),42.3583964,-71.0541019,40 Broad St,Financial District,Boston,MA,02109,US,6179364383,"",EST,"",Active
+Rock Bottom Restaurant,American (Traditional),42.3512269,-71.0653529,115 Stuart St,"Boston, MA 02116",Boston,MA,02116,US,6177422739,"",EST,"",Active
+China King,Chinese,42.35143,-71.06016,60 Beach St,Chinatown,Boston,MA,02111,US,6175421763,"",EST,"",Active
+Kingston Station,American (New),42.353547037747,-71.059334944738,25 Kingston St,"Boston, MA 02111",Boston,MA,02111,US,6174826282,"",EST,"",Active
+Conor Larkins Grill & Tap,Pubs,42.3408864,-71.0881103,329 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6178670084,"",EST,"",Active
+49 Social,American (New),42.3549944,-71.0617654,49 Temple Pl,Downtown,Boston,MA,02111,US,6173389600,"",EST,"",Active
+Chef Chang's on Back Bay,Szechuan,42.3503386000852,-71.0890647307093,30 Massachusetts Ave,Back Bay,Boston,MA,02115,US,6172361888,"",EST,"",Active
+House of Siam,Thai,42.3429108,-71.0730133,592 Tremont St,South End,Boston,MA,02118,US,6172677426,"",EST,"",Active
+Freshii,Salad,42.3485336,-71.076355,185 Dartmouth St,Back Bay,Boston,MA,02116,US,8572770200,"",EST,"",Active
+Causeway Restaurant & Bar,Barbeque,42.3645493372538,-71.0627413541079,65 Causeway St,"Boston, MA 02114",Boston,MA,02114,US,6172279100,"",EST,"",Active
+L Street Diner & Pizzeria,Diners,42.3340994864702,-71.0352782160044,108 L St,South Boston,Boston,MA,02127,US,6172681155,"",EST,"",Active
+Metro Cafe,Sandwiches,42.3510971069336,-71.0491561889648,332 Congress St,Waterfront,Boston,MA,02210,US,6173992000,"",EST,"",Active
+Banyan Bar & Refuge,Asian Fusion,42.3440666,-71.0717468,553 Tremont St,Boston,Boston,MA,02116,US,6175564211,"",EST,"",Active
+BRAG - Boston Ring And Gem,Jewelry,42.3567547513243,-71.0590953603744,333 Washington St,Ste 203-8,Boston,MA,02108,US,6177202724,"",EST,"",Active
+Sidewalk Cafe,Coffee & Tea,42.3349609,-71.0335083,764 E 4th St,South Boston,Boston,MA,02127,US,6174641977,"",EST,"",Active
+Boston Wine School,Party & Event Planning,42.3477973937988,-71.1362838745117,1354 Commonwealth Ave,Allston/Brighton,Boston,MA,02134,US,8449463724,"",EST,"",Active
+Maria's Pastry Shop,Bakeries,42.36329,-71.05643,46 Cross St,"Boston, MA 02113",Boston,MA,02113,US,6175231196,"",EST,"",Active
+Spirit of Boston,Boat Charters,42.350079,-71.041844,200 Seaport Blvd,Ste 75,Boston,MA,02210,US,8663102469,"",EST,"",Active
+Delta Sky Club,Airport Lounges,42.36487,-71.020714,Boston Logan International Airport,Terminal A,Boston,MA,02128,US,,"",EST,"",Active
+Elephant & Castle,Pubs,42.3565074,-71.057494,161 Devonshire Street,Financial District,Boston,MA,02110,US,6173509977,"",EST,"",Active
+Poe's Kitchen At the Rattlesnake,American (Traditional),42.35128,-71.07186,384 Boylston St,Back Bay,Boston,MA,02116,US,6178598555,"",EST,"",Active
+Boston Massage Studio,Massage,42.3500595092773,-71.078498840332,651 Boylston St,Ste 2,Boston,MA,02116,US,5085964563,"",EST,"",Active
+GEM,Lounges,42.3569793999195,-71.0598700493574,42 Province St,Downtown,Boston,MA,02108,US,6174821213,"",EST,"",Active
+Club Cafe,Pubs,42.3482771,-71.0724468,209 Columbus Ave,Back Bay,Boston,MA,02116,US,6175360966,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3563995,-71.069252,65-66 Beacon St,Beacon Hill,Boston,MA,02108,US,6177422664,"",EST,"",Active
+Serjeo,Jewelry,42.357026,-71.058675,333 Washington St,"5th Fl, Ste 525",Boston,MA,02108,US,6173677399,"",EST,"",Active
+Jaho Coffee & Tea,Coffee & Tea,42.3379249572754,-71.0756072998047,1651 Washington St,South End,Boston,MA,02118,US,6172361680,"",EST,"",Active
+Punter's Pub,Pubs,42.338546323878795,-71.0929369926453,450 Huntington Ave,"Boston, MA 02108",Boston,MA,02108,US,,"",EST,"",Active
+Pulcinella Mozzarella Bar and Restaurant,Italian,42.3636894,-71.0559082,78 Salem St,North End,Boston,MA,02113,US,8572638521,"",EST,"",Active
+Java House,Coffee & Tea,42.335352875187,-71.04241036192,566 E Broadway,South Boston,Boston,MA,02127,US,6172683117,"",EST,"",Active
+Tavern In the Square,American (New),42.352518,-71.055495,640 Atlantic Ave,Waterfront,Boston,MA,02111,US,8572334717,"",EST,"",Active
+An Tain,Dive Bars,42.3582305908203,-71.0531387329102,31 India St,Financial District,Boston,MA,02110,US,6174261870,"",EST,"",Active
+Kings Boston,Bowling,42.3470687866211,-71.0856552124023,50 Dalton St,"Boston, MA 02115",Boston,MA,02115,US,6172662695,"",EST,"",Active
+Cafe Podima,Sandwiches,42.3611153662205,-71.0646450519562,156 Cambridge St,Beacon Hill,Boston,MA,02114,US,6172274959,"",EST,"",Active
+A-Plus Moving & Storage,Movers,42.3719177,-71.0422363,44 Border St,East Boston,Boston,MA,02128,US,8575409531,"",EST,"",Active
+Taco Mex,Mexican,42.3696746826172,-71.0386123657227,65 Maverick Sq,East Boston,Boston,MA,02128,US,6175692838,"",EST,"",Active
+Freedom Trail Foundation Tours,Tours,42.3531151,-71.0609131,99 Chauncy St,Ste 401,Boston,MA,02111,US,6173578300,"",EST,"",Active
+Raising Cane's,Fast Food,42.3516846,-71.1186981,949 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6173585932,"",EST,"",Active
+Cafe Pulse,Cafes,42.3599123954773,-71.0552385449409,141 S Market St,"Boston, MA 02109",Boston,MA,02109,US,,"",EST,"",Active
+Nino's Pizza,Pizza,42.3583984375,-71.0704116821289,79 Charles St,Beacon Hill,Boston,MA,02114,US,6175233974,"",EST,"",Active
+Cobblestone,American (Traditional),42.3629314,-71.0552889,227 Hanover St,North End,Boston,MA,02113,US,8572638057,"",EST,"",Active
+The Mission Bar & Grill,Bars,42.3337517,-71.1052322,724 Huntington Ave,"Boston, MA 02120",Boston,MA,02120,US,6175661244,"",EST,"",Active
+King Street Tavern,Lounges,42.3588465,-71.0578217,1 Ct St,Downtown,Boston,MA,02108,US,6179798203,"",EST,"",Active
+Rover.com - Dog Boarding & Sitting,Dog Walkers,42.3371305247487,-71.0719925063598,South End,"Boston, MA 02128",Boston,MA,02128,US,6179327072,"",EST,"",Active
+At Your Door Cleaners,Dry Cleaning & Laundry,42.36372,-71.05239,256 North St,North End,Boston,MA,02113,US,6174704589,"",EST,"",Active
+Moby Dick,Middle Eastern,42.3421300202608,-71.0859256982803,269 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6172365511,"",EST,"",Active
+75 on Liberty Wharf,American (New),42.3491051075898,-71.0388948353222,220 Northern Ave,Waterfront,Boston,MA,02210,US,6172270754,"",EST,"",Active
+Hennessy's,Pubs,42.360994,-71.05683,25 Union St,"Boston, MA 02108",Boston,MA,02108,US,6177422121,"",EST,"",Active
+M.J. O'Connor's Irish Pub,Pubs,42.3513085395098,-71.0685952752829,27 Columbus Ave,Back Bay,Boston,MA,02116,US,6174822255,"",EST,"",Active
+Cheers,Bars,42.355936044299,-71.0711767808,84 Beacon St,Beacon Hill,Boston,MA,02108,US,6172279605,"",EST,"",Active
+wagamama,Asian Fusion,42.3484569,-71.0826223,800 Boylston St,Back Bay,Boston,MA,02199,US,6177782344,"",EST,"",Active
+Advantage Hair Stylist,Hair Removal,42.355198,-71.05442,111 High St,Financial District,Boston,MA,02110,US,6175422524,"",EST,"",Active
+Salty Dog Seafood Grille & Bar,Seafood,42.3601525,-71.0548741,206 Faneuil Hall Market Pl,"Boston, MA 02109",Boston,MA,02109,US,6177422094,"",EST,"",Active
+Paul One Boston Place,French,42.3467387259007,-71.1475655436516,201 Washington St,Downtown,Boston,MA,02201,US,6177252713,"",EST,"",Active
+Paddy O's,Pubs,42.36114,-71.056744,33 Union St,"Boston, MA 02108",Boston,MA,02108,US,6172637771,"",EST,"",Active
+Samurai Express,Japanese,42.3507922142744,-71.0714444518089,31 St James Ave,Back Bay,Boston,MA,02116,US,6174312281,"",EST,"",Active
+George's Shoe Repair,Shoe Repair,42.3399658203125,-71.0655136108398,120 Union Park St,South End,Boston,MA,02118,US,6179703836,"",EST,"",Active
+Inboston,Korean,42.3458242,-71.0874054,175 Massachusetts Ave,"Boston, MA 02115",Boston,MA,02115,US,6179827118,"",EST,"",Active
+Thorntons Fenway Grill,American (Traditional),42.3431438952684,-71.0992515832186,100 Peterborough St,Fenway,Boston,MA,02215,US,6174210104,"",EST,"",Active
+Sorelle,Cafes,42.3527489,-71.0525589,282 Congress St,Waterfront,Boston,MA,02110,US,6174265475,"",EST,"",Active
+FiRE + iCE  Grill + Bar,American (New),42.3506156,-71.0725688,205 Berkeley St,Back Bay,Boston,MA,02116,US,6174823473,"",EST,"",Active
+Flames Restaurant II,Caribbean,42.3335876464844,-71.1055068969727,746 Huntington Ave,"Boston, MA 02115",Boston,MA,02115,US,6177341911,"",EST,"",Active
+Howl At The Moon Dueling Piano Bar,Bars,42.3565569,-71.0523694,184 High St,Financial District,Boston,MA,02110,US,6172924695,"",EST,"",Active
+Marva's Place,Caribbean,42.3699112,-71.0379181,154 Mavarick St,East Boston,Boston,MA,02128,US,8579918022,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.3522491,-71.064888,80 Boylston St,"Boston, MA 02116",Boston,MA,02116,US,6175424606,"",EST,"",Active
+Brandy Pete's,American (Traditional),42.3565216,-71.0533524,265 Franklin St,Financial District,Boston,MA,02110,US,6174394165,"",EST,"",Active
+King's Chapel,Churches,42.358193230275,-71.059903700675,58 Tremont St,Downtown,Boston,MA,02108,US,6175231749,"",EST,"",Active
+Samurai Kuang Eatery,Japanese,42.355740808552,-71.058335107551,58 Franklin St,Downtown,Boston,MA,02110,US,6174235000,"",EST,"",Active
+The Hub Pub,Pubs,42.3573133349419,-71.059564948082,18 Province St,Downtown,Boston,MA,02108,US,6172278952,"",EST,"",Active
+Fromage,Wine Bars,42.3370285,-71.0483627,401 W Broadway,South Boston,Boston,MA,02127,US,6174644300,"",EST,"",Active
+Little Asia Restaurant,Chinese,42.3865500837564,-71.006927266717,991 Bennington St,East Boston,Boston,MA,02128,US,6175698888,"",EST,"",Active
+Starbucks,Coffee & Tea,42.353,-71.057487,125 Summer St,"Boston, MA 02228",Boston,MA,02228,US,6177370250,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.3581361025572,-71.0579388588667,235 Washington St,Downtown,Boston,MA,02108,US,6172481987,"",EST,"",Active
+Grille 705,American (Traditional),42.3349839448929,-71.0753383487463,705 Massachusetts Ave,South End,Boston,MA,02118,US,6176063522,"",EST,"",Active
+Caffè Nero,Coffee & Tea,42.3436595499516,-71.0721123218536,564 Tremont St,South End,Boston,MA,02118,US,6179827108,"",EST,"",Active
+T Anthony's,Pizza,42.35146,-71.12152,1016 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6177347708,"",EST,"",Active
+Solace Waxing & Skin Care,Day Spas,42.361383,-71.0525154,107 Atlantic Ave,Waterfront,Boston,MA,02110,US,6176451773,"",EST,"",Active
+Beijing Kyoto,Asian Fusion,42.3509712,-71.0571518,112 South St,Waterfront,Boston,MA,02111,US,6174261688,"",EST,"",Active
+Dumpling King,Dim Sum,42.35161,-71.06094,40-44 Harrison Ave,Chinatown,Boston,MA,02111,US,6174828888,"",EST,"",Active
+Pagliucas,Italian,42.3637428283691,-71.0549621582031,14 Parmenter St,North End,Boston,MA,02113,US,6173671504,"",EST,"",Active
+Jane's Salad & Buffet,Sushi Bars,42.3569838,-71.0534748,274 Franklin St,Financial District,Boston,MA,02110,US,7816985227,"",EST,"",Active
+Roost Bistro On Newbury,American (New),42.3494778738413,-71.0831856505817,259 Newbury St,Back Bay,Boston,MA,02116,US,6175874222,"",EST,"",Active
+Quincy's Place,Burgers,42.3600116372108,-71.0547034442425,254 Faneuil Hall Market Pl,"Boston, MA 02109",Boston,MA,02109,US,6177233635,"",EST,"",Active
+Typhoon Asian Bistro,Japanese,42.3496,-71.08016,725 Boylston St,Back Bay,Boston,MA,02116,US,6178598181,"",EST,"",Active
+Boston Public Library,Libraries,42.3496179007241,-71.0775961148307,700 Boylston St,Back Bay,Boston,MA,02116,US,6175365400,"",EST,"",Active
+Cask'n Flagon,Sports Bars,42.34738,-71.09794,62 Brookline Ave,Fenway,Boston,MA,02215,US,6175364840,"",EST,"",Active
+Whisky Saigon,Dance Clubs,42.3524243,-71.0656794,116 Boylston Street,"Boston, MA 02116",Boston,MA,02116,US,6174827799,"",EST,"",Active
+Loretta's Last Call,Southern,42.3472148180008,-71.0945355892181,1 Lansdowne St,Fenway,Boston,MA,02115,US,6174219595,"",EST,"",Active
+Bouvier Jewelers,Jewelry,42.3568916,-71.0590897,333 Washington St,Ste 218,Boston,MA,02108,US,6177427080,"",EST,"",Active
+Bubor Cha Cha,Dim Sum,42.351277,-71.0608755,45 Beach St,Chinatown,Boston,MA,02111,US,6174823338,"",EST,"",Active
+Uno Pizzeria & Grill,Pizza,42.3495712,-71.0802917,731 Boylston St.,Back Bay,Boston,MA,02116,US,6172678554,"",EST,"",Active
+Harborside Grill & Patio,Seafood,42.3591218908767,-71.0274191802998,101 Harborside Dr,East Boston,Boston,MA,02128,US,6175681234,"",EST,"",Active
+New York Pizza,Pizza,42.3405047,-71.0821254,435 Massachusetts Ave,"Boston, MA 02118",Boston,MA,02118,US,6172667020,"",EST,"",Active
+Umbria Prime,Lounges,42.35704,-71.05276,295 Franklin St,Financial District,Boston,MA,02115,US,6173381000,"",EST,"",Active
+JMP Fine Indian Cuisine,Indian,42.3523349,-71.1247,1095 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6177879700,"",EST,"",Active
+Andrew Square House of Pizza,Pizza,42.3300399780273,-71.0565643310547,395 Dorchester St,South Boston,Boston,MA,02127,US,6172681940,"",EST,"",Active
+K-A Carpet Cleaning,Carpet Cleaning,42.3398269048574,-71.0734087127197,South End,"Boston, MA 02118",Boston,MA,02118,US,6177976386,"",EST,"",Active
+Bostonian Jewelers,Jewelry,42.35689,-71.05909,333 Washington St,Ste 711-13,Boston,MA,02108,US,6175232934,"",EST,"",Active
+Molly Moo's,Coffee & Tea,42.337131,-71.035797,687 E Second St,South Boston,Boston,MA,02127,US,7742251003,"",EST,"",Active
+Villa Francesca,Italian,42.3634449,-71.0546418,150 Richmond St,North End,Boston,MA,02109,US,6173672948,"",EST,"",Active
+South End Formaggio,Grocery,42.34312,-71.06858,268 Shawmut Ave,South End,Boston,MA,02118,US,6173506996,"",EST,"",Active
+Mohr & McPherson Café,Coffee & Tea,42.3425979,-71.0654431,460 Harrison Ave,South End,Boston,MA,02118,US,6172107926,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3547255,-71.0549425,211 Congress St,Financial District,Boston,MA,02210,US,6176633269,"",EST,"",Active
+Mr Locksmith,Keys & Locksmiths,42.34165,-71.08843,"Boston, MA 02115",,Boston,MA,02115,US,6177855857,"",EST,"",Active
+Chaba Florists,Florists,42.3512115,-71.0644989,71 Stuart St,Chinatown,Boston,MA,02116,US,6174230468,"",EST,"",Active
+Joe's American Bar & Grill,American (New),42.3623448,-71.0508438,100 Atlantic Ave,North End,Boston,MA,02110,US,6173678700,"",EST,"",Active
+Wellfit Studio,Acupuncture,42.3518019737944,-71.0708214112686,374 Boylston St,Ste 301,Boston,MA,02116,US,6178585003,"",EST,"",Active
+Hojoko Boston,Japanese,42.3452987670898,-71.0969314575195,1271 Boylston St,Fenway,Boston,MA,02215,US,6176700507,"",EST,"",Active
+Seoul Soulongtang,Korean,42.3500295159611,-71.1323941583326,1245 Commonwealth Ave,Allston/Brighton,Boston,MA,02134,US,6175056771,"",EST,"",Active
+Rebecca's Cafe,Sandwiches,42.350399,-71.0743103,500 Boylston St,Back Bay,Boston,MA,02116,US,6175365900,"",EST,"",Active
+Sports Grille Boston,American (Traditional),42.3647293,-71.0605345,132 Canal St,"Boston, MA 02114",Boston,MA,02114,US,8572847940,"",EST,"",Active
+ProPrint,Printing Services,42.351181,-71.0722122,410 Boylston St,Back Bay,Boston,MA,02116,US,6172674113,"",EST,"",Active
+Champion's Boston Sports Bar & Restaurant,Sports Bars,42.3468795418739,-71.0798015445471,110 Huntington Ave,Back Bay,Boston,MA,02116,US,6179275304,"",EST,"",Active
+William's Tavern,Dive Bars,42.342743575573,-71.0545257478952,92 A St,South Boston,Boston,MA,02127,US,6172699646,"",EST,"",Active
+Jae's Cafe,Sushi Bars,42.341869354248,-71.0797653198242,520 Columbus Ave,South End,Boston,MA,02118,US,6174219405,"",EST,"",Active
+Salsa's,Mexican,42.33498,-71.04615,118 Dorchester St,South Boston,Boston,MA,02127,US,6172697878,"",EST,"",Active
+iPizza & Grill,American (Traditional),42.330326,-71.052895,283 Old Colony Ave,South Boston,Boston,MA,02127,US,6172690880,"",EST,"",Active
+Sunset Cantina,Mexican,42.35085,-71.117,916 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6177318646,"",EST,"",Active
+Dim Sum Chef,Dim Sum,42.3523349,-71.1247,1095 Commonwealth Ave,Allston/Brighton,Boston,MA,02215,US,6172542073,"",EST,"",Active
+John Davis Therapeutic Massage,Massage Therapy,42.35054,-71.076721,581 Boylston St,Ste 503,Boston,MA,02116,US,6177197476,"",EST,"",Active
+Cosi,Sandwiches,42.35432,-71.0564,133 Federal St,Financial District,Boston,MA,02110,US,6172923314,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3591347,-71.0557709,84 State St,"Boston, MA 02109",Boston,MA,02109,US,6175233053,"",EST,"",Active
+Misono Grill,Korean,42.3523280591284,-71.1256170272827,1095 Commonwealth Ave,Ste 207,Boston,MA,02215,US,6177839188,"",EST,"",Active
+Emilio's,Pizza,42.34433,-71.07053,536 Tremont St,South End,Boston,MA,02116,US,6174234083,"",EST,"",Active
+Starbucks,Coffee & Tea,42.355801,-71.061074,12 Winter St,Downtown,Boston,MA,02108,US,6175421313,"",EST,"",Active
+Noodle Street,Thai,42.3498115539551,-71.1015777587891,627 Commonwealth Ave,"Boston, MA 02215",Boston,MA,02215,US,6175363100,"",EST,"",Active
+Barlow's Restaurant,Bars,42.34653,-71.05106,241 A St,Waterfront,Boston,MA,02210,US,6173382142,"",EST,"",Active
+Globe Bar and Cafe,American (New),42.3506393432617,-71.0763473510742,565 Boylston St,Back Bay,Boston,MA,02116,US,6177786993,"",EST,"",Active
+Back Deck,Burgers,42.3544383906291,-71.06202780223,2 West St,Downtown,Boston,MA,02111,US,6176700320,"",EST,"",Active
+Pavement Coffeehouse,Coffee & Tea,42.3442334895251,-71.098496876657,1334 Boylston St,Fenway,Boston,MA,02215,US,8572637355,"",EST,"",Active
+Jerry Remy's Sports Bar and Grill,American (Traditional),42.3662223662287,-71.016734184635,Logan International Airport Ter C,1 Harborside Dr,Boston,MA,02128,US,6175675379,"",EST,"",Active
+Che Maksou,Hair Stylists,42.3571638017893,-71.0521700978279,125 Broad St,Financial District,Boston,MA,02110,US,8573172400,"",EST,"",Active
+Boloco,American (New),42.3376714546849,-71.1045401212971,Children's Hospital,283 Longwood Ave,Boston,MA,02115,US,6172322166,"",EST,"",Active
+Sterling's,American (New),42.358956,-71.056371,60 State St,Financial District,Boston,MA,02109,US,6175318200,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3493766784668,-71.0810241699219,755 Boylston St,Back Bay,Boston,MA,02116,US,6174500310,"",EST,"",Active
+Boston Brew Tours,Tours,42.3562288992389,-71.0617589950562,Boylston St,Downtown,Boston,MA,02112,US,6174538687,"",EST,"",Active
+Acupuncture For Everyone,Acupuncture,42.3503108,-71.0765977,581 Boylston St,Ste 407,Boston,MA,02116,US,6178751143,"",EST,"",Active
+Il Mondo II,Pizza,42.345817565918,-71.0869064331055,182 Massachusetts Ave,"Boston, MA 02115",Boston,MA,02115,US,6172621700,"",EST,"",Active
+Revive Hair Studio,Hair Salons,42.341248,-71.076042,670 Tremont St,South End,Boston,MA,02118,US,8573664225,"",EST,"",Active
+Chill On Park,Coffee & Tea,42.2986004268952,-71.0604999916132,142 Park St,Fields Corner,Boston,MA,02122,US,6172975401,"",EST,"",Active
+"Richard D Oliver, DMD",General Dentistry,42.3539619445801,-71.0580062866211,295 Devonshire St,Downtown,Boston,MA,02110,US,6173507774,"",EST,"",Active
+Sol Azteca,Mexican,42.3466987609863,-71.1062850952148,914 Beacon St,Ste A,Boston,MA,02215,US,6172620909,"",EST,"",Active
+Serafina,Italian,42.3535194,-71.0567245,10 High St,Financial District,Boston,MA,02110,US,6174261234,"",EST,"",Active
+Archie's Place,Greek,42.3581220209599,-71.0588139295578,12 Pi Alley,Downtown,Boston,MA,02108,US,6177233354,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3592834,-71.0590668,63 Court St,Downtown,Boston,MA,02108,US,6172272284,"",EST,"",Active
+Boston Threading,Hair Removal,42.357048,-71.059288,333 Washington St,Ste 223,Boston,MA,02108,US,6177205400,"",EST,"",Active
+Au Bon Pain,Sandwiches,42.3512803,-71.0679218,26 Park Plz,Back Bay,Boston,MA,02116,US,6173388948,"",EST,"",Active
+Tasty Burger - Back Bay,Burgers,42.3474464416504,-71.0749435424805,145 Dartmouth St,Back Bay,Boston,MA,02116,US,6174254444,"",EST,"",Active
+South Boston Yoga,Yoga,42.342574899596805,-71.05657696723941,36 W Broadway,Fl 1 & 3,Boston,MA,02127,US,6173157448,"",EST,"",Active
+Borinquen Bakery & Cafe,Bakeries,42.3153582215309,-71.0612279176712,112 Stoughton St,Dorchester,Boston,MA,02125,US,6172822500,"",EST,"",Active
+Colonial Shoe Repair,Shoe Repair,42.3535299,-71.058131,101 Summer St,Downtown,Boston,MA,02110,US,6173506700,"",EST,"",Active
+"Kublin Jeffrey, OD",Optometrists,42.3613739,-71.0652924,175 Cambridge St,"Boston, MA 02114",Boston,MA,02114,US,6175237006,"",EST,"",Active
+Grillo's Pickles,Street Vendors,42.356167067654496,-71.0627529207739,Park Street T Stop,Downtown,Boston,MA,02108,US,,"",EST,"",Active
+Jayne's Flowers,Florists,42.355062,-71.055714,100 Federal St,Financial District,Boston,MA,02110,US,6174780464,"",EST,"",Active
+Om Warrior,Yoga,42.3548652184338,-71.0536909103394,133 Pearl St,2nd Fl,Boston,MA,02110,US,6179014480,"",EST,"",Active
+Rosa Mexicano,Mexican,42.350118623655,-71.0425739517532,155 Seaport Blvd,Waterfront,Boston,MA,02210,US,6174766122,"",EST,"",Active
+Code 10,Delis,42.337909,-71.0747293,1638 Washington St,South End,Boston,MA,02118,US,6173756333,"",EST,"",Active

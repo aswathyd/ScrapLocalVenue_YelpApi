@@ -1,0 +1,981 @@
+Name,Brand*,Lat*,Lng*,Address1,Address2,City,State,Zip code,Country,Phone,Store hours,Time zone,Dma Code,Status*
+The Coast Cafe,Southern,42.3629832,-71.1116149,233 River St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6173547644,"",EST,"",Active
+Atwood's Tavern,Bars,42.3727493,-71.0914536,877 Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6178642792,"",EST,"",Active
+Muqueca Restaurant,Latin American,42.372638,-71.093872,1008 Cambridge St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6173543296,"",EST,"",Active
+Tupelo,Southern,42.3733482,-71.0971909,1193 Cambridge St,Inman Square,Cambridge,MA,02139,US,6178680004,"",EST,"",Active
+Ten Tables,American (New),42.3793334960938,-71.1274337768555,5 Craigie Cir,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175765444,"",EST,"",Active
+Basta Pasta Trattoria,Italian,42.3646317,-71.1132278,319 Western Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175766672,"",EST,"",Active
+Armando's Pizza & Subs,Pizza,42.3823437094688,-71.1312181502581,163 Huron Ave,Huron Village,Cambridge,MA,02138,US,6173548275,"",EST,"",Active
+Helmand Restaurant,Afghan,42.36649,-71.07801,143 1st St,Kendall Square/MIT,Cambridge,MA,02142,US,6174924646,"",EST,"",Active
+Russell House Tavern,American (New),42.373251,-71.119303,14 JFK St,Harvard Square,Cambridge,MA,02138,US,6175003055,"",EST,"",Active
+East Coast Grill,Barbeque,42.373574173487,-71.098581340228,1271 Cambridge St,Inman Square,Cambridge,MA,02139,US,6174916568,"",EST,"",Active
+Emma's Pizza,Pizza,42.3665216,-71.0920383,40 Hampshire St,Kendall Square/MIT,Cambridge,MA,02139,US,6178648534,"",EST,"",Active
+Boutique Fabulous,Jewelry,42.373603,-71.0994931,1309 Cambridge St,Inman Square,Cambridge,MA,02139,US,6178640656,"",EST,"",Active
+T.W. Food,French,42.38371,-71.1343799,377 Walden St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178644745,"",EST,"",Active
+Clover,Vegetarian,42.3627095,-71.0872718,5 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,,"",EST,"",Active
+All Star Sandwich Bar,Sandwiches,42.373506893888,-71.098204139262,1245 Cambridge St,Inman Square,Cambridge,MA,02139,US,6178683065,"",EST,"",Active
+River Gods,Pubs,42.3640347,-71.1087176,125 River St,Central Square,Cambridge,MA,02139,US,6175761881,"",EST,"",Active
+Green Street,Lounges,42.364521,-71.104195,280 Green St,Central Square,Cambridge,MA,02139,US,6178761655,"",EST,"",Active
+Toad,Music Venues,42.3889043927193,-71.1197222024202,1912 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174974950,"",EST,"",Active
+Study,American (New),42.3633519091773,-71.0880341318771,73 Ames St,Kendall Square/MIT,Cambridge,MA,02142,US,6173740700,"",EST,"",Active
+OTTO,Pizza,42.3741824179888,-71.1189034581184,1432 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174993352,"",EST,"",Active
+JP Licks,Ice Cream & Frozen Yogurt,42.3728905,-71.1175079,1312 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174921001,"",EST,"",Active
+West Bridge,Bars,42.3665695,-71.0901871,1 Kendall Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6179450221,"",EST,"",Active
+Crema Cafe,Coffee & Tea,42.373415,-71.120771,27 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178762700,"",EST,"",Active
+Bondir Cambridge,French,42.3682904,-71.0977689,279A Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,6176610009,"",EST,"",Active
+Lizard Lounge,Music Venues,42.3820838928223,-71.1192016601562,1667 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6175470759,"",EST,"",Active
+Toscano,Italian,42.3742954075566,-71.1219486864798,52 Brattle St,Harvard Square,Cambridge,MA,02138,US,6173545250,"",EST,"",Active
+Veggie Galaxy,Vegetarian,42.3636681909004,-71.101134969724,450 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174971513,"",EST,"",Active
+Park Restaurant & Bar,American (New),42.3718681,-71.1208725,59 JFK St,Harvard Square,Cambridge,MA,02138,US,6174919851,"",EST,"",Active
+Harvard Faculty Club,Venues & Event Spaces,42.3732469983148,-71.1144089142329,20 Quincy St,Harvard Square,Cambridge,MA,02138,US,6174955758,"",EST,"",Active
+The Boathouse,American (New),42.371337890625,-71.1168212890625,49 Mt Auburn St,Harvard Square,Cambridge,MA,02138,US,6173491650,"",EST,"",Active
+Petsi Pies,Bakeries,42.3689575195312,-71.1137161254883,31 Putnam Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174990801,"",EST,"",Active
+The Village Kitchen,Italian,42.38146,-71.13848,359 Huron Ave,Huron Village,Cambridge,MA,02138,US,6174913133,"",EST,"",Active
+The Plough & Stars,Music Venues,42.3683197,-71.1086916,912 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175760032,"",EST,"",Active
+McCabe's on Mass,American (New),42.3909052,-71.1225779,2046 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6179457115,"",EST,"",Active
+Puritan & Company,American (New),42.3731070676765,-71.0967491705349,Inman Square,1166 Cambridge St,Cambridge,MA,02139,US,6176156195,"",EST,"",Active
+Newtowne Grille,Pizza,42.3897728,-71.1203033,1945 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6176610706,"",EST,"",Active
+Sarah's Market & Cafe,Grocery,42.38227804232,-71.130977064721,200 Concord Ave,Huron Village,Cambridge,MA,02138,US,6178765999,"",EST,"",Active
+Cafe Sushi,Sushi Bars,42.3707199,-71.1132889,1105 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174920434,"",EST,"",Active
+Darwin's Ltd,Delis,42.374,-71.12499,148 Mt Auburn St,Harvard Square,Cambridge,MA,02138,US,6173545233,"",EST,"",Active
+Izzy's Restaurant & Sub Shop,American (Traditional),42.3662872314453,-71.0955657958984,169 Harvard St,Kendall Square/MIT,Cambridge,MA,02139,US,6176613910,"",EST,"",Active
+Newtowne Variety,Sandwiches,42.3637733459473,-71.0968475341797,93 Windsor St,Kendall Square/MIT,Cambridge,MA,02139,US,6178685112,"",EST,"",Active
+Court House Seafood Restaurant,Seafood Markets,42.37153,-71.08458,498 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6174911213,"",EST,"",Active
+Tealuxe,Coffee & Tea,42.376794,-71.127636,0 Brattle St,Harvard Square,Cambridge,MA,02138,US,6174410077,"",EST,"",Active
+Rod Dee Thai Cuisine,Thai,42.3889043927193,-71.1197222024202,1906 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6173749252,"",EST,"",Active
+Voltage Coffee & Art,Coffee & Tea,42.364367276425,-71.0832417399,295 3rd St,Kendall Square/MIT,Cambridge,MA,02142,US,6177143974,"",EST,"",Active
+Greek Corner Restaurant,Greek,42.3963585,-71.1295624,2366 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6176615655,"",EST,"",Active
+Clover,Coffee & Tea,42.372464,-71.118349,7 Holyoke St,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+Ames Street Deli,Bakeries,42.363038874263,-71.0882796589529,73 Ames St,Kendall Square/MIT,Cambridge,MA,02142,US,6173740701,"",EST,"",Active
+The Cellar,American (New),42.36947,-71.1109199,991 Massachusetts Ave,Central Square,Cambridge,MA,02138,US,6178762580,"",EST,"",Active
+Santouka,Ramen,42.37218,-71.11605,1 Bow St,Harvard Square,Cambridge,MA,02138,US,6179451460,"",EST,"",Active
+Olecito,Mexican,42.3740382492542,-71.100494787097,12 Springfield St,Inman Square,Cambridge,MA,02139,US,6178761374,"",EST,"",Active
+Punjabi Dhaba,Indian,42.3738861083984,-71.1007995605469,225 Hampshire St,Inman Square,Cambridge,MA,02139,US,6175478272,"",EST,"",Active
+Oberon,Performing Arts,42.370948,-71.1143491,2 Arrow St,Harvard Square,Cambridge,MA,02138,US,6175478300,"",EST,"",Active
+Shays Pub & Wine Bar,American (Traditional),42.3717754,-71.1208141,58 JFK St,Harvard Square,Cambridge,MA,02138,US,6178649161,"",EST,"",Active
+Rangzen Tibetan Restaurant,Himalayan/Nepalese,42.3640312,-71.1032374,24 Pearl St,Central Square,Cambridge,MA,02139,US,6173548881,"",EST,"",Active
+L'Impasto,Italian,42.3944337,-71.1267771,2263 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6174911901,"",EST,"",Active
+Area Four,Pizza,42.3630882820482,-71.0924215508739,500 Technology Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6177584444,"",EST,"",Active
+Bagelsaurus,Sandwiches,42.3860588,-71.1194534,1796 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,8572856103,"",EST,"",Active
+House of Chang,Chinese,42.3836097121239,-71.1336797475815,282 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175479888,"",EST,"",Active
+OggiGourmet,Pizza,42.3729897,-71.1182175,1350 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174926444,"",EST,"",Active
+The Harvard Bridge,Local Flavor,42.3534738755083,-71.0907571937319,Massachusetts Ave Bridge,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+2nd Street Cafe,Sandwiches,42.36853,-71.0793,89 2nd St,East Cambridge,Cambridge,MA,02141,US,6176611311,"",EST,"",Active
+Cambridge Deli & Grill,Delis,42.3641281,-71.1077576,90 River St,Central Square,Cambridge,MA,02139,US,6178686740,"",EST,"",Active
+West Side Lounge,Lounges,42.3824462890625,-71.1200790405273,1680 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174415566,"",EST,"",Active
+Border Café,Tex-Mex,42.374278750456,-71.120297821449,32 Church St,Harvard Square,Cambridge,MA,02138,US,6178646100,"",EST,"",Active
+Cambridge Common,American (Traditional),42.382133040905,-71.119461647643,1667 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6175471228,"",EST,"",Active
+SOFRA Bakery & Cafe,Middle Eastern,42.375666,-71.150408,1 Belmont St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6176613161,"",EST,"",Active
+Boston Tea Stop,Coffee & Tea,42.3718298384495,-71.1206388473511,54 JFK St,Harvard Square,Cambridge,MA,02138,US,6179450017,"",EST,"",Active
+Andala Coffee House,Coffee & Tea,42.364874,-71.105764,286 Franklin St,Central Square,Cambridge,MA,02139,US,6179452212,"",EST,"",Active
+Angelo's Pizza,Pizza,42.37294,-71.11071,444 Broadway,Harvard Square,Cambridge,MA,02138,US,6176618049,"",EST,"",Active
+Fiorella's Express,Pizza,42.3974415406694,-71.1298887226868,2401 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6178689900,"",EST,"",Active
+Cafe Barada,Caterers,42.3947982788086,-71.1268615722656,2269 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6173544446,"",EST,"",Active
+"Cambridge, 1.",Pizza,42.3745231628418,-71.1200332641602,27 Church St,Harvard Square,Cambridge,MA,02138,US,6175761111,"",EST,"",Active
+Brookline Lunch,Diners,42.3637641,-71.1017365,9 Brookline St,Central Square,Cambridge,MA,02139,US,6173542983,"",EST,"",Active
+The Muddy Charles Pub at MIT,Pubs,42.3591766,-71.0877228,142 Memorial Dr,Kendall Square/MIT,Cambridge,MA,02139,US,6172532086,"",EST,"",Active
+Central Kitchen,American (New),42.3648499,-71.10248,567 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174915599,"",EST,"",Active
+Petsi Pies,Cafes,42.3715105,-71.0835507,594 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6179455278,"",EST,"",Active
+Shabu & Mein,Hot Pot,42.366246432066,-71.077893152833,148 1st St,Kendall Square/MIT,Cambridge,MA,02142,US,6175777888,"",EST,"",Active
+Kolbeh of Kabob,Middle Eastern,42.374027,-71.104652,1500 Cambridge St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178769400,"",EST,"",Active
+The Shops at Porter,Japanese,42.3871916506057,-71.1187779364014,University Hall,1815 Massachusetts Ave,Cambridge,MA,02140,US,,"",EST,"",Active
+Hana Sushi,Sushi Bars,42.3966599,-71.1296463,2372 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6178682121,"",EST,"",Active
+Inman Square,Landmarks & Historical Buildings,42.3737183,-71.1007996,Cambridge & Hampshire St,Inman Square,Cambridge,MA,02139,US,,"",EST,"",Active
+The Maharaja,Indian,42.372142791748,-71.1209106445312,57 JFK St,Harvard Square,Cambridge,MA,02138,US,6175472757,"",EST,"",Active
+Yume Wo Katare,Ramen,42.38939,-71.11976,1923 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6177144008,"",EST,"",Active
+Paris Baguette,Bakeries,42.3650219,-71.1027564,581 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6177143456,"",EST,"",Active
+Bon Me,Vietnamese,42.3665695,-71.0901871,1 Kendall Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6179899804,"",EST,"",Active
+Orinoco,Latin American,42.3718710243702,-71.1206515878439,56 Jfk St,Harvard Square,Cambridge,MA,02138,US,6173546900,"",EST,"",Active
+The Blue Room,Mediterranean,42.36657,-71.09019,Hampshire and Portland,"1 Kendall Sq, Ste 200",Cambridge,MA,02139,US,6174949034,"",EST,"",Active
+Henrietta's Table,American (New),42.372255758365,-71.123138125143,1 Bennett St,Harvard Square,Cambridge,MA,02138,US,6176615005,"",EST,"",Active
+The Similans,Thai,42.36631,-71.07805,145 1st St,Kendall Square/MIT,Cambridge,MA,02142,US,6174916999,"",EST,"",Active
+The Field,Pubs,42.3657738363216,-71.1035370826721,20 Prospect St,Central Square,Cambridge,MA,02139,US,6173547345,"",EST,"",Active
+Harvest of India,Indian,42.3695202,-71.1113857,1001 Massachusetts Ave,Central Square,Cambridge,MA,02138,US,6174414034,"",EST,"",Active
+The People's Republik,Bars,42.36759,-71.10799,876-878 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174916969,"",EST,"",Active
+Temple Bar,American (New),42.38273,-71.12006,1688 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6175475055,"",EST,"",Active
+Ole,Mexican,42.3740653991699,-71.1001586914062,11 Springfield St,Inman Square,Cambridge,MA,02139,US,6174924495,"",EST,"",Active
+State Park,Southern,42.3661738054722,-71.0909571161469,1 Kendall Sq,Bldg 300 Lower Level,Cambridge,MA,02139,US,6178484355,"",EST,"",Active
+Royal Pastry Shop,Bakeries,42.371955871582,-71.0892181396484,738 Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6175472053,"",EST,"",Active
+Mr. Bartley's Gourmet Burgers,Burgers,42.3725623637438,-71.1161836981773,1246 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6173546559,"",EST,"",Active
+All Star Pizza Bar,Pizza,42.373222,-71.098045,1238 Cambridge St,Inman Square,Cambridge,MA,02139,US,6175470836,"",EST,"",Active
+Al's Harvard Square Cafe,Sandwiches,42.3729897,-71.1182175,1350 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174419100,"",EST,"",Active
+Viale,Mediterranean,42.3640620675438,-71.101846916568,502 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175761900,"",EST,"",Active
+Clover,Coffee & Tea,42.3730270564556,-71.0950277745724,1075 Cambridge St,Inman Square,Cambridge,MA,02141,US,,"",EST,"",Active
+Baraka Café,African,42.3628997802734,-71.104362487793,80 1/2 Pearl St,Central Square,Cambridge,MA,02139,US,6178683951,"",EST,"",Active
+Chutney's,Indian,42.3727021336872,-71.1198749914017,36 John F Kennedy St,Harvard Square,Cambridge,MA,02138,US,6174912545,"",EST,"",Active
+Cantab Lounge,Lounges,42.366209551692,-71.1051712185144,738 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6173542685,"",EST,"",Active
+Ma Magoo's Pizza & Sub Shop,Pizza,42.387989,-71.1424332,6 Concord Ln,"Cambridge, MA 02138",Cambridge,MA,02138,US,6173549139,"",EST,"",Active
+ZuZu,Mediterranean,42.3638257,-71.1013883,474 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178643278,"",EST,"",Active
+Cafe Zing,Coffee & Tea,42.389626783162,-71.11900032752,25 White St,Porter Square,Cambridge,MA,02140,US,6174979464,"",EST,"",Active
+Gran Gusto,Italian,42.3884888,-71.1323776,90 Sherman St,"Cambridge, MA 02140",Cambridge,MA,02140,US,6174410400,"",EST,"",Active
+Beat Brasserie,American (New),42.3733622,-71.1200863,13 Brattle St,Harvard Square,Cambridge,MA,02138,US,6174990001,"",EST,"",Active
+Thelonious Monkfish,Sushi Bars,42.3642186820507,-71.101842597127,524 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174412116,"",EST,"",Active
+The Squeaky Beaker,Cafes,42.3647350072861,-71.081815212965,675 W Kendall St,Kendall Square/MIT,Cambridge,MA,02142,US,6176790108,"",EST,"",Active
+The Abbey,American (New),42.3851057658005,-71.1191113498644,1755 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6177144944,"",EST,"",Active
+Christopher's,Bars,42.3890113830566,-71.1200332641602,1920 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178769180,"",EST,"",Active
+O2 Vegan Cafe,Vegan,42.3695152,-71.1114091,1001 Massachusetts Ave,Central Square,Cambridge,MA,02138,US,6174922233,"",EST,"",Active
+Rialto,Italian,42.372352526974,-71.122651735583,1 Bennett St,Harvard Square,Cambridge,MA,02138,US,6176615050,"",EST,"",Active
+The Friendly Toast,Breakfast & Brunch,42.366208565125,-71.090607184369,1 Kendall Sq,Bldg 300,Cambridge,MA,02139,US,6176211200,"",EST,"",Active
+BonChon,Korean,42.372123,-71.120903,57 John F Kennedy St,Harvard Square,Cambridge,MA,02138,US,6178680981,"",EST,"",Active
+Dado Tea,Coffee & Tea,42.369155,-71.1098279,955 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174979061,"",EST,"",Active
+Charlie's Kitchen,Burgers,42.3724547,-71.1214953,10 Eliot St,Harvard Square,Cambridge,MA,02138,US,6174929646,"",EST,"",Active
+Lone Star Taco Bar,Mexican,42.37212,-71.08687,635 Cambridge St,East Cambridge,Cambridge,MA,02141,US,8572856179,"",EST,"",Active
+Dumpling House,Chinese,42.3688024,-71.1097798,950 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6176618066,"",EST,"",Active
+EVOO Restaurant,American (New),42.363386344385,-71.083253942383,Kendall Square,350 3rd St,Cambridge,MA,02142,US,6176613866,"",EST,"",Active
+Mix-It Restaurant - Sushi Bar,Sushi Bars,42.3823901,-71.1199058,1678 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6175470212,"",EST,"",Active
+Moody's Falafel Palace,Falafel,42.365425260234,-71.105748976123,25 Central Sq,Central Square,Cambridge,MA,02139,US,6178640827,"",EST,"",Active
+Asmara Restaurant,Ethiopian,42.36645,-71.10516,739 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178647447,"",EST,"",Active
+Flat Patties,American (Traditional),42.373539,-71.1209183,33 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178716871,"",EST,"",Active
+Brick & Mortar,Bars,42.3648491,-71.102478,567 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174910016,"",EST,"",Active
+Tampopo,Japanese,42.387291,-71.1183929,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178685457,"",EST,"",Active
+Genki Ya,Sushi Bars,42.3892615851878,-71.1435215355563,231 Alewife Brook Pkwy,"Cambridge, MA 02138",Cambridge,MA,02138,US,6176618200,"",EST,"",Active
+Sweet Touch Cafe,Coffee & Tea,42.3711399,-71.07995,241 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6174914119,"",EST,"",Active
+Lanes & Games,Bowling,42.3992805,-71.1486969,195 Concord Tpke,North Cambridge,Cambridge,MA,02140,US,6178765533,"",EST,"",Active
+Memorial Hall,Landmarks & Historical Buildings,42.375996659073,-71.115127405266,45 Quincy St,Harvard Square,Cambridge,MA,02138,US,6174964595,"",EST,"",Active
+Catalyst Restaurant,American (New),42.363059260802,-71.0916777587909,300 Technology Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6175763000,"",EST,"",Active
+Aceituna Grill,Middle Eastern,42.3644299060106,-71.0818715393543,605 W Kendall St,Kendall Square/MIT,Cambridge,MA,02142,US,6172520707,"",EST,"",Active
+Algiers Coffee House,Coffee & Tea,42.373803,-71.121177,40 Brattle St,Harvard Square,Cambridge,MA,02138,US,6174921557,"",EST,"",Active
+Clover,Fast Food,42.3639929461171,-71.1015986183805,496 Mass Ave,Central Square,Cambridge,MA,02139,US,,"",EST,"",Active
+1369 Coffee House,Coffee & Tea,42.3738479614258,-71.1003646850586,1369 Cambridge St,Inman Square,Cambridge,MA,02139,US,6175761369,"",EST,"",Active
+Bourbon Coffee,Cafes,42.387554,-71.119012,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178686500,"",EST,"",Active
+The Middle East & Zuzu,Middle Eastern,42.3637902,-71.1012764,472-480 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178643278,"",EST,"",Active
+Lord Hobo,Bars,42.368763,-71.0951,92 Hampshire St,Inman Square,Cambridge,MA,02139,US,6172508454,"",EST,"",Active
+Danehy Park,Parks,42.3884583,-71.1326904,99 Sherman St,"Cambridge, MA 02238",Cambridge,MA,02238,US,,"",EST,"",Active
+The Just Crust,Pizza,42.3742294,-71.121521,49B Brattle St,Harvard Square,Cambridge,MA,02138,US,6174974111,"",EST,"",Active
+The Cambridge Queen's Head,Pubs,42.3759409246247,-71.1156291368882,Harvard University,45 Quincy St,Cambridge,MA,02138,US,6174955107,"",EST,"",Active
+Miracle of Science Bar + Grill,Bars,42.3625772892949,-71.0985866559435,321 Massachusetts Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178682866,"",EST,"",Active
+Mass Ave Diner,Diners,42.368102,-71.1087902,906 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178645301,"",EST,"",Active
+Qing Dao Garden,Chinese,42.39685,-71.12987,2382 Massachusetts Ave,North Cambridge,Cambridge,MA,02138,US,6174927540,"",EST,"",Active
+Dimitrios Cuisine,Greek,42.3574327404898,-71.1078020465196,272 Brookline St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178763272,"",EST,"",Active
+Peet's Coffee & Tea,Coffee & Tea,42.3726586840441,-71.1206625334603,100 Mount Auburn Street,Harvard Square,Cambridge,MA,02138,US,6174921844,"",EST,"",Active
+Darwin's Ltd,Sandwiches,42.374979616721,-71.109579691078,1629 Cambridge St,Harvard Square,Cambridge,MA,02138,US,6174912999,"",EST,"",Active
+Desfina Restaurant,Greek,42.3675308227539,-71.0809783935547,202 3rd St,Kendall Square/MIT,Cambridge,MA,02141,US,6178689098,"",EST,"",Active
+Ryles,Jazz & Blues,42.3732,-71.1004899,212 Hampshire St,Inman Square,Cambridge,MA,02139,US,6178769330,"",EST,"",Active
+Legal Sea Foods,Seafood,42.3720188923243,-71.1234795496904,20 University Rd,Harvard Square,Cambridge,MA,02138,US,6174919400,"",EST,"",Active
+Sugar & Spice,Thai,42.38961,-71.11996,1933 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178684200,"",EST,"",Active
+Le's Restaurant,Vietnamese,42.37274,-71.11987,36 JFK St,Harvard Square,Cambridge,MA,02138,US,6178644100,"",EST,"",Active
+Central Square,Transportation,42.36525,-71.10464,Central Sq,Central Square,Cambridge,MA,02139,US,6174417707,"",EST,"",Active
+Full Moon,American (Traditional),42.3812292516232,-71.1379189789295,344 Huron Ave,Huron Village,Cambridge,MA,02138,US,6173546699,"",EST,"",Active
+Anna's Taqueria,Mexican,42.3881064355373,-71.1184253543615,822 Somerville Ave,Porter Square,Cambridge,MA,02140,US,6176618500,"",EST,"",Active
+Harvest,French,42.3736842141857,-71.1220836964934,44 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178682255,"",EST,"",Active
+Noir,Lounges,42.3723605275154,-71.1219383776188,1 Bennett St,Harvard Square,Cambridge,MA,02138,US,6176618010,"",EST,"",Active
+Grafton Street,American (Traditional),42.372401,-71.1159,1230 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174970400,"",EST,"",Active
+1369 Coffee House,Coffee & Tea,42.3666687,-71.1052933,757 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175764600,"",EST,"",Active
+Four Burgers,Burgers,42.3660399019718,-71.1048781871796,704 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174415444,"",EST,"",Active
+Zoe's,Greek,42.37077,-71.11355,1105 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174950055,"",EST,"",Active
+Skampa,Sandwiches,42.3712348937988,-71.0833206176758,424 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6173540009,"",EST,"",Active
+Mary Chung Restaurant,Chinese,42.3637238144875,-71.1009742319584,460 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178641991,"",EST,"",Active
+Belly Wine Bar,Wine Bars,42.3664315853316,-71.0901874380877,One Kendall Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6174940968,"",EST,"",Active
+Ittyo Restaurant,Japanese,42.38729,-71.11839,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6173545944,"",EST,"",Active
+Fresh Pond,Parks,42.3825844377279,-71.1431968957186,200 Fresh Pond Pkwy,"Cambridge, MA 02238",Cambridge,MA,02238,US,,"",EST,"",Active
+Harvard House Of Pizza,Pizza,42.3832880230922,-71.1198422477928,1706 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6178648090,"",EST,"",Active
+Sapporo Ramen,Ramen,42.3870496451855,-71.1190992593765,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178764805,"",EST,"",Active
+Grendel's Den Restaurant & Bar,Bars,42.372501,-71.1209673,89 Winthrop St,Harvard Square,Cambridge,MA,02138,US,6174911160,"",EST,"",Active
+India Pavilion,Indian,42.3654119,-71.1045342,17 Central Sq,Central Square,Cambridge,MA,02139,US,6175477463,"",EST,"",Active
+Koreana,Korean,42.369149,-71.101008,158 Prospect St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175768661,"",EST,"",Active
+Cafe Pamplona,Spanish,42.3717498779297,-71.1154708862305,12 Bow St,Harvard Square,Cambridge,MA,02138,US,6174920352,"",EST,"",Active
+Boston Burger Company,Burgers,42.3707199,-71.1132889,1105 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,8572423605,"",EST,"",Active
+Shake Shack,Burgers,42.3722616,-71.1209004,92 Winthrop St,Harvard Square,Cambridge,MA,02138,US,6177588495,"",EST,"",Active
+The Half-Shell,Pizza,42.385187,-71.119329,1760 Massachusetts Ave,Ste A,Cambridge,MA,02140,US,6178769596,"",EST,"",Active
+North Point Park,Parks,42.3694711178541,-71.0717394948006,6 Museum Way,East Cambridge,Cambridge,MA,02141,US,6175232900,"",EST,"",Active
+Casa Portugal,Seafood,42.373116,-71.097389,1200 Cambridge St,Inman Square,Cambridge,MA,02139,US,6174918880,"",EST,"",Active
+Meadhall,Bars,42.363786693677,-71.087323725337,4 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,6177144372,"",EST,"",Active
+Tatte Bakery & Cafe,Bakeries,42.36679,-71.09313,205 Broadway St,Kendall Square/MIT,Cambridge,MA,02139,US,6174948700,"",EST,"",Active
+The Sinclair,Music Venues,42.374157,-71.1206436,52 Church St,Harvard Square,Cambridge,MA,02138,US,6175475200,"",EST,"",Active
+Tanjore,Indian,42.372106389256,-71.12161399105,18 Eliot St,Harvard Square,Cambridge,MA,02138,US,6178681900,"",EST,"",Active
+Fuji At Kendall,Sushi Bars,42.3652801513672,-71.0819854736328,300 3rd St,Kendall Square/MIT,Cambridge,MA,02142,US,6172520088,"",EST,"",Active
+Middlesex Lounge,Lounges,42.362474,-71.098468,315 Massachusetts Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178686739,"",EST,"",Active
+S & S Restaurant & Deli Inc,Delis,42.37333,-71.09987,1334 Cambridge St,Inman Square,Cambridge,MA,02139,US,6173540777,"",EST,"",Active
+Pepper Sky's Thai Sensation,Thai,42.364188205727,-71.102893589241,20 Pearl St,Central Square,Cambridge,MA,02139,US,6174922541,"",EST,"",Active
+Paddy's Lunch,Pubs,42.3859481811523,-71.1311569213867,260 Walden St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175478739,"",EST,"",Active
+Commonwealth Restaurant and Market,American (New),42.3631063,-71.0827681,11 Broad Canal Way,Kendall Square/MIT,Cambridge,MA,02142,US,6179457030,"",EST,"",Active
+Oxford Spa Cafe,American (Traditional),42.3831291,-71.1160507,102 Oxford St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6176616988,"",EST,"",Active
+Daedalus Restaurant & Pub,Restaurants,42.3712908462239,-71.11647605896,45 1/2 Mt. Auburn St,Harvard Square,Cambridge,MA,02138,US,6173490071,"",EST,"",Active
+Amelias Trattoria,Italian,42.3649788,-71.0926971,111 Harvard St,Kendall Square/MIT,Cambridge,MA,02139,US,6178687600,"",EST,"",Active
+Atasca,Portuguese,42.36688,-71.09283,50 Hampshire St,Kendall Square/MIT,Cambridge,MA,02139,US,6176216991,"",EST,"",Active
+Beantowne Coffee,Coffee & Tea,42.366391823341,-71.090628522504,1 Kendall Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6176217900,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3724684123245,-71.1194061418472,36 JFK St,Harvard Square,Cambridge,MA,02138,US,6174924881,"",EST,"",Active
+Portugalia,Portuguese,42.37232,-71.08866,723 Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6174915373,"",EST,"",Active
+The Elephant Walk,French,42.39182,-71.1227,2067 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174926900,"",EST,"",Active
+Cafe ArtScience,Cocktail Bars,42.3644714355469,-71.0806274414062,650 E Kendall St,Kendall Square/MIT,Cambridge,MA,02142,US,8579992193,"",EST,"",Active
+Akai Ryu Shabu & Sushi Restaurant,Japanese,42.3884914901523,-71.1185810773643,822 Somerville Ave,2nd Fl,Cambridge,MA,02140,US,6178680186,"",EST,"",Active
+B. Good,Burgers,42.372605034642,-71.119023304569,24 Dunster St,Harvard Square,Cambridge,MA,02138,US,6173546500,"",EST,"",Active
+Bytes At University Park,Delis,42.360912322998,-71.1013259887695,64 Sidney St,Ste 1,Cambridge,MA,02139,US,6176213513,"",EST,"",Active
+Zinneken's,Belgian,42.3712983727455,-71.1145529150963,1154 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6178760836,"",EST,"",Active
+Takemura Japanese Restaurant,Japanese,42.3720893859863,-71.1213912963867,18 Eliot St,Harvard Square,Cambridge,MA,02138,US,6174926700,"",EST,"",Active
+BISq,American (New),42.3730216920376,-71.0949801653624,1071 Cambridge St,Inman Square,Cambridge,MA,02139,US,6177143693,"",EST,"",Active
+Loyal Nine,Coffee & Tea,42.37192,-71.08761,660 Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6179452576,"",EST,"",Active
+Phoenix Landing,Irish,42.3640365600586,-71.1019897460938,512 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175766260,"",EST,"",Active
+Boloco Harvard,Mexican,42.372163,-71.118239,Harvard Square,71 Mt Auburn St,Cambridge,MA,02138,US,6173545838,"",EST,"",Active
+Wasabi at Porter,Sushi Bars,42.3913002,-71.1234283,2088 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6179455001,"",EST,"",Active
+Jose's Mexican Restaurant,Mexican,42.390184,-71.132848,131 Sherman St,"Cambridge, MA 02140",Cambridge,MA,02140,US,6173540335,"",EST,"",Active
+Harvard Yard,Landmarks & Historical Buildings,42.3800315856934,-71.1346969604492,Harvard University Campus,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+Flame Asian Restaurant,Szechuan,42.3695099476262,-71.1113642830811,1001 Massachusetts Ave,Central Square,Cambridge,MA,02138,US,6179450080,"",EST,"",Active
+Felipe's Taqueria,Mexican,42.3733301460743,-71.1204718798399,21 Brattle St,Harvard Square,Cambridge,MA,02138,US,6173549944,"",EST,"",Active
+The Table At Season To Taste,American (New),42.3983409,-71.1310318,2447 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6178269037,"",EST,"",Active
+Aram's No 2 Pizza & Subs,Pizza,42.37149,-71.08176,345 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6173545154,"",EST,"",Active
+Leo Carroll Jewelers,Jewelry,42.3735087,-71.1002036,1348 Cambridge St,Inman Square,Cambridge,MA,02139,US,6178642090,"",EST,"",Active
+Boston iPhone Repair,Electronics Repair,42.3719711,-71.1155167,1208 Massachusetts Ave,Ste 5,Cambridge,MA,02138,US,6175122258,"",EST,"",Active
+Tasty Burger,Burgers,42.3726196,-71.1199722,40 JFK St,Harvard Square,Cambridge,MA,02138,US,6174254444,"",EST,"",Active
+Tory Row,Bars,42.373581000981,-71.119619301871,3 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178768769,"",EST,"",Active
+CurryThai Restaurant,Thai,42.3719289173994,-71.0858103632927,569 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6178686644,"",EST,"",Active
+Joe Sent Me,Pubs,42.39693,-71.12996,2388 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6174921116,"",EST,"",Active
+Chipotle Mexican Grill,Fast Food,42.3730969739447,-71.1214289895272,1 Brattle Sq,Harvard Square,Cambridge,MA,02138,US,6174910677,"",EST,"",Active
+Dwelltime,Coffee & Tea,42.37044,-71.10444,364 Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,6177145536,"",EST,"",Active
+Changsho,Chinese,42.3835296630859,-71.1198883056641,1712 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6175476565,"",EST,"",Active
+Dante,Italian,42.3665857315063,-71.0756005346775,40 Edwin H Land Blvd,Kendall Square/MIT,Cambridge,MA,02142,US,6174974200,"",EST,"",Active
+Royal East Restaurant,Chinese,42.3631003,-71.0971097,792 Main St,Kendall Square/MIT,Cambridge,MA,02139,US,6176611660,"",EST,"",Active
+Chocho's,Korean,42.38729,-71.11839,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178684246,"",EST,"",Active
+MIT Stata Center,Landmarks & Historical Buildings,42.3620702,-71.0906956,32 Vassar St,Kendall Square/MIT,Cambridge,MA,02139,US,6175778812,"",EST,"",Active
+Za,Pizza,42.364540343707,-71.082760247546,350 3rd St,Kendall Square/MIT,Cambridge,MA,02142,US,6174529292,"",EST,"",Active
+Anna's Taqueria,Mexican,42.3588791,-71.0946198,MIT Stratton Student Center,84 Massachusetts Ave,Cambridge,MA,02139,US,6173242662,"",EST,"",Active
+The Red House,American (New),42.37248,-71.1211576,98 Winthrop St,Harvard Square,Cambridge,MA,02138,US,6175760605,"",EST,"",Active
+Nubar,Lounges,42.377186,-71.123238,16 Garden St,Harvard Square,Cambridge,MA,02138,US,6172341365,"",EST,"",Active
+Weeks Footbridge,Landmarks & Historical Buildings,42.3690560460091,-71.117110401392,953 Memorial Dr,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+Shepard,American (New),42.3819389,-71.120079,1 Shepard St,Porter Square,Cambridge,MA,02138,US,6177145295,"",EST,"",Active
+Primo Pizza & Roast Beef,Pizza,42.363441,-71.096855,783 Main St,Kendall Square/MIT,Cambridge,MA,02139,US,6179450878,"",EST,"",Active
+9 Tastes,Thai,42.3719825744629,-71.1203460693359,50 JFK St,Harvard Square,Cambridge,MA,02138,US,6175476666,"",EST,"",Active
+Bambara Cambridge,American (New),42.3679656982422,-71.0751342773438,25 Edwin H Land Blvd,East Cambridge,Cambridge,MA,02141,US,6178684444,"",EST,"",Active
+Super Fusion Cuisine,Sushi Bars,42.38517,-71.1191711,1759 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178646299,"",EST,"",Active
+Hi-Rise Bread Company,Bakeries,42.3825033214094,-71.1313591507896,208 Concord Ave,Huron Village,Cambridge,MA,02138,US,6178768766,"",EST,"",Active
+Sabra Grill,Middle Eastern,42.3720265,-71.1214771,20 Eliot St,Harvard Square,Cambridge,MA,02138,US,6178685777,"",EST,"",Active
+Atomic Bean Cafe,Coffee & Tea,42.3682635,-71.1085611,904 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174990972,"",EST,"",Active
+Firebrand Saints,Bars,42.3624106798768,-71.0832354426384,1 Broadway St,Kendall Square/MIT,Cambridge,MA,02142,US,6174013399,"",EST,"",Active
+Beantown Taqueria,Tex-Mex,42.361699,-71.097339,245 Massachusetts Ave,Kendall Square/MIT,Cambridge,MA,02139,US,6174418689,"",EST,"",Active
+Ginger Exchange,Japanese,42.3735205829144,-71.0988606512547,1287 Cambridge St,Inman Square,Cambridge,MA,02139,US,6172508618,"",EST,"",Active
+Kaju Tofu House,Korean,42.372075,-71.1208551,57 John F Kennedy St,Harvard Square,Cambridge,MA,02138,US,6178646868,"",EST,"",Active
+Wok N' Roll,Chinese,42.3888893,-71.119873,1908 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174978638,"",EST,"",Active
+Olive Cafe,Mediterranean,42.3718109,-71.0794525,43 Gore St,East Cambridge,Cambridge,MA,02141,US,6178764189,"",EST,"",Active
+Falafel Corner,Middle Eastern,42.37248,-71.12142,8 Eliot St,Harvard Square,Cambridge,MA,02138,US,6174418888,"",EST,"",Active
+Hub Bicycle Company,Bikes,42.372881774227,-71.095243886418,1036 Cambridge St,Inman Square,Cambridge,MA,02141,US,6174412500,"",EST,"",Active
+Dado Tea,Coffee & Tea,42.3741968,-71.1206414,50 Church St,Harvard Square,Cambridge,MA,02138,US,6175470950,"",EST,"",Active
+Abigail's Restaurant,American (New),42.364634476563,-71.083137476506,291 3rd St,Kendall Square/MIT,Cambridge,MA,02142,US,6179459086,"",EST,"",Active
+John Harvard's Brewery & Ale House,Breweries,42.3726428300142,-71.1192011833191,33 Dunster St,Harvard Square,Cambridge,MA,02138,US,6178683585,"",EST,"",Active
+I Love Sushi,Sushi Bars,42.386939,-71.118967,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174924655,"",EST,"",Active
+Bluefin,Sushi Bars,42.38729,-71.11839,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174978022,"",EST,"",Active
+Bukowski Tavern,Pubs,42.37367,-71.09877,1281 Cambridge St,Inman Square,Cambridge,MA,02139,US,6174977077,"",EST,"",Active
+Darul Kabab,Indian,42.391033,-71.123275,2072 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6173544010,"",EST,"",Active
+Car Zone,Auto Repair,42.3740599,-71.0936215,486 Columbia St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175769663,"",EST,"",Active
+Gyu-Kaku Japanese BBQ,Japanese,42.3721018972539,-71.1213581938705,16-18 Eliot St,2nd Fl,Cambridge,MA,02138,US,8572596666,"",EST,"",Active
+Tavern in the Square,American (New),42.387597072352,-71.119031366101,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6173547766,"",EST,"",Active
+Pino Bros Ink,Tattoo,42.37298,-71.09572,1100 Cambridge St,Inman Square,Cambridge,MA,02139,US,6172509903,"",EST,"",Active
+Patty Chen's Dumpling Room,Taiwanese,42.3635198,-71.0996083,907 Main St,Central Square,Cambridge,MA,02139,US,6174916616,"",EST,"",Active
+Courtside,Bars,42.3712145537138,-71.0809481889009,299 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6175474374,"",EST,"",Active
+Cilantro,Dim Sum,42.3707199,-71.1132889,1105 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6179451768,"",EST,"",Active
+India Castle,Indian,42.36831,-71.10925,928 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178648100,"",EST,"",Active
+Legal Sea Foods,Seafood,42.3627095,-71.0872718,5 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,6178643400,"",EST,"",Active
+Mariposa Bakery,Bakeries,42.3633643434355,-71.1006173502852,424 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178766500,"",EST,"",Active
+Whitney's Cafe,Restaurants,42.37272,-71.12015,37 JFK St,Harvard Square,Cambridge,MA,02138,US,6173548172,"",EST,"",Active
+Quad Bikes,Bikes,42.3804212361574,-71.1244509369135,51 Shepard St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174965955,"",EST,"",Active
+Desi Dhaba,Indian,42.3636436462402,-71.099983215332,401 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175474121,"",EST,"",Active
+Tahaza Hummus Kitchen,Mediterranean,42.3695678710938,-71.076774597168,1 Canal Park,East Cambridge,Cambridge,MA,02141,US,8572596960,"",EST,"",Active
+Starbucks,Coffee & Tea,42.363725183001,-71.087830138841,6 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,6175777511,"",EST,"",Active
+Saté Grill-on-Wheels,Asian Fusion,42.3615636626372,-71.0862192362518,Kendall Square,70 Carleton St,Cambridge,MA,02142,US,,"",EST,"",Active
+Shalimar of India,Vegetarian,42.36437,-71.1023,546 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175479280,"",EST,"",Active
+Flat Top Johnny's,Pool Halls,42.3666061748873,-71.0906624794006,1 Kendall Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6174949565,"",EST,"",Active
+The Thirsty Ear,Pubs,42.3585920780897,-71.1009990423918,235 Albany St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6172589754,"",EST,"",Active
+Inman Oasis,Massage,42.374214,-71.100997,243 Hampshire St,Inman Square,Cambridge,MA,02139,US,6174910176,"",EST,"",Active
+Boca Grande,Mexican,42.38413,-71.11966,1728 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6173547400,"",EST,"",Active
+Pronto,Breakfast & Brunch,42.3723605275154,-71.1219383776188,1 Bennett St,Harvard Square,Cambridge,MA,02138,US,6172348080,"",EST,"",Active
+Spice Thai Cuisine,Thai,42.3721656799316,-71.118293762207,24 Holyoke St,Harvard Square,Cambridge,MA,02138,US,6178689560,"",EST,"",Active
+Deleo's Auto Body & Service,Auto Repair,42.35833,-71.1058,75 Hamilton St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178761344,"",EST,"",Active
+Gather Here,Fabric Stores,42.370616,-71.104728,370 Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,7817759504,"",EST,"",Active
+Tavern in the Square,Lounges,42.3659133911133,-71.1051330566406,730 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178688800,"",EST,"",Active
+Riverside Pizza & Seafoods,Pizza,42.36247,-71.1133399,305 River St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6173548800,"",EST,"",Active
+Ampersand,Southern,42.3578344991831,-71.1092909119487,513 Putnam Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+New Deal Fish Market,Seafood Markets,42.3717384338379,-71.086784362793,622 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6178768227,"",EST,"",Active
+Follow The Honey,Specialty Food,42.370789,-71.114197,1132 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6179457356,"",EST,"",Active
+Market In the Square,Grocery,42.373933579687,-71.121228656129,60 Church St,Harvard Square,Cambridge,MA,02138,US,6174412000,"",EST,"",Active
+241 Optical,Eyewear & Opticians,42.370973789813,-71.1139011383057,1208 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174410006,"",EST,"",Active
+Harvard Book Store,Bookstores,42.37241,-71.11631,1256 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6176611515,"",EST,"",Active
+Chipotle Mexican Grill,Mexican,42.3892409144273,-71.1434334906597,277 Alewife Brook Pkwy,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175009373,"",EST,"",Active
+Moksa Restaurant,Asian Fusion,42.363596325237,-71.1010352921355,450 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6176614900,"",EST,"",Active
+Passage To India,Indian,42.3888248,-71.1198138,1900 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174976113,"",EST,"",Active
+The Laundry Room Etc,Dry Cleaning & Laundry,42.385231,-71.1191711,1761 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178689274,"",EST,"",Active
+Bruegger's Bagels,Bagels,42.38826,-71.11977,1876 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6175766163,"",EST,"",Active
+The Asgard Irish Pub & Restaurant,Pubs,42.3627292435173,-71.099576447626,350 Massachusetts Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175779100,"",EST,"",Active
+Redemption Tattoo,Tattoo,42.3913498,-71.1235428,2094 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6175760097,"",EST,"",Active
+Night Market,Asian Fusion,42.3720589,-71.1200104,75 Winthrop St,Harvard Square,Cambridge,MA,02138,US,8572856948,"",EST,"",Active
+Al-Hoda Market,Grocery,42.3726546,-71.0984544,304 Prospect St,Inman Square,Cambridge,MA,02139,US,6174417854,"",EST,"",Active
+wagamama,Japanese,42.3721826,-71.1207341,57 JFK St,Harvard Square,Cambridge,MA,02138,US,6174990930,"",EST,"",Active
+Darwin's,Cafes,42.3625908,-71.0986786,313 Massachusetts Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174971000,"",EST,"",Active
+CLM Auto Repair,Auto Repair,42.373558,-71.094742,306 Webster Ave,Inman Square,Cambridge,MA,02141,US,6174976722,"",EST,"",Active
+Naco Taco,Mexican,42.362339,-71.0981064,297 Massachusetts Ave,Kendall Square/MIT,Cambridge,MA,02139,US,6179451548,"",EST,"",Active
+Pho House,Vietnamese,42.3859596,-71.1194687,1790 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6175478888,"",EST,"",Active
+Hong Kong At Harvard Square,Chinese,42.3724568,-71.1161392,1238 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6178645311,"",EST,"",Active
+Formaggio Kitchen,Specialty Food,42.3813524354203,-71.1338412419476,244 Huron Ave,Huron Village,Cambridge,MA,02138,US,6173544750,"",EST,"",Active
+The Sunset Cafe,American (Traditional),42.3724632,-71.0909725,851/857 Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6175472938,"",EST,"",Active
+Artist & Craftsman Supply,Art Supplies,42.36452,-71.10306,580 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6173543636,"",EST,"",Active
+Midwest Grill Brazilian BBQ,Steakhouses,42.3728530184518,-71.09603,1124 Cambridge St,Inman Square,Cambridge,MA,02139,US,6173547536,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3738827223601,-71.1128014326096,468 Broadway,Harvard Square,Cambridge,MA,02138,US,6174919911,"",EST,"",Active
+The Comedy Studio,Performing Arts,42.3724556,-71.1161423,1238 Massachusetts Ave,3rd Floor,Cambridge,MA,02138,US,6176616507,"",EST,"",Active
+The Breathing Room,Yoga,42.3660936700948,-71.1048623227539,763 Massachusetts Ave,Ste 7,Cambridge,MA,02139,US,6179774836,"",EST,"",Active
+Frank's Steakhouse,Steakhouses,42.39533,-71.12833,2310 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6176610666,"",EST,"",Active
+BerryLine,Ice Cream & Frozen Yogurt,42.37117,-71.1146011,3 Arrow St,Harvard Square,Cambridge,MA,02138,US,6178683500,"",EST,"",Active
+Jacob Rasner - Keller Williams Realty,Real Estate Agents,42.369156,-71.109825,955 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178239780,"",EST,"",Active
+Lembu Real Estate,Real Estate Agents,42.3642597445648,-71.1028397083282,22 Pearl St,Central Square,Cambridge,MA,02139,US,6176829802,"",EST,"",Active
+Forty Winks,Lingerie,42.3718710243702,-71.1206515878439,56 JF Kennedy St,Harvard Square,Cambridge,MA,02138,US,6174929100,"",EST,"",Active
+Redline Fight Sports,Martial Arts,42.3649864,-71.1032791,614 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178682275,"",EST,"",Active
+Mount Auburn Cemetery,Funeral Services & Cemeteries,42.3751869,-71.1450272,580 Mt Auburn St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175477105,"",EST,"",Active
+Dana Park,Playgrounds,42.3615016043186,-71.1083590239286,74 Magazine St,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+Cambridge Common Park,Parks,42.376855,-71.120943,Garden St and Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+MIT Press Bookstore,Bookstores,42.3621520996094,-71.0858764648438,292 Main St,Kendall Square/MIT,Cambridge,MA,02142,US,6172535249,"",EST,"",Active
+Sly's Barber Shop,Barbers,42.3645794391632,-71.1132567375898,321 Western Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174913940,"",EST,"",Active
+Panera Bread,Sandwiches,42.38938,-71.119467,5 White St,Porter Square,Cambridge,MA,02140,US,6175470816,"",EST,"",Active
+Greene Rose Heritage Park,Parks,42.3668063431978,-71.0947602242231,238 Broadway St,Kendall Square/MIT,Cambridge,MA,02139,US,,"",EST,"",Active
+Yenching Restaurant,Chinese,42.3729651,-71.1178634,1326 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6175471130,"",EST,"",Active
+Harvard Square Holiday Craft Fair,Shopping,42.3745499,-71.1194,3 Church St,Harvard Square,Cambridge,MA,02238,US,4136259779,"",EST,"",Active
+Mona Lisa Restaurant & Pizzeria,Pizza,42.3748838156462,-71.1092555522919,1625 Cambridge St,Harvard Square,Cambridge,MA,02138,US,6174911888,"",EST,"",Active
+Così,Sandwiches,42.361969,-71.0855026,290 Main St,Kendall Square/MIT,Cambridge,MA,02142,US,6178685810,"",EST,"",Active
+Marathon Sports,Shoe Stores,42.381488,-71.12014,1654 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6173544161,"",EST,"",Active
+Starbucks,Coffee & Tea,42.373356227573,-71.119314278932,1380 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6173543726,"",EST,"",Active
+Leavitt & Peirce Tobacco,Tobacco Shops,42.3729432374239,-71.1174879223108,1316 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6175470576,"",EST,"",Active
+Trader Joe's,Grocery,42.358245038548,-71.114201341539,748 Memorial Dr,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174918582,"",EST,"",Active
+The Brattle Theatre,Cinema,42.37362,-71.12139,40 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178766837,"",EST,"",Active
+Metropolitan Laundromat,Dry Cleaning & Laundry,42.3574905,-71.1077499,266 Brookline St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178641303,"",EST,"",Active
+Potbelly Sandwich Shop,Sandwiches,42.3884301,-71.118495,1 Porter Rd,Porter Square,Cambridge,MA,02140,US,6179362285,"",EST,"",Active
+Dosa Factory,Indian,42.364933013916,-71.1023483276367,571 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178683672,"",EST,"",Active
+Cambridge Public Library,Libraries,42.3731846362352,-71.1106576770544,449 Broadway,Harvard Square,Cambridge,MA,02138,US,6173494040,"",EST,"",Active
+Longfellow Park,Parks,42.376053,-71.127266,5 Longfellow Park,"Cambridge, MA 02138",Cambridge,MA,02138,US,,"",EST,"",Active
+Yummy Thai Cuisine,Thai,42.3944511413574,-71.126579284668,2261 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6173547070,"",EST,"",Active
+Cambridge Historical Tours,Tours,42.3780754698197,-71.1230850219727,25 Mt Auburn St,Suite 106,Cambridge,MA,02138,US,6175204030,"",EST,"",Active
+Cambridge Pizzeria,Pizza,42.3577068,-71.1079428,263 Brookline St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175474588,"",EST,"",Active
+Skenderian Apothecary,Drugstores,42.374921404417,-71.108929275233,1613 Cambridge St,Harvard Square,Cambridge,MA,02138,US,6173545600,"",EST,"",Active
+Keezer's Classic Clothing,Men's Clothing,42.3636,-71.10898,140 River St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175472455,"",EST,"",Active
+Mona Lisa Pizza &  Grill,Pizza,42.3749024,-71.1091534,1621 Cambridge St,Harvard Square,Cambridge,MA,02138,US,6174911888,"",EST,"",Active
+Starbucks,Coffee & Tea,42.36568,-71.10356,655 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6173545471,"",EST,"",Active
+Summer Shack,Seafood,42.393659192464,-71.1410794906298,149 Alewife Brook Pkwy,North Cambridge,Cambridge,MA,02140,US,6175209500,"",EST,"",Active
+Downstairs Cafe,Sandwiches,42.3671423189315,-71.0809712250976,222 3rd St,Ste 222,Cambridge,MA,02142,US,6178688100,"",EST,"",Active
+Harvard Market,Delis,42.375063625564,-71.109347105041,1627 Cambridge St,Harvard Square,Cambridge,MA,02138,US,6174410040,"",EST,"",Active
+The Dance Complex,Performing Arts,42.3643481,-71.1022582,536 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175479363,"",EST,"",Active
+BollyX,Dance Studios,42.3642821,-71.1022109,The Dance Complex,536 Massachusetts Ave,Cambridge,MA,02139,US,,"",EST,"",Active
+Kika Tapas,Tapas Bars,42.3631063,-71.0827681,5 Broad Canal Way,350 3rd St,Cambridge,MA,02142,US,6172456030,"",EST,"",Active
+Go! Go! Curry!,Japanese,42.3650219,-71.1027564,581 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,8572092747,"",EST,"",Active
+Massachusetts Institute of Technology,Colleges & Universities,42.3611717,-71.0864716,25 Carleton St,Kendall Square/MIT,Cambridge,MA,02142,US,6172534481,"",EST,"",Active
+Schoenhof's Foreign Books,Bookstores,42.371991239103,-71.119171497432,76A Mt Auburn St,Harvard Square,Cambridge,MA,02138,US,6175478855,"",EST,"",Active
+Café Gato Rojo,Coffee & Tea,42.3735419007205,-71.1184930801392,"Basement of Dudley Lehman Hall, Harvard Yard",Harvard Square,Cambridge,MA,02138,US,6174964658,"",EST,"",Active
+Ed Greable - Keller Williams Realty,Real Estate Agents,42.369155,-71.109825,955 Massachusetts Ave,Ste 100,Cambridge,MA,02139,US,6179059128,"",EST,"",Active
+Shawarma Shack,Moroccan,42.3591790287207,-71.0947198650838,Stratton Student Center,84 Massachusetts Ave,Cambridge,MA,02139,US,6173245568,"",EST,"",Active
+Crazy Dough's Pizza,Pizza,42.3727112263441,-71.1199622601271,The Garage,36 JFK St,Cambridge,MA,02138,US,6174924848,"",EST,"",Active
+Kendall Kitchen,Sandwiches,42.3659500479698,-71.0923958569765,201  Broadway,Kendall Square/MIT,Cambridge,MA,02139,US,6172257704,"",EST,"",Active
+American Repertory Theater,Performing Arts,42.3748956554954,-71.1229155610334,64 Brattle St,Harvard Square,Cambridge,MA,02138,US,6175478300,"",EST,"",Active
+Harvard Street Dental,Dentists,42.3695488,-71.1045227,287 Harvard St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174923535,"",EST,"",Active
+Head of the Charles,Local Flavor,42.3743728,-71.1375223,2 Gerrys Landing Road,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178686200,"",EST,"",Active
+Foreign Auto Center,Auto Repair,42.37157,-71.09979,251 Prospect St,Inman Square,Cambridge,MA,02139,US,6176618558,"",EST,"",Active
+BerryLine,Ice Cream & Frozen Yogurt,42.382132537452,-71.119909164422,1668 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174923555,"",EST,"",Active
+Bertucci's,Pizza,42.36346,-71.09723,799 Main St,Kendall Square/MIT,Cambridge,MA,02138,US,6176618356,"",EST,"",Active
+Charlie's Barber Shop,Barbers,42.3860207,-71.1194611,1794 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178761116,"",EST,"",Active
+Fort Washington,Landmarks & Historical Buildings,42.3564007133245,-71.1049318313599,115 Waverly St,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+Qdoba Mexican Grill,Mexican,42.3726807,-71.1167831,1280 Massachusetts Avenue,Harvard Square,Cambridge,MA,02138,US,6178711136,"",EST,"",Active
+O Sushi Restaurant & Bar,Japanese,42.3725556582212,-71.1217472702265,1 Eliot St,Harvard Square,Cambridge,MA,02138,US,6179459450,"",EST,"",Active
+Raven Used Books,Used Bookstore,42.37449,-71.11984,23 Church St,Harvard Square,Cambridge,MA,02138,US,6174416999,"",EST,"",Active
+Beantown Taqueria,Mexican,42.364795,-71.108772,148 Western Ave,Central Square,Cambridge,MA,02139,US,6178646969,"",EST,"",Active
+WardMaps,Arts & Crafts,42.3842812,-71.1191635,1735 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174970737,"",EST,"",Active
+Pizza Pie-er,Pizza,42.3726938016307,-71.0991704463959,187 Hampshire St,Inman Square,Cambridge,MA,02139,US,6173492200,"",EST,"",Active
+Body Zen Skin Care,Skin Care,42.39072,-71.1222,Novita Salon,2034 Massachusetts Ave,Cambridge,MA,02140,US,6179998368,"",EST,"",Active
+University Stationery,Office Equipment,42.3623335,-71.0985367,311 Massachusetts Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175476650,"",EST,"",Active
+A Quinn Hair Studio,Hair Salons,42.3710037,-71.1141217,5 Arrow St,Harvard Square,Cambridge,MA,02138,US,6173545354,"",EST,"",Active
+Art Bar,American (New),42.367142268416,-71.074268317307,40 Edwin H Land Blvd,East Cambridge,Cambridge,MA,02142,US,6178064122,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3745193,-71.1201782,31 Church St,Harvard Square,Cambridge,MA,02138,US,6174927870,"",EST,"",Active
+Fire and Ice,American (New),42.374158134924,-71.12076724551,50 Church St,Harvard Square,Cambridge,MA,02138,US,6175479007,"",EST,"",Active
+SEE,Eyewear & Opticians,42.3726888,-71.116765,1276 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6178681500,"",EST,"",Active
+Savenor's Market,Meat Shops,42.377942471184,-71.107392630267,92 Kirkland St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175766328,"",EST,"",Active
+Goosebeary's Food Truck,Food Stands,42.3664474487305,-71.1057357788086,Carlton St & Ames St,Harvard Square,Cambridge,MA,02238,US,,"",EST,"",Active
+Andy's Diner,Diners,42.3906898,-71.1221237,2030 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174971444,"",EST,"",Active
+Uno Pizzeria & Grill,Pizza,42.3728788644075,-71.1198241263628,Harvard Square,22 John F. Kennedy St.,Cambridge,MA,02138,US,6174971530,"",EST,"",Active
+Christina's Homemade Ice Cream,Ice Cream & Frozen Yogurt,42.3735642129033,-71.0983584498918,1255 Cambridge St,Inman Square,Cambridge,MA,02139,US,6174927021,"",EST,"",Active
+Grolier Poetry Book Shop,Bookstores,42.3724738508463,-71.116486787796,6 Plympton St,Harvard Square,Cambridge,MA,02138,US,6175474648,"",EST,"",Active
+Camie's Bakery & Restaurant,Bakeries,42.36685,-71.09784,152 Columbia St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6176614878,"",EST,"",Active
+Beatnik Beverage Company,Coffee & Tea,42.3626216,-71.0867026,325-355 Main St,Kendall Square/MIT,Cambridge,MA,02142,US,6175555555,"",EST,"",Active
+Jimmy's Shoe Repair,Shoe Repair,42.3661699,-71.1032199,42 Prospect St,Central Square,Cambridge,MA,02139,US,6178688838,"",EST,"",Active
+Le Couturier House of Alterations,Sewing & Alterations,42.3645016551018,-71.1023200303316,550 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174971258,"",EST,"",Active
+Iggy's Bread,Bakeries,42.3934783935547,-71.1480865478516,130 Fawcett St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174917600,"",EST,"",Active
+Hourglass Tattoo Studio,Tattoo,42.3824462890625,-71.1200790405273,1680 A Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6178683300,"",EST,"",Active
+Central Bottle Wine + Provisions,"Beer, Wine & Spirits",42.3611221,-71.0967636,196 Massachusetts Ave,Kendall Square/MIT,Cambridge,MA,02139,US,6172250040,"",EST,"",Active
+Greek American Political Club,Local Flavor,42.36453,-71.10438,288 Green St,Central Square,Cambridge,MA,02139,US,6173548178,"",EST,"",Active
+The Cheesecake Factory,American (Traditional),42.3680170714471,-71.0763394606628,100 Cambridgeside Pl,East Cambridge,Cambridge,MA,02141,US,6172523810,"",EST,"",Active
+Cambridge House of Pizza,Pizza,42.3977342247963,-71.1306850612164,2420 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6178768083,"",EST,"",Active
+The Million Year Picnic,Comic Books,42.37286,-71.120596,99 Mount Auburn St,Harvard Square,Cambridge,MA,02138,US,6174926763,"",EST,"",Active
+Queen Dressmakers,Sewing & Alterations,42.3750457763672,-71.1515502929688,37 Belmont St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6176619551,"",EST,"",Active
+IHOP,Diners,42.3720207,-71.121521,16-18 Eliot St,Harvard Square,Cambridge,MA,02138,US,6173540999,"",EST,"",Active
+Rockler Woodworking & Hardware,Hardware Stores,42.3922005,-71.1246567,2154 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174971136,"",EST,"",Active
+Chill Out First Class Transportation Services,Taxis,42.375792874538,-71.1048889160156,"Cambridge, MA 02139",,Cambridge,MA,02139,US,6172123763,"",EST,"",Active
+Petali Flowers,Florists,42.3723793,-71.1199036,92 Mount Auburn St,Harvard Square,Cambridge,MA,02138,US,6174923600,"",EST,"",Active
+Broadway Bicycle School,Bike Rentals,42.3704605102539,-71.1035232543945,351 Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178683392,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3678512573242,-71.0757369995117,100 Cambridgeside Pl,Ste E108,Cambridge,MA,02141,US,6176219507,"",EST,"",Active
+Mexicali Burrito Co,Mexican,42.3627799680252,-71.091456413269,500 Technology Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6172252777,"",EST,"",Active
+Rebecca's Cafe,Sandwiches,42.362173172742,-71.085392641623,290 Main St,Kendall Square/MIT,Cambridge,MA,02142,US,6174946688,"",EST,"",Active
+Poetry Moving,Movers,42.383572,-71.11461,Eustis Str,"Cambridge, MA 02140",Cambridge,MA,02140,US,7819568405,"",EST,"",Active
+Cakes By Terri,Desserts,42.3679328709841,-71.0828069597483,157 Charles St,Kendall Square/MIT,Cambridge,MA,02141,US,6173351133,"",EST,"",Active
+Harvard Museum of Natural History,Museums,42.378365,-71.11603671,26 Oxford St,Harvard Square,Cambridge,MA,02138,US,6174953045,"",EST,"",Active
+Skin Art Studio,Tattoo,42.371498,-71.085106,528 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6174992911,"",EST,"",Active
+Guangzhou Restaurant,Chinese,42.3732414,-71.0977707,1220 Cambridge St,Inman Square,Cambridge,MA,02139,US,6175476368,"",EST,"",Active
+Beijing Tokyo,Chinese,42.3633194,-71.0968399,781 Main St,Kendall Square/MIT,Cambridge,MA,02139,US,6173543388,"",EST,"",Active
+"Hotel Marlowe, a Kimpton Hotel",Hotels,42.3670421573529,-71.075234413147,25 Edwin H Land Blvd,Kendall Square/MIT,Cambridge,MA,02141,US,6178688000,"",EST,"",Active
+Q Audio,Electronics,42.3638705,-71.1015095,5 Brookline St,Central Square,Cambridge,MA,02139,US,6175472727,"",EST,"",Active
+Kendall Square Cinema,Cinema,42.368675,-71.090108,1 Kendall Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6176211202,"",EST,"",Active
+Euphoria Barbershop,Barbers,42.3721034,-71.0888891,766B Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6179451137,"",EST,"",Active
+David's Shoes On First,Shoe Stores,42.3684616,-71.0777893,75 First St,East Cambridge,Cambridge,MA,02141,US,6173543730,"",EST,"",Active
+Trattoria Pulcinella,Italian,42.382737103979,-71.130739786673,147 Huron Ave,Huron Village,Cambridge,MA,02138,US,6174916336,"",EST,"",Active
+Custom Eyes,Optometrists,42.3659897,-71.1032028,50 Prospect St,Central Square,Cambridge,MA,02139,US,6173493937,"",EST,"",Active
+Franklin Street Park,Parks,42.3675821721554,-71.110495403409,495 Franklin Street,Central Square,Cambridge,MA,02139,US,,"",EST,"",Active
+Lingo Bar & Grill,Bars,42.3696481436491,-71.0711889714003,8 Education St,East Cambridge,Cambridge,MA,02141,US,6176192409,"",EST,"",Active
+NGIN Workplace,Shared Office Spaces,42.3658676147461,-71.0934677124023,210 Broadway,Ste 201,Cambridge,MA,02139,US,6178633770,"",EST,"",Active
+Bisuteki Japanese Steak House,Japanese,42.3586699,-71.11471,777 Memorial Dr,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174978888,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3579413867083,-71.1150920391083,750 Memorial Dr,"Cambridge, MA 02139",Cambridge,MA,02139,US,6176615817,"",EST,"",Active
+Sebastians Cafe & Catering,Sandwiches,42.3628645282318,-71.0884952545166,7 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02139,US,6177580112,"",EST,"",Active
+Eye Q Optical,Eyewear & Opticians,42.37235,-71.1216199,12 Eliot St,Harvard Square,Cambridge,MA,02138,US,6173543303,"",EST,"",Active
+Harvard Square Acupuncture and Massage,Massage,42.3708878,-71.1143799,12 Arrow St,Ste 111,Cambridge,MA,02138,US,6173493600,"",EST,"",Active
+Aestheticare Day Spa,Day Spas,42.3711340874434,-71.0810293257236,310 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6176611113,"",EST,"",Active
+Chameleon Tattoo & Body Piercing,Tattoo,42.3727417,-71.119873,36 JFK St,Harvard Square,Cambridge,MA,02138,US,6174914335,"",EST,"",Active
+Black Sheep Restaurant,American (New),42.3626980514867,-71.0867786407471,Kendall Hotel,350 Main St,Cambridge,MA,02142,US,6175771300,"",EST,"",Active
+Suvaai,Indian,42.396759,-71.1297684,2378 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,8572596552,"",EST,"",Active
+Thai Therapy By Mary,Traditional Chinese Medicine,42.3648212,-71.109889,318 Western Ave,Ste 3,Cambridge,MA,02139,US,6175759104,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3628998,-71.0857391,2 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,6174946600,"",EST,"",Active
+Harvard Square Chiropractic,Chiropractors,42.373905,-71.123077,15 Story St,Harvard Square,Cambridge,MA,02138,US,6174410101,"",EST,"",Active
+Club Passim,Music Venues,42.3738387,-71.1200116,47 Palmer St,Harvard Square,Cambridge,MA,02138,US,6174925300,"",EST,"",Active
+Harvard Film Archive,Cinema,42.3739114,-71.1144998,24 Quincy St,Harvard Square,Cambridge,MA,02238,US,6174954700,"",EST,"",Active
+Aladdin Auto Service,Auto Repair,42.3904697815908,-71.1387491226196,162 Alewife Brook Pkwy,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175478000,"",EST,"",Active
+Acupuncture Together,Acupuncture,42.399248925766,-71.1319255828857,2464 Massachusetts Ave,Ste 420,Cambridge,MA,02140,US,6174999993,"",EST,"",Active
+Wrapro Falafel & Grill,Falafel,42.3820681745739,-71.119939539499,1670 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6178760311,"",EST,"",Active
+On The Spot Computer Repairs,IT Services & Computer Repair,42.365295,-71.099121,75 Columbia St,Fl 2,Cambridge,MA,02139,US,6176520484,"",EST,"",Active
+Brattle Square Florist,Florists,42.3735,-71.12082,31 Brattle Street,Harvard Square,Cambridge,MA,02138,US,6178769839,"",EST,"",Active
+Prana Power Yoga,Yoga,42.3650017,-71.1027603,585 Mass Ave,Central Square,Cambridge,MA,02139,US,6176419642,"",EST,"",Active
+Armageddon Shop,Vinyl Records,42.3723488,-71.1216202,12 Eliot St,Harvard Square,Cambridge,MA,02138,US,6174921235,"",EST,"",Active
+Hands-On Health Associates,Acupuncture,42.387291,-71.1183929,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6176614325,"",EST,"",Active
+The Curious George Store,Toy Stores,42.373526,-71.119784,1 JFK St,Harvard Square,Cambridge,MA,02138,US,6175474500,"",EST,"",Active
+Paper Source,Cards & Stationery,42.38677,-71.11937,1810 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174971077,"",EST,"",Active
+Mayflower Poultry,Meat Shops,42.37198,-71.08658,621 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6175479191,"",EST,"",Active
+Tapicha,Coffee & Tea,42.38729,-71.11839,1815 Massachusetts Avenue,Porter Square,Cambridge,MA,02140,US,,"",EST,"",Active
+Taste of Cambridge,Local Flavor,42.3622740805149,-71.1004203557968,23 Sidney St,"Cambridge, MA 02238",Cambridge,MA,02238,US,,"",EST,"",Active
+Paradise Bar,Gay Bars,42.3608093,-71.0962601,180 Massachusetts Ave,Kendall Square/MIT,Cambridge,MA,02238,US,6178683000,"",EST,"",Active
+Basha Cafe,Ethiopian,42.3879585,-71.1405716,26 New St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6179457661,"",EST,"",Active
+Paul Campano - Keller Williams Realty,Real Estate Agents,42.3691483,-71.1098404,955 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6173043686,"",EST,"",Active
+Imagine: A Center For Community & the Arts,Venues & Event Spaces,42.387432,-71.140198,23 Bay State Rd,"Cambridge, MA 02138",Cambridge,MA,02138,US,6176610077,"",EST,"",Active
+Harvard University,Colleges & Universities,42.373099,-71.1216084,Harvard Square,86 Brattle St,Cambridge,MA,02138,US,6174953434,"",EST,"",Active
+Natural Healing Center,Massage,42.3907012,-71.1221672,2032 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6179452892,"",EST,"",Active
+Tudor Street Dog Park,Dog Parks,42.36041489733199,-71.1039018630981,Tudor St,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+Central Square Eye Care,Eyewear & Opticians,42.3651527613401,-71.1044362932444,3 Central Sq,Central Square,Cambridge,MA,02139,US,6174972015,"",EST,"",Active
+Concord Avenue Cafe,Sushi Bars,42.3836212,-71.1340485,294 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175478835,"",EST,"",Active
+Tatte Bakery & Cafe,Bakeries,42.3621608144389,-71.0811372880639,101 Main St,Kendall Square/MIT,Cambridge,MA,02142,US,6175771111,"",EST,"",Active
+Inman Square Hardware,Hardware Stores,42.3737,-71.09985,1337 Cambridge St,Inman Square,Cambridge,MA,02139,US,6174913405,"",EST,"",Active
+Taco Bell,Fast Food,42.36705,-71.076034,100 Cambridgeside Place,Kendall Square/MIT,Cambridge,MA,02141,US,6176210609,"",EST,"",Active
+Jill Brown-Rhone Park,Parks,42.363295720144,-71.099788741129,900 Main St,Central Square,Cambridge,MA,02139,US,,"",EST,"",Active
+Garrity Insurance,Insurance,42.3882103,-71.1426926,545 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6173544640,"",EST,"",Active
+Turnstyle Cycle,Cycling Classes,42.3660009373141,-71.0911584008026,One Kendall Square,Ste B3002,Cambridge,MA,02139,US,8572423039,"",EST,"",Active
+City Motor Group Inc.,Car Dealers,42.37176,-71.07866,186 Monsignor O'Brien Hwy,East Cambridge,Cambridge,MA,02141,US,6175470692,"",EST,"",Active
+Salon Luna,Hair Salons,42.388279,-71.1196213,1878 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174927792,"",EST,"",Active
+California Pizza Kitchen,Pizza,42.3685006948806,-71.0763716697693,100 Cambridge Side Pl.,Sp W102,Cambridge,MA,02141,US,6172252772,"",EST,"",Active
+Rodney's Bookstore,Bookstores,42.36583,-71.10477,698 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178766467,"",EST,"",Active
+Charles Square,Hotels,42.3723605275154,-71.1219383776188,1 Bennett St,Harvard Square,Cambridge,MA,02138,US,6178641200,"",EST,"",Active
+Kelley Tree Service,Tree Services,42.37053,-71.08127,Harvard Square,"Cambridge, MA 02141",Cambridge,MA,02141,US,6179535357,"",EST,"",Active
+Alfred Harvard Square Salon,Hair Salons,42.3728844631885,-71.1224159774544,Harvard Square,8 Eliot St,Cambridge,MA,02138,US,6174975009,"",EST,"",Active
+MIT Trucks,Food Stands,42.3612289,-71.0862885,Carleton St,Kendall Square/MIT,Cambridge,MA,02142,US,,"",EST,"",Active
+Au Bon Pain,American (New),42.372967359235005,-71.118696800769,1360 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174979797,"",EST,"",Active
+Champions Sports Bar,Sports Bars,42.362650976746,-71.085554223037,50 Broadway,Kendall Square/MIT,Cambridge,MA,02142,US,6172524444,"",EST,"",Active
+Cambridge Health Associates,Acupuncture,42.3700357,-71.1023753,335 Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,6173548360,"",EST,"",Active
+Carlmont Lock,Keys & Locksmiths,42.380054473877,-71.1328887939453,Huron Village,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174928837,"",EST,"",Active
+Oona's,"Used, Vintage & Consignment",42.3719752,-71.1155222,1210 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174912654,"",EST,"",Active
+Jungle Jim's,Magicians,42.36437,-71.1026,Central Square,"Cambridge, MA 02139",Cambridge,MA,02139,US,8883358645,"",EST,"",Active
+Clover MIT,Food Trucks,42.3627019588277,-71.0875036559416,20 Carleton St,Kendall Square/MIT,Cambridge,MA,02142,US,,"",EST,"",Active
+Sasha Salon and Spa,Day Spas,42.37154,-71.11543,23 Arrow St,Harvard Square,Cambridge,MA,02138,US,6174974144,"",EST,"",Active
+Porter Square Books,Bookstores,42.389665952991,-71.11894500338,Porter Square Shopping Ctr,25 White St,Cambridge,MA,02140,US,6174912220,"",EST,"",Active
+Cardullo's Gourmet Shoppe,Specialty Food,42.3735416879435,-71.1196751725476,Harvard Square,6 Brattle St,Cambridge,MA,02138,US,6174918888,"",EST,"",Active
+Vinnie's Auto Sport,Auto Repair,42.3719635009766,-71.0790328979492,196 Monsignor Obrien Hwy,East Cambridge,Cambridge,MA,02141,US,6175476169,"",EST,"",Active
+Beauty Spa,Nail Salons,42.3852780461311,-71.1193782091141,1766 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178684778,"",EST,"",Active
+iFixYouri Smart Device Repair,Mobile Phone Repair,42.3679343,-71.0761293,100 Cambridgeside Pl,Ste 300,Cambridge,MA,02141,US,6176165966,"",EST,"",Active
+Sandrine Deschaux,Real Estate Services,42.3684844970703,-71.1084442138672,907 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,8572049872,"",EST,"",Active
+Boca Grande,Mexican,42.3663902282715,-71.0782165527344,149 1st St,Kendall Square/MIT,Cambridge,MA,02142,US,6173545550,"",EST,"",Active
+Tech Superpowers,IT Services & Computer Repair,42.3726497,-71.1168055,1280 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6177782837,"",EST,"",Active
+Bonny's Garden Center,Nurseries & Gardening,42.3875045776367,-71.139778137207,41 Bay State Rd,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175471585,"",EST,"",Active
+Cambridge Insight Meditation Center,Religious Organizations,42.37,-71.10203,331 Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174419038,"",EST,"",Active
+Zinnia,Jewelry,42.37282,-71.11725,1300 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6173541800,"",EST,"",Active
+Bailey and Sage,Salad,42.3625103,-71.08652,331 Main St,Kendall Square/MIT,Cambridge,MA,02139,US,6177144138,"",EST,"",Active
+Franco's Hair Studio,Hair Salons,42.3717994689941,-71.0987014770508,157 Hampshire St,Inman Square,Cambridge,MA,02139,US,6175473867,"",EST,"",Active
+Commonwealth Oral & Maxillofacial Surgical Associates,Oral Surgeons,42.396380379796,-71.1290073394775,2353 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6174928700,"",EST,"",Active
+Whole Foods Market,Grocery,42.361094964727,-71.114041629153,340 River St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178766990,"",EST,"",Active
+Negash Auto Service,Auto Repair,42.36294,-71.10438,76 Pearl St,Central Square,Cambridge,MA,02139,US,6174911900,"",EST,"",Active
+ASA Hair Design,Hair Salons,42.3727417,-71.119873,36 JFK St,Harvard Square,Cambridge,MA,02138,US,6176616573,"",EST,"",Active
+Madhouse Motors,Motorcycle Repair,42.3653363,-71.1044623,Central Square,Central Square,Cambridge,MA,02139,US,8572223855,"",EST,"",Active
+Dickson Brothers True Value,Hardware Stores,42.3731194,-71.1204071,26 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178766760,"",EST,"",Active
+Le Petit Salon & Spa,Hair Salons,42.3675117,-71.1073608,862 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6172508464,"",EST,"",Active
+Rebalance Bodywork and Massage,Massage,42.375792874538,-71.1083221435547,875 Massachusetts Ave,Ste 83,Cambridge,MA,02139,US,6178998150,"",EST,"",Active
+Hunt's Photo & Video,Photography Stores & Services,42.37288,-71.120578,99 Mount Auburn St,Harvard Square,Cambridge,MA,02138,US,6175760969,"",EST,"",Active
+Black Ink,Cards & Stationery,42.373509,-71.1198661,5 Brattle St,Harvard Square,Cambridge,MA,02138,US,6174971221,"",EST,"",Active
+Wet Paint Nail Spa,Nail Salons,42.3828087,-71.1306534,143 Huron Ave,Huron Village,Cambridge,MA,02138,US,6178680620,"",EST,"",Active
+Cambridge Innovation Center,Professional Services,42.3627931811093,-71.0840106010437,1 Broadway,14th Fl,Cambridge,MA,02142,US,6177584200,"",EST,"",Active
+Flashprint,Printing Services,42.372921,-71.120529,99 Mount Auburn St,Harvard Square,Cambridge,MA,02138,US,6174927767,"",EST,"",Active
+ImprovBoston Theatre,Performing Arts,42.36612,-71.10328,40 Prospect St,Central Square,Cambridge,MA,02139,US,6175761253,"",EST,"",Active
+Goorin Bros.,Accessories,42.3738098,-71.1212311,43 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178684287,"",EST,"",Active
+Tibet Arts,Jewelry,42.3894500732422,-71.1196823120117,1925A Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174919106,"",EST,"",Active
+Zigo,Caterers,42.3627396,-71.0832825,Kendall Sq,1 Broadway,Cambridge,MA,02238,US,6172256924,"",EST,"",Active
+Rogue Burlesque,Performing Arts,42.3709412,-71.1143036,2 Arrow St,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+Plan B Salon,Hair Salons,42.372921,-71.120529,Harvard Sq,99 Mt Auburn St,Cambridge,MA,02138,US,6175475262,"",EST,"",Active
+Panera Bread,Sandwiches,42.3726046316704,-71.1169588565826,1288 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6178680651,"",EST,"",Active
+Good News Garage,Auto Repair,42.35833,-71.1058,75 Hamilton St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6173545383,"",EST,"",Active
+Chipotle Mexican Grill,Mexican,42.3648682,-71.1031418,598 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,8575004066,"",EST,"",Active
+Troy Anthony's Barber Shop,Barbers,42.3734075028242,-71.0972773076663,1199 Cambridge St,Inman Square,Cambridge,MA,02139,US,6176616791,"",EST,"",Active
+J. Press,Sewing & Alterations,42.3721244931221,-71.1191522330046,82 Mt. Auburn St,Harvard Square,Cambridge,MA,02138,US,6175479886,"",EST,"",Active
+Serenity Wellness Massage,Massage Therapy,42.370059,-71.102315,335 Broadway St,Ste 14,Cambridge,MA,02139,US,6174316616,"",EST,"",Active
+Au Bon Pain,Bakeries,42.36220117614,-71.08504387591,238 Main St,Kendall Square/MIT,Cambridge,MA,02142,US,6174919751,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.369433985219,-71.1114282429931,1001 Massachusetts Ave,Central Square,Cambridge,MA,02138,US,6177143827,"",EST,"",Active
+Discovery Cafe,Cafes,42.3669535921544,-71.0878271321626,157 Sixth St,Kendall Square/MIT,Cambridge,MA,02141,US,6172271625,"",EST,"",Active
+MIT Museum,Museums,42.362007459758,-71.0977546125011,265 Massachusetts Ave,Kendall Square/MIT,Cambridge,MA,02139,US,6172535927,"",EST,"",Active
+The Boston Lamb Takedown,Local Flavor,42.3637886,-71.1012726,The Middle East,472 Massachusetts Ave,Cambridge,MA,02139,US,,"",EST,"",Active
+CrossFit Medusa,Gyms,42.3899582,-71.1204633,1957 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6179993548,"",EST,"",Active
+Hops N Scotch,Bars,42.3733723908663,-71.0983718186617,1248 Cambridge St,Inman Square,Cambridge,MA,02139,US,8572424980,"",EST,"",Active
+O2 Yoga Studio Cambridge,Yoga,42.3694308847189,-71.1113188415766,1001 Massachusetts Ave,Central Square,Cambridge,MA,02138,US,6174910002,"",EST,"",Active
+Whim Events & Floral Design,Wedding Planning,42.380054473877,-71.1328887939453,Huron Village,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174139735,"",EST,"",Active
+Laundromutt,Pet Groomers,42.3869552612305,-71.1406097412109,489 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178649274,"",EST,"",Active
+Big Picture Framing,Framing,42.390751,-71.122612,2044 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174910011,"",EST,"",Active
+Pill Hardware,Hardware Stores,42.3664599,-71.1051899,743 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178768310,"",EST,"",Active
+OM Namo Center,Yoga,42.3750114,-71.1508713,21 Belmont St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178680756,"",EST,"",Active
+Tags Ace Hardware,Hardware Stores,42.3896882510668,-71.1186947222918,29 White St,"Cambridge, MA 02140",Cambridge,MA,02140,US,6178687711,"",EST,"",Active
+Au Bon Pain,American (Traditional),42.3703183786345,-71.1135487028485,1100 Massachusetts Ave,Ste 15,Cambridge,MA,02138,US,6173544144,"",EST,"",Active
+Starbucks,Coffee & Tea,42.3819122722422,-71.1199329521487,1662 Mass Ave,Porter Square,Cambridge,MA,02138,US,6174910442,"",EST,"",Active
+Alfredos Italian Kitchen,Pizza,42.3721699,-71.0881,691 Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6174918292,"",EST,"",Active
+Fast Phil's,Barbers,42.3994369506836,-71.1335678100586,2528 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6173544666,"",EST,"",Active
+Kendall House of Pizza,Pizza,42.3676493,-71.0813277,201 3rd St,Kendall Square/MIT,Cambridge,MA,02141,US,6175471790,"",EST,"",Active
+Verna's Coffee & Donut Shop,Donuts,42.3959808349609,-71.1290054321289,2344 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6173544110,"",EST,"",Active
+Audio Lab,Home Theatre Installation,42.37274,-71.11987,36 JFK St,Harvard Square,Cambridge,MA,02138,US,6178641144,"",EST,"",Active
+Community Ice Skating at Kendall Square,Skating Rinks,42.364582,-71.081497,300 Athenaeum St,Kendall Square/MIT,Cambridge,MA,02142,US,6174920941,"",EST,"",Active
+ABC Pizza House,Pizza,42.36607,-71.10545,744 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178764607,"",EST,"",Active
+Simply Erinn's Unisex Hair Salon,Barbers,42.3573925,-71.1076964,268 Brookline St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175478098,"",EST,"",Active
+Fresh Pond Reservoir and Park,Parks,42.380054473877,-71.1328887939453,Huron Village,"Cambridge, MA 02138",Cambridge,MA,02138,US,,"",EST,"",Active
+The Harvard Coop Bookstore,Bookstores,42.3736672752224,-71.1194605278473,1400 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174992000,"",EST,"",Active
+Lush,Cosmetics & Beauty Supply,42.3727836459875,-71.1199032515287,30 JFK St,Harvard Square,Cambridge,MA,02238,US,6174975874,"",EST,"",Active
+"Gregory Beale, LMT CPT",Massage,42.3708878,-71.1143799,Harvard Square Acupuncture And Massage,"12 Arrow St, Ste 103",Cambridge,MA,02138,US,6173880939,"",EST,"",Active
+For Eyes Optical,Eyewear & Opticians,42.3718710243702,-71.1206515878439,56 John F Kennedy Street,Harvard Square,Cambridge,MA,02138,US,6178766031,"",EST,"",Active
+City Wine Tours,Wine Tours,42.3733767,-71.1225005,1 Mifflin Pl,Ste 400,Cambridge,MA,02138,US,8448798799,"",EST,"",Active
+Joint Ventures Physical Therapy & Fitness,Physical Therapy,42.365223839879,-71.0827291756868,Kendall Square,301 3rd St,Cambridge,MA,02142,US,6175361161,"",EST,"",Active
+Velozo's Food Service,Food Stands,42.3777809,-71.1142273,Divinity Ave,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+Havana Club,Dance Clubs,42.36472427845,-71.1042076349258,288 Green St,Central Square,Cambridge,MA,02138,US,6173125550,"",EST,"",Active
+Bedworks,Furniture Stores,42.3652271926403,-71.1055178940296,15 Western Ave,Central Square,Cambridge,MA,02139,US,6175476000,"",EST,"",Active
+Bao Nation,Asian Fusion,42.364983,-71.102513,575 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175470295,"",EST,"",Active
+Raymond Park,Parks,42.386808800916896,-71.1281061172485,Walden St,"Cambridge, MA 02238",Cambridge,MA,02238,US,,"",EST,"",Active
+Pemberton Farms & Garden Center,Nurseries & Gardening,42.3936991,-71.1259584,2225 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174912244,"",EST,"",Active
+Sublime Salon and Spa,Day Spas,42.3664207,-71.1051559,751 Mass Ave,Central Square,Cambridge,MA,02139,US,6174922222,"",EST,"",Active
+"Jos Deprimio, DDS",General Dentistry,42.36794,-71.0816399,121 Charles St,Kendall Square/MIT,Cambridge,MA,02141,US,6174919088,"",EST,"",Active
+Chico's Sunoco Station,Tires,42.3877296,-71.141777,515 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6173549494,"",EST,"",Active
+Panera Bread,Salad,42.390556945195,-71.1405032873154,174 Alewife Brook Parkway,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174910890,"",EST,"",Active
+Sudo Shoes,Shoe Stores,42.3853989,-71.1191177,1771 Mass Ave,Porter Square,Cambridge,MA,02140,US,6173541771,"",EST,"",Active
+Hair Connection,Hair Salons,42.3854294,-71.1195221,1768 Massachusetts Ave,Ste A,Cambridge,MA,02140,US,6173549133,"",EST,"",Active
+Cambridge Naturals,Health Markets,42.38957,-71.11845,Porter Square Shopping Center,23 White St,Cambridge,MA,02140,US,6174924452,"",EST,"",Active
+P.F. Chang's,Asian Fusion,42.36793,-71.076118,100 CambridgeSide Place,Suite C101,Cambridge,MA,02141,US,6172509965,"",EST,"",Active
+Cabbie's Cab,Taxis,42.3773146139445,-71.1165618896484,Harvard Square,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175472222,"",EST,"",Active
+Hotel Veritas,Hotels,42.3716302961111,-71.1132292449474,1 Remington St,Harvard Square,Cambridge,MA,02138,US,6175205000,"",EST,"",Active
+Stereo Jack's Records,Music & DVDs,42.3826484680176,-71.120002746582,1686 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174979447,"",EST,"",Active
+Basil Tree Caterers,Caterers,42.3894888,-71.1460079,10 Fawcett St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6177769100,"",EST,"",Active
+Seyyide Belly Dance,Performing Arts,42.3715897,-71.1141891,400 Harvard St,Harvard Square,Cambridge,MA,02138,US,7744739785,"",EST,"",Active
+Judy Jetson,Hair Salons,42.38517,-71.11908,1765 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6173542628,"",EST,"",Active
+Newbury Comics,Music & DVDs,42.3726002090121,-71.1198120443284,36 JFK St,Harvard Square,Cambridge,MA,02138,US,6174910337,"",EST,"",Active
+Sepal,Fast Food,42.3588791,-71.0946198,84 Massachusetts Ave,2nd Fl,Cambridge,MA,02139,US,,"",EST,"",Active
+Central Square Florist,Florists,42.3656385,-71.103674,653 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,8572424008,"",EST,"",Active
+Rebekah Brooks,Bridal,42.3734398,-71.1203613,17 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178641639,"",EST,"",Active
+Sound Lion,Electronics,42.3734106123447,-71.1209412664175,35 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178645466,"",EST,"",Active
+WJIB Radio 740,Radio Stations,42.3862248659134,-71.1393097043037,443 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178687400,"",EST,"",Active
+MIT Furniture Exchange,Furniture Stores,42.3553955554962,-71.1100032180548,350 Brookline St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6172534293,"",EST,"",Active
+Season to Taste Catering,Caterers,42.3983116,-71.1310577,2447 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6178269037,"",EST,"",Active
+Edward Mostone,Podiatrists,42.3655166625977,-71.1044845581055,678 Massachusetts Ave,Ste 902,Cambridge,MA,02139,US,6175473500,"",EST,"",Active
+Seven Stars,Bookstores,42.3665008544922,-71.1050109863281,731 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175471317,"",EST,"",Active
+Sidney's Grille,American (New),42.36225,-71.10014,20 Sidney St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174940011,"",EST,"",Active
+Joan Lorentz Park,Parks,42.3727601766586,-71.1097202450037,Broadway and Ellery St,Harvard Square,Cambridge,MA,02138,US,6173496630,"",EST,"",Active
+Doggie Trail,Dog Walkers,42.3647559,-71.1032591,Central Square,"Cambridge, MA 02139",Cambridge,MA,02139,US,7816547152,"",EST,"",Active
+Teriyaki Cafe,Japanese,42.3668823963254,-71.0834912682617,Kendall/Marriott Food Court,3 Cambridge Center,Cambridge,MA,02142,US,6172520789,"",EST,"",Active
+Hair International,Barbers,42.3951814323664,-71.1278117448092,2300 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6178644473,"",EST,"",Active
+Lilypad,Performing Arts,42.3737984,-71.1000824,1353 Cambridge St,Inman Square,Cambridge,MA,02139,US,6179557729,"",EST,"",Active
+Washington Tower,Landmarks & Historical Buildings,42.3751869,-71.1450272,580 Mount Auburn Street,In Mt Auburn Cemetery,Cambridge,MA,02138,US,,"",EST,"",Active
+Porter Square Family Dental,General Dentistry,42.388095,-71.1201298,14 Upland Rd,Porter Square,Cambridge,MA,02140,US,6175473934,"",EST,"",Active
+Menotomy Used Bicycles,Bikes,42.3724560147857,-71.0789573192596,Cambridge Antique Market Building,201 Monsignor OBrien Hwy Rt 28,Cambridge,MA,02141,US,5083443872,"",EST,"",Active
+Harvard Extension School,Colleges & Universities,42.3744545,-71.1217194,51 Brattle St,Harvard Square,Cambridge,MA,02138,US,6174954024,"",EST,"",Active
+Thread & Shape,Hair Removal,42.3729432374239,-71.1174879223108,1316 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6179457109,"",EST,"",Active
+Bryn Mawr Book Store,Bookstores,42.3813019,-71.1389923,373 Huron Ave,Huron Village,Cambridge,MA,02138,US,6176611770,"",EST,"",Active
+Trader Joe's,Grocery,42.389915,-71.143448,211 Alewife Brook Pkwy,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174983201,"",EST,"",Active
+Cambridge Antique Market,Antiques,42.37251,-71.07898,201 Monsignor Obrien Hwy,East Cambridge,Cambridge,MA,02141,US,6178689655,"",EST,"",Active
+Origins,Cosmetics & Beauty Supply,42.3735771179199,-71.1197204589844,8 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178688090,"",EST,"",Active
+Mass Chicken,Chicken Wings,42.36602,-71.10509,736 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6172344450,"",EST,"",Active
+Acme Ice,Party Supplies,42.3779602,-71.1072235,100 Kirkland St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175477300,"",EST,"",Active
+Coop Hair Styling,Barbers,42.3627853393555,-71.0866012573242,3 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,6175778878,"",EST,"",Active
+Ten Thousand Villages,Jewelry,42.36578,-71.10467,694 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178762414,"",EST,"",Active
+Au Bon Pain,Sandwiches,42.36571,-71.10455,684 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174920884,"",EST,"",Active
+Alewife Company,Plumbing,42.3717000335455,-71.099279075861,256 Prospect St,Inman Square,Cambridge,MA,02139,US,6178642550,"",EST,"",Active
+Corbu Spa & Salon,Day Spas,42.3723605275154,-71.1219383776188,5 Bennett St,Harvard Square,Cambridge,MA,02138,US,6176615772,"",EST,"",Active
+Kendall Barbers,Barbers,42.3622392117977,-71.0847254097462,238 Main St,Kendall Square/MIT,Cambridge,MA,02142,US,6178761221,"",EST,"",Active
+The Cambridge Center For Adult Education,Adult Education,42.373664855957,-71.1216278076172,42 Brattle St,Harvard Square,Cambridge,MA,02138,US,6175476789,"",EST,"",Active
+Cambridge Children's Dentistry,Pediatric Dentists,42.37558,-71.14445,575 Mount Auburn St,Ste 201,Cambridge,MA,02138,US,6174415437,"",EST,"",Active
+Novita Salon & Spa,Hair Salons,42.3907204,-71.1222,2034 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174975645,"",EST,"",Active
+Travel Masters Academy,Travel Services,42.3627396,-71.0832825,1 Broadway,Kendall Square/MIT,Cambridge,MA,02142,US,8886827497,"",EST,"",Active
+Kaleidoscope Tattoo & Art Gallery,Tattoo,42.3966713,-71.1296692,2374 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6174418287,"",EST,"",Active
+Richard Marcus-Re/Max Destiny,Real Estate Agents,42.3684807,-71.1084366,907 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,,"",EST,"",Active
+"Russell L Forman, DDS",General Dentistry,42.3679161071777,-71.1073150634766,875 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178685500,"",EST,"",Active
+Longfellow House Washington's Headquarters,Museums,42.3769913,-71.1263733,105 Brattle St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178764491,"",EST,"",Active
+Subway,Sandwiches,42.372565190723,-71.11949144695001,36 JFK St,Harvard Square,Cambridge,MA,02138,US,6174410011,"",EST,"",Active
+The Hahvahd Tour,Tours,42.373649597168,-71.1191177368164,Harvard Sq,Harvard Square,Cambridge,MA,02138,US,8554558747,"",EST,"",Active
+Boomerangs,Thrift Stores,42.3647919,-71.1020737,563 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6177586128,"",EST,"",Active
+Mind's Eye Yarns,Knitting Supplies,42.3889563,-71.1181058,22 White St,"Cambridge, MA 02140",Cambridge,MA,02140,US,6173547253,"",EST,"",Active
+J.Crew,Accessories,42.368373866873,-71.0768222808838,100 Cambridgeside Place,East Cambridge,Cambridge,MA,02141,US,6172252739,"",EST,"",Active
+Cambridge Brewing Company,Breweries,42.3664391378448,-71.0912921367735,1 Kendall Sq,Bldg 100,Cambridge,MA,02139,US,6174941994,"",EST,"",Active
+Edward Sennott Park,Parks,42.3683500865934,-71.09982490539551,Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+Tokai Japanese Gifts,Cards & Stationery,42.3873952061215,-71.1189651489258,1815 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178645922,"",EST,"",Active
+Kendall Press,Printing Services,42.3622513,-71.0802994,1 Main St,Ste 105,Cambridge,MA,02142,US,6172093246,"",EST,"",Active
+The Garment District,Costumes,42.3658294677734,-71.093017578125,200 Broadway,Kendall Square/MIT,Cambridge,MA,02139,US,6178765230,"",EST,"",Active
+Thistle & Shamrock,Grocery,42.3889885,-71.1247635,62 Walden St,"Cambridge, MA 02140",Cambridge,MA,02140,US,6174922522,"",EST,"",Active
+Eastern Mountain Sports,Outdoor Gear,42.37328,-71.12147,One Brattle Square,2nd Fl,Cambridge,MA,02138,US,6178642061,"",EST,"",Active
+Mumbai Chopstix,Chinese,42.365013,-71.102409,575 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6179274444,"",EST,"",Active
+Made by Me,Hobby Shops,42.3828,-71.1193399,1685 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6173548111,"",EST,"",Active
+Modern Homebrew Emporium,Hobby Shops,42.3950806,-71.1279831,2304 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6174980400,"",EST,"",Active
+East Coast Barber Shop,Barbers,42.3713,-71.08025,261 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6178685581,"",EST,"",Active
+Microsoft New England Research and Development Center,Venues & Event Spaces,42.3613586,-71.0812607,1 Memorial Dr,Kendall Square/MIT,Cambridge,MA,02142,US,8574536000,"",EST,"",Active
+Crate-Escape,Pet Services,42.3810668,-71.1385716,368 Huron Ave,Huron Village,Cambridge,MA,02138,US,6173549003,"",EST,"",Active
+Threla,Cosmetics & Beauty Supply,42.3717563599348,-71.0858787596226,574  Cambridge St,East Cambridge,Cambridge,MA,02141,US,6178760811,"",EST,"",Active
+Zephyr On the Charles,Seafood,42.354247,-71.105386,575 Memorial Dr,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174416510,"",EST,"",Active
+Jesse Struebing Golf,Golf,42.3593178,-71.0962143,Zesiger Athletic Center,120 Vassar St,Cambridge,MA,02139,US,7162288845,"",EST,"",Active
+Stellabella Toys,Toy Stores,42.3734509,-71.1001553,1360 Cambridge St,Inman Square,Cambridge,MA,02139,US,6174916290,"",EST,"",Active
+Central Square Farmers Market,Farmers Market,42.3652224978748,-71.1012890987021,Bishop Allen Drive & Norfolk Street,Central Square,Cambridge,MA,02139,US,7818938222,"",EST,"",Active
+WMBR 88.1 FM,Radio Stations,42.3591755,-71.087723,142 Memorial Dr,Kendall Square/MIT,Cambridge,MA,02142,US,6172538810,"",EST,"",Active
+Starbucks,Coffee & Tea,42.388811420427,-71.142395676946,220 Alewife Brook Pkwy,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178761070,"",EST,"",Active
+Elliot's House Pet Care + More,Dog Walkers,42.3915213,-71.1238692,485 Massachusetts Ave,Ste 300 PMB 11,Cambridge,MA,02139,US,6178009421,"",EST,"",Active
+TK Photographers,Event Photography,42.3932609558105,-71.1345367431641,North Cambridge,"Cambridge, MA 02140",Cambridge,MA,02140,US,6173807416,"",EST,"",Active
+"Albrecht Immigration Strategies, P.C.",Immigration Law,42.3733999,-71.12254,1 Mifflin Place,Suite 400,Cambridge,MA,02138,US,3392211077,"",EST,"",Active
+"Amy McGaraghan, MD",Obstetricians & Gynecologists,42.374133,-71.134215,Mount Auburn Hospital,330 Mt Auburn St,Cambridge,MA,02138,US,6174995151,"",EST,"",Active
+Saladworks,Sandwiches,42.367916,-71.075714,100 Cambridgeside Pl,East Cambridge,Cambridge,MA,02141,US,6173748888,"",EST,"",Active
+H Mart,Grocery,42.3650219,-71.1027564,581 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,8572092747,"",EST,"",Active
+Pemberton Garden Services,Landscaping,42.3937171,-71.1259786,2225 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174470606,"",EST,"",Active
+Eddie Priest Men's Hairstylist,Hair Stylists,42.36434,-71.10759,89 River St,Central Square,Cambridge,MA,02139,US,6173548912,"",EST,"",Active
+Karma Yoga Studio,Yoga,42.3706398,-71.1139603,1120 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6175479642,"",EST,"",Active
+Raspberry Beret,Thrift Stores,42.3831291,-71.1197433,1704 Mass Ave,Porter Square,Cambridge,MA,02138,US,6173543700,"",EST,"",Active
+The Boston Bed Company,Mattresses,42.3719380795956,-71.0865915566683,625 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6174915818,"",EST,"",Active
+Great Eastern Trading Company,"Used, Vintage & Consignment",42.3646114,-71.1065724,49 River St,Central Square,Cambridge,MA,02139,US,6173545279,"",EST,"",Active
+Tajine,Moroccan,42.370620444417,-71.1135618388653,1105 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6175202080,"",EST,"",Active
+Utso Tibetan Boutique,Fashion,42.38284,-71.11942,1691 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174922950,"",EST,"",Active
+Sam Davis Guitar Lessons,Musical Instruments & Teachers,42.3647559,-71.1032591,"393 Broadway, Apt. B.S",Central Square,Cambridge,MA,02139,US,6174970830,"",EST,"",Active
+Oxford Street Realty,Apartments,42.3811913,-71.1199799,1644 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6173543535,"",EST,"",Active
+Bromberg Chiropractic,Chiropractors,42.3659500479698,-71.0923958569765,201 Broadway,Kendall Square/MIT,Cambridge,MA,02139,US,6174941166,"",EST,"",Active
+Charles Riverboat Company,Tours,42.367916,-71.075714,100 Cambridgeside Pl,Ste 320,Cambridge,MA,02141,US,6176213001,"",EST,"",Active
+beyt by 2b design home LLC,Lighting Fixtures & Equipment,42.3747178,-71.1285906,185 Mount Auburn St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174018415,"",EST,"",Active
+Boston Swing Central,Performing Arts,42.3879585,-71.1405716,Extreme Dancesport,26 New St,Cambridge,MA,02138,US,,"",EST,"",Active
+Lizzy's Ice Cream,Ice Cream & Frozen Yogurt,42.3744892109017,-71.1201211285006,29 Church St,Harvard Square,Cambridge,MA,02138,US,6173542911,"",EST,"",Active
+VIM Fitness Central Square,Gyms,42.3650684,-71.1025856,579 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6179452708,"",EST,"",Active
+A-Z Auto Center,Body Shops,42.3885498,-71.1227798,47-51 Richdale Ave,"Cambridge, MA 02140",Cambridge,MA,02140,US,6173543680,"",EST,"",Active
+Walden Cleaners,Dry Cleaning & Laundry,42.3913307,-71.123497,2090 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178685988,"",EST,"",Active
+Xylem,Home Decor,42.365395501256,-71.0826386511326,287 3rd St,Kendall Square/MIT,Cambridge,MA,02142,US,6174949953,"",EST,"",Active
+Mint Julep,Women's Clothing,42.374321,-71.1192627,6 Church St,Harvard Square,Cambridge,MA,02138,US,6175766468,"",EST,"",Active
+CW Taekwondo,Martial Arts,42.3649216,-71.1032333,600R Massachusetts Ave,entrance at 285 Green St,Cambridge,MA,02139,US,6178764853,"",EST,"",Active
+Abodeon,Antiques,42.38418,-71.11928,1731 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174970137,"",EST,"",Active
+Harvest Co-Op Markets,Grocery,42.36452,-71.10306,580 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6176611580,"",EST,"",Active
+Ligris + Associates - The Shargel Group,Real Estate Law,42.3726931214333,-71.1166175454855,1280 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6172741500,"",EST,"",Active
+Michaels,Arts & Crafts,42.389212,-71.117834,37 White St,"Cambridge, MA 02140",Cambridge,MA,02140,US,6174990925,"",EST,"",Active
+Central Square Theater,Performing Arts,42.3636436,-71.1010284,450 Mass Ave,Central Square,Cambridge,MA,02139,US,6175769278,"",EST,"",Active
+Andre Hair Salon,Hair Salons,42.371685,-71.1151581,1206 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6173545210,"",EST,"",Active
+Tat On Auto Service,Auto Repair,42.36088,-71.10469,125 Brookline St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178763218,"",EST,"",Active
+Cambridge Athletic Club,Gyms,42.3642921447754,-71.0792541503906,215 1st St,Kendall Square/MIT,Cambridge,MA,02142,US,6174918989,"",EST,"",Active
+Drinkwater's,Men's Clothing,42.3916034,-71.1232668,2067 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6175472067,"",EST,"",Active
+Gold Star Mothers Park,Parks,42.3723780364821,-71.0846122336847,Gore St At 6th St,East Cambridge,Cambridge,MA,02238,US,,"",EST,"",Active
+Cambridge Instant Shoe Repair,Shoe Stores,42.370620444417,-71.1135618388653,1105 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174983200,"",EST,"",Active
+Harvard Square,Shopping Centers,42.3740672,-71.1188,18 Brattle St,Harvard Square,Cambridge,MA,02138,US,6174913434,"",EST,"",Active
+Dunkin' Donuts,Coffee & Tea,42.374382062356695,-71.1186540126801,1400 Massachusetts Ave,Harvard Square,Cambridge,MA,02163,US,6179726100,"",EST,"",Active
+Xmortis,Music Venues,42.3637157678604,-71.1016333848238,TT The Bear's,10 Brookline St,Cambridge,MA,02238,US,,"",EST,"",Active
+Montrose Spa,Grocery,42.3814109712839,-71.11981138587,1646 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6175475053,"",EST,"",Active
+Mount Auburn Hospital Walk-In Clinic,Medical Centers,42.3742409,-71.1343231,330 Mount Auburn St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174995065,"",EST,"",Active
+Le Méridien Cambridge-MIT,Hotels,42.3620242125342,-71.1001253128052,20 Sidney Street,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175770200,"",EST,"",Active
+Antonina Bodywork,Massage Therapy,42.3675535,-71.1075838,872 Massachusetts Ave,Ste 2-3,Cambridge,MA,02139,US,6172336871,"",EST,"",Active
+Hair Collage,Hair Salons,42.3665280640125,-71.1054991185665,759 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6173544660,"",EST,"",Active
+"Abram Ojure, Lic. Ac., MAOM, Dipl. OM",Acupuncture,42.3700359,-71.1023459,Ojure Acupuncture at Cambridge Health Associates,335 Broadway,Cambridge,MA,02139,US,6172978549,"",EST,"",Active
+Kendall Hotel,Hotels,42.3622665405273,-71.0872268676758,350 Main St,Kendall Square/MIT,Cambridge,MA,02142,US,6175771300,"",EST,"",Active
+Planet Records,Music & DVDs,42.3738212585449,-71.1248016357422,144 Mt Auburn St,Harvard Square,Cambridge,MA,02138,US,6174920693,"",EST,"",Active
+Dudley & Borland Ellis & Andrews Insurance Agency,Insurance,42.3733358216216,-71.1207890510559,30 Brattle St,Harvard Square,Cambridge,MA,02138,US,6178762440,"",EST,"",Active
+Charles River Canoe & Kayak,Rafting/Kayaking,42.3628764043111,-71.0821458275086,15 Broad Canal St,Kendall Square/MIT,Cambridge,MA,02142,US,6179655110,"",EST,"",Active
+Couture Nail and Spa,Nail Salons,42.3729029,-71.1205624,99 Mount Auburn St,Harvard Square,Cambridge,MA,02138,US,6177143616,"",EST,"",Active
+Mother Juice,Juice Bars & Smoothies,42.364514274473,-71.0819436749922,625 W Kendall,Kendall Square/MIT,Cambridge,MA,02142,US,6172866580,"",EST,"",Active
+Setravision,Graphic Design,42.3662012,-71.0993754,15B Suffolk St,Central Square,Cambridge,MA,02139,US,6178586422,"",EST,"",Active
+Porter Square,Shopping Centers,42.38871,-71.11956,Somerville Ave & Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,,"",EST,"",Active
+Walker Dental,General Dentistry,42.3745994567871,-71.1224212646484,60 Brattle St,Ste 101,Cambridge,MA,02138,US,6173543351,"",EST,"",Active
+Healthworks Fitness Centers For Women,Gyms,42.3888275630781,-71.1188884190376,Porter Square Shopping Center,35 White St,Cambridge,MA,02138,US,6174974454,"",EST,"",Active
+Leonard Stephen Salon,Hair Salons,42.37188,-71.1204319,54 JFK St,Ste 5,Cambridge,MA,02138,US,6174418220,"",EST,"",Active
+Pacheco Jewelers,Jewelry,42.3719899,-71.08636,599 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6174940501,"",EST,"",Active
+Pure Line Skin Care,Skin Care,42.3718321323395,-71.1206844449043,Harvard Sq,58 JFK St,Cambridge,MA,02138,US,6178687873,"",EST,"",Active
+A Dog's Life Boston,Dog Walkers,42.3722,-71.1115189,Trowbridge St,Harvard Square,Cambridge,MA,02138,US,9785051290,"",EST,"",Active
+Cambridge Coffee Shop,Coffee & Tea,42.3726196,-71.0908508,847 Cambridge St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6174914844,"",EST,"",Active
+Magazine Beach Shell Service,Auto Repair,42.35674,-71.11418,207 Magazine St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6173545565,"",EST,"",Active
+CHA Cambridge Family Health North,Medical Centers,42.3932609558105,-71.1345367431641,2067 Mass. Ave,North Cambridge,Cambridge,MA,02140,US,6175755570,"",EST,"",Active
+Jason B Cohen,Real Estate Law,42.365517,-71.104485,Pressman & Kruskal,678 Massachusetts Ave,Cambridge,MA,02139,US,6174922211,"",EST,"",Active
+Upward Spiral Studio,Pilates,42.3667,-71.10431,7 Temple St,Central Square,Cambridge,MA,02139,US,6174912940,"",EST,"",Active
+Savvy Hair Design,Hair Salons,42.37327,-71.09798,1232 Cambridge St,Inman Square,Cambridge,MA,02139,US,6173548344,"",EST,"",Active
+Pandemonium Books & Games,Hobby Shops,42.3661430463208,-71.1056370762216,4 Pleasant St,Central Square,Cambridge,MA,02139,US,6175473721,"",EST,"",Active
+Dazzling Nail Care,Nail Salons,42.3959884643555,-71.1282806396484,2327 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6176614734,"",EST,"",Active
+Threading Station,Hair Removal,42.3723488,-71.1216202,12 Eliot St,Harvard Square,Cambridge,MA,02138,US,6178688700,"",EST,"",Active
+Bertucci's,Pizza,42.3948798952945,-71.1415786145616,5 Cambridge Park Dr,North Cambridge,Cambridge,MA,02140,US,6178762200,"",EST,"",Active
+Out of Town News,Newspapers & Magazines,42.373351673884,-71.1187934875488,Harvard Sq,Harvard Square,Cambridge,MA,02138,US,6173541441,"",EST,"",Active
+Image Care Electrolysis,Hair Removal,42.3736991882324,-71.1020584106445,1426 Cambridge St,Inman Square,Cambridge,MA,02139,US,6178646243,"",EST,"",Active
+Pinkberry,Ice Cream & Frozen Yogurt,42.3733349189598,-71.1190511688471,1380 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6175470573,"",EST,"",Active
+Porter Square MBTA Station - Red Line,Public Transportation,42.388461,-71.119196,868 Somervilie Ave,Porter Square,Cambridge,MA,02139,US,6172223200,"",EST,"",Active
+Residence Inn Boston Cambridge,Hotels,42.3638916,-71.08815,6 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,6173490700,"",EST,"",Active
+Sollievo Massage and Bodywork,Massage,42.3950556,-71.1273638,2285 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6173543082,"",EST,"",Active
+Fitlab Pilates,Gyms,42.3737215,-71.0993798,1305 Cambridge St,Inman Square,Cambridge,MA,02139,US,6179457317,"",EST,"",Active
+Noodle Stix,Chinese,42.3749313,-71.1506577,11 Belmont St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178681800,"",EST,"",Active
+Simeon's Fine Tailoring,Dry Cleaning & Laundry,42.36611,-71.10292,112 Bishop Rchrd Alln Dr,Central Square,Cambridge,MA,02139,US,6173545170,"",EST,"",Active
+Lechmere Rug,Home Decor,42.372241600811,-71.079398775253,200 Monsignor Obrien Hwy,East Cambridge,Cambridge,MA,02141,US,6178769700,"",EST,"",Active
+Door Store,Office Equipment,42.36846,-71.10963,940 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175478937,"",EST,"",Active
+Residential Mortgage Services,Mortgage Brokers,42.369938492775,-71.0712996125221,12 Museum Way,East Cambridge,Cambridge,MA,02141,US,5083172198,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.3627396,-71.0832825,1 Broadway,Kendall Square/MIT,Cambridge,MA,02142,US,6176216990,"",EST,"",Active
+Salt & Olive,Specialty Food,42.3713124543428,-71.1145690083504,1160 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,8572424118,"",EST,"",Active
+Cafe Dilara,Italian,42.372297,-71.087016,645 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6176614555,"",EST,"",Active
+Pyara Spa And Salon,Hair Salons,42.3697520792484,-71.1125063896179,1050 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,7812709200,"",EST,"",Active
+Village Grill & Seafood,American (Traditional),42.35987,-71.10997,114 Magazine St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178760406,"",EST,"",Active
+Oom Yung Doe,Martial Arts,42.3972748965025,-71.1301787942648,2404 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6176295888,"",EST,"",Active
+The Cambridge School of Culinary Arts,Cooking Schools,42.3905716,-71.1218719,2020 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6173542020,"",EST,"",Active
+Baptiste Power Yoga,Yoga,42.3903,-71.1215,2000 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6176616565,"",EST,"",Active
+Commonwealth Lock Company,Keys & Locksmiths,42.3878212,-71.1189804,1853 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178763301,"",EST,"",Active
+Dunkin' Donuts,Coffee & Tea,42.3716883748172,-71.1211164198789,65 JFK St,Harvard Square,Cambridge,MA,02138,US,6173545096,"",EST,"",Active
+Bon Me Noodle Stop,Asian Fusion,42.366264322883,-71.0908509045839,1A Kendall Sq,Kendall Square/MIT,Cambridge,MA,02139,US,6179452615,"",EST,"",Active
+Hidden Sweets,Candy Stores,42.3733086884022,-71.1205818504095,25 Brattle St,Harvard Square,Cambridge,MA,02138,US,6174972600,"",EST,"",Active
+Pacific Street Cafe,Coffee & Tea,42.3605038225651,-71.1026157438755,75 Pacific St,"Cambridge, MA 02154",Cambridge,MA,02154,US,6174941414,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.367916,-71.075714,Cambridgeside Galleria,100 Cambridgeside Pl,Cambridge,MA,02141,US,6175779042,"",EST,"",Active
+Carpenter Center for the Visual Arts,Landmarks & Historical Buildings,42.3739128,-71.114502,24 Quincy Street,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+North Cambridge Laundromat & Dry Cleaning,Dry Cleaning & Laundry,42.3974988609552,-71.1304248869419,2410 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6175471337,"",EST,"",Active
+The Democracy Center,Community Service/Non-Profit,42.3712883,-71.1163254,45 Mt Auburn St,Harvard Square,Cambridge,MA,02138,US,6174928855,"",EST,"",Active
+Mike's Monster Guitar,Musical Instruments & Teachers,42.3680219,-71.1083069,896 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175470732,"",EST,"",Active
+Whole Foods Market,Grocery,42.3901007,-71.1418891,200 Alewife Brook Pkwy,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174910040,"",EST,"",Active
+Elevate Health Cambridge,Chiropractors,42.3950479924679,-71.127507314086,2285 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6172996534,"",EST,"",Active
+Jack's Tailoring & Dry Cleaning,Sewing & Alterations,42.3897285461426,-71.119987487793,1937 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178688339,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.357989,-71.092812,"Stratton Student Center, MIT",84 Massachusetts Ave,Cambridge,MA,02138,US,,"",EST,"",Active
+Hanaya Floral,Florists,42.3837170004845,-71.1339097470045,292 Concord Avenue,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175471770,"",EST,"",Active
+Floyd's 99 Barbershop,Barbers,42.3821297,-71.1198807,1672 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174920936,"",EST,"",Active
+Dunkin Donuts Baskin Robbins,Caterers,42.3627396,-71.0832825,1 Broadway,Kendall Square/MIT,Cambridge,MA,02142,US,6178764500,"",EST,"",Active
+"PJ Steyer, Lic. Ac MAOM",Acupuncture,42.3724982103993,-71.0995518345795,186 Hampshire St,3rd Fl,Cambridge,MA,02139,US,7813678060,"",EST,"",Active
+Mid Cambridge Cleaners,Dry Cleaning & Laundry,42.3742637634277,-71.1063690185547,1540A Cambridge St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6179993213,"",EST,"",Active
+V.I.P. Spa & Nail,Nail Salons,42.389389,-71.1197586,1923B Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174919900,"",EST,"",Active
+Cambridge Spirits,"Beer, Wine & Spirits",42.3631063,-71.0827681,9 Broad Canal Way,Kendall Square/MIT,Cambridge,MA,02142,US,6174949000,"",EST,"",Active
+Cambridge Nails and Skin Spa,Skin Care,42.3913002,-71.1236191,2096 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6179451254,"",EST,"",Active
+MIT Media Lab,Colleges & Universities,42.3605608195066,-71.0879051685333,20 Ames St,Kendall Square/MIT,Cambridge,MA,02238,US,6172535960,"",EST,"",Active
+Kendall Square Farmers Market,Farmers Market,42.3628574609756,-71.0821377485991,500 Broad Canal St,Kendall Square/MIT,Cambridge,MA,02142,US,,"",EST,"",Active
+Multicultural Arts Center,Venues & Event Spaces,42.3700223118067,-71.078841984272,41 2nd St,East Cambridge,Cambridge,MA,02141,US,6175771400,"",EST,"",Active
+Custom Barber Shop,Barbers,42.3742289,-71.1215208,49A Brattle St,Harvard Square,Cambridge,MA,02138,US,6178767986,"",EST,"",Active
+Henry Bear's Park,Toy Stores,42.3889093,-71.118657,Porter Square Shopping Center,17 White St,Cambridge,MA,02140,US,6175478424,"",EST,"",Active
+North Cambridge Dental,General Dentistry,42.3959694,-71.1284027,2331 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6178768636,"",EST,"",Active
+"Robert James, LMT, OMT",Massage Therapy,42.37389,-71.123779,22 Hilliard St,1st Fl,Cambridge,MA,02138,US,6783814189,"",EST,"",Active
+Royal Sonesta Hotel,Hotels,42.3665857315063,-71.0756005346775,40 Edwin H Land Blvd,Kendall Square/MIT,Cambridge,MA,02142,US,8007663782,"",EST,"",Active
+Royal Punjab,Indian,42.37116,-71.08013,251 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6174927232,"",EST,"",Active
+Hondar House,Auto Repair,42.3711051940918,-71.100227355957,227 Prospect St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175471950,"",EST,"",Active
+Evergood Super Market,Grocery,42.3823,-71.12003,1674 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6173548331,"",EST,"",Active
+Chipotle Mexican Grill,Mexican,42.3628998,-71.0857391,2 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,8575004031,"",EST,"",Active
+"Dog Willing, LLC",Pet Training,42.395477,-71.128555,2322A Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6174449259,"",EST,"",Active
+Sapporo Ramen,Ramen,42.3650219,-71.1027564,581 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,8572092747,"",EST,"",Active
+Salon Bellissima,Hair Salons,42.3731437325478,-71.1002218723297,202 Hampshire St,Inman Square,Cambridge,MA,02139,US,6178680035,"",EST,"",Active
+Cambridge Street Cleaners,Dry Cleaning & Laundry,42.371467,-71.084693,506 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6175472536,"",EST,"",Active
+Irish Imports Limited Corp,Fashion,42.3843204975128,-71.1193715035915,1737 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6173542511,"",EST,"",Active
+Freshwater Therapeutic Massage,Massage Therapy,42.3696399,-71.11127,1001 Massachusetts Ave,Central Square,Cambridge,MA,02138,US,6174750535,"",EST,"",Active
+Tis Tik,Jewelry,42.3741188,-71.1207352,54 Church St,Harvard Square,Cambridge,MA,02138,US,6176610900,"",EST,"",Active
+Green Street Studios,Performing Arts,42.36374,-71.10235,185 Green St,Central Square,Cambridge,MA,02139,US,6178643191,"",EST,"",Active
+Caffe Sixe,Coffee & Tea,42.362143,-71.097595,6-432 Massachusetts Institute of Technology,Kendall Square/MIT,Cambridge,MA,02139,US,,"",EST,"",Active
+Liquor World,"Beer, Wine & Spirits",42.3888741,-71.1187286,13 White St,"Cambridge, MA 02140",Cambridge,MA,02140,US,6175473110,"",EST,"",Active
+Le Beauty & Nail,Skin Care,42.3715,-71.08431,480 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6178769988,"",EST,"",Active
+Enterprise Rent-A-Car,Car Rental,42.365069,-71.105559,25 River Street,Central Square,Cambridge,MA,02139,US,6175477400,"",EST,"",Active
+Cambridge Bicycle,Bike Rentals,42.3617599,-71.09715,259 Massachusetts Ave,Kendall Square/MIT,Cambridge,MA,02139,US,6178766555,"",EST,"",Active
+Hallie's Flower Garden,Florists,42.3814512044191,-71.1337897181511,248 Huron Ave,Huron Village,Cambridge,MA,02138,US,6173548000,"",EST,"",Active
+Bikram Yoga Boston,Yoga,42.3727836459875,-71.1199032515287,30 JFK St,2nd Fl,Cambridge,MA,02138,US,6175479328,"",EST,"",Active
+Evelyn and Angel's,Chocolatiers & Shops,42.383607,-71.119848,1702 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6175470175,"",EST,"",Active
+Chicago Pizza,Pizza,42.3616699,-71.09714,239 Massachusetts Ave,Kendall Square/MIT,Cambridge,MA,02139,US,6174975555,"",EST,"",Active
+Alexander W. Kemp Playground,Playgrounds,42.3774486780167,-71.1221656948328,8 Waterhouse St,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+Salsa Matei Dance School,Dance Schools,42.3642821,-71.1022109,536 Massachessetts Ave,Central Square,Cambridge,MA,02139,US,6508886326,"",EST,"",Active
+The Farmers Market at Harvard,Farmers Market,42.366281,-71.083117,Corner Of Oxford St,Kendall Square/MIT,Cambridge,MA,02238,US,6174958052,"",EST,"",Active
+Cambridge Family YMCA,Gyms,42.36677,-71.10667,820 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6176619622,"",EST,"",Active
+Supreme Liquors,"Beer, Wine & Spirits",42.3649216,-71.1032333,600 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6176618629,"",EST,"",Active
+La Flamme Barber Shop,Barbers,42.3728905,-71.1191711,21 Dunster St,Harvard Square,Cambridge,MA,02138,US,6173548377,"",EST,"",Active
+Christina Francis Massage Therapy,Massage Therapy,42.3637008666992,-71.1034088134766,44 Pearl St,Central Square,Cambridge,MA,02139,US,6175044770,"",EST,"",Active
+Yayla Tribal Rugs,Carpeting,42.3684387207031,-71.0983047485352,283 Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175763249,"",EST,"",Active
+Punjabi Desi,Indian,42.38641,-71.11919,Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,,"",EST,"",Active
+Griffin Properties,Real Estate Services,42.3945732116699,-71.1267166137695,2267 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6173545888,"",EST,"",Active
+Mix Menu,Chinese,42.36437,-71.1026,Central Square,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+Apple Store,Computers,42.3678630350263,-71.0762761460327,100 Cambridgeside Pl,East Cambridge,Cambridge,MA,02141,US,6175287970,"",EST,"",Active
+Domino's Pizza,Pizza,42.3697186599763,-71.1119652024696,1033 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6174412101,"",EST,"",Active
+Harkness Commons,Cafeteria,42.3716583,-71.1127701,Harvard Law School,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+Heroes,Music Venues,42.3637157678604,-71.1016333848238,TT The Bear's Place,10 Brookline St,Cambridge,MA,02238,US,6174920082,"",EST,"",Active
+Central Barber Shop,Barbers,42.3802628709646,-71.1197257489191,1611 Massachusetts Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6173543596,"",EST,"",Active
+Major Massage,Massage,42.39819,-71.132057,2464 Massachusetts Ave,Ste 240,Cambridge,MA,02140,US,6179421421,"",EST,"",Active
+Cambridge Wine & Spirits,"Beer, Wine & Spirits",42.3900986,-71.1418915,202 Alewife Brook Pkwy,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178647171,"",EST,"",Active
+Bill's Barber Shop,Barbers,42.3716698586941,-71.0831429064274,45 5th St,East Cambridge,Cambridge,MA,02141,US,,"",EST,"",Active
+John's Barber Shop,Barbers,42.3658144,-71.1036064,16 Prospect St,Central Square,Cambridge,MA,02139,US,6174922962,"",EST,"",Active
+Aiyara Thai Cuisine,Thai,42.3721814900637,-71.1217311769724,16 Eliot St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174978288,"",EST,"",Active
+Cambridge Electrical Contractors,Electricians,42.3700920492411,-71.0964775085449,120 Hampshire St,Inman Square,Cambridge,MA,02141,US,6172017757,"",EST,"",Active
+Parrelli Optical,Optometrists,42.3885307,-71.1181335,Porter Square Galleria,1 Porter Sq,Cambridge,MA,02140,US,6178647005,"",EST,"",Active
+Khalsa Chiropractic Office,Chiropractors,42.3838500976562,-71.1201858520508,1718 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174925438,"",EST,"",Active
+The Cell Clinic Repair,Mobile Phone Repair,42.364005446434,-71.1012625694275,485 Massachusetts Ave,Ste 300,Cambridge,MA,02139,US,8572449582,"",EST,"",Active
+Boston Marriott Cambridge,Hotels,42.362941871508,-71.085952544068,50 Broadway,Kendall Square/MIT,Cambridge,MA,02142,US,6174946600,"",EST,"",Active
+Tocco Classico,Hair Salons,42.3811302,-71.1199875,1638 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174975585,"",EST,"",Active
+Dads Auto Detailing Service,Auto Detailing,42.36143,-71.0992799,55 Franklin St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174948398,"",EST,"",Active
+Julie Labanara,Hair Salons,42.3907343,-71.1222421,2034 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174449954,"",EST,"",Active
+Famous Cuts,Barbers,42.3714593052864,-71.083612293005,444 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6173541134,"",EST,"",Active
+Moose and Mimi,Massage,42.3724213,-71.099617,186 Hampshire St,Inman Square,Cambridge,MA,02139,US,6179459256,"",EST,"",Active
+Aroush's Tailor Shop,Sewing & Alterations,42.36752,-71.10746,864 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6173540142,"",EST,"",Active
+Dunkin' Donuts,Coffee & Tea,42.3650055,-71.1033173,616 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6173548944,"",EST,"",Active
+Moving Amazing People,Movers,42.3664474487305,-71.1057357788086,Harvard Square,"Cambridge, MA 02238",Cambridge,MA,02238,US,6176828022,"",EST,"",Active
+Insomnia Cookies,Bakeries,42.3720398,-71.1180267,65 Mount Auburn St,Harvard Square,Cambridge,MA,02138,US,8776326654,"",EST,"",Active
+Ben & Jerry's,Ice Cream & Frozen Yogurt,42.3726501,-71.1197329,36 JFK St,Harvard Square,Cambridge,MA,02138,US,6178642828,"",EST,"",Active
+Magazine Beach Bath House & Pool,Newspapers & Magazines,42.356950369556,-71.1152422428131,Memorial Dr,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+Mary Prentiss Inn,Bed & Breakfast,42.3842620849609,-71.1188812255859,6 Prentiss St,Porter Square,Cambridge,MA,02140,US,6176612929,"",EST,"",Active
+Whole Foods Market,Grocery,42.3680870980024,-71.1019612848759,115 Prospect St,Central Square,Cambridge,MA,02139,US,6174920070,"",EST,"",Active
+Gorgeous Nails Salon,Nail Salons,42.3716721,-71.0834311,435 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6175762888,"",EST,"",Active
+Jacks Gas,Gas & Service Stations,42.4000511,-71.1334305,2535 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6175479489,"",EST,"",Active
+Forbes Family Cafe,Sandwiches,42.3618105416161,-71.0900782334523,32 Vassar St,MIT Bldg 32,Cambridge,MA,02142,US,6172535073,"",EST,"",Active
+Tayrona,Jewelry,42.3712387084961,-71.1146392822266,1156 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6176614267,"",EST,"",Active
+Harvard Semitic Museum,Museums,42.3780403,-71.1140976,6 Divinity Ave,Harvard Square,Cambridge,MA,02138,US,6174954631,"",EST,"",Active
+Nomad,Jewelry,42.3845672607422,-71.1191329956055,1741 Massachusetts Ave,Porter Square,Cambridge,MA,02138,US,6174976677,"",EST,"",Active
+MIT Sailing Pavilion,Boating,42.358619,-71.087712,134 Memorial Dr,Kendall Square/MIT,Cambridge,MA,02142,US,6172534884,"",EST,"",Active
+Urban Outfitters,Men's Clothing,42.3731191,-71.1199038,11 JF Kennedy St,Harvard Square,Cambridge,MA,02138,US,6178640070,"",EST,"",Active
+Fresh Pond Market,Grocery,42.3810157775879,-71.1385269165039,358 Huron Ave,Huron Village,Cambridge,MA,02138,US,6178763916,"",EST,"",Active
+Boston Dog Company,Dog Walkers,42.3717804,-71.0855901,555 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6178583647,"",EST,"",Active
+Jeana's Dirty Dog Salon,Pet Groomers,42.3837509,-71.1344528,298 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178685377,"",EST,"",Active
+Circle Furniture,Furniture Stores,42.3902893,-71.1421432,199 Alewife Brook Pkwy,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178763988,"",EST,"",Active
+Stefani House of Pizza,Pizza,42.3634414672852,-71.0968551635742,783 Main St,Kendall Square/MIT,Cambridge,MA,02139,US,6174917823,"",EST,"",Active
+General Optical Co,Optometrists,42.3905907,-71.1222534,2038 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178640204,"",EST,"",Active
+Alvarez Dental Group,General Dentistry,42.37162,-71.08277,403 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6174410088,"",EST,"",Active
+Four Seasons,Nail Salons,42.3903198,-71.1213226,2000 Mass Ave,Porter Square,Cambridge,MA,02140,US,6173542955,"",EST,"",Active
+C'est Bon Convenience,Convenience Stores,42.3741824179888,-71.1189034581184,1432 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6176610610,"",EST,"",Active
+Clinton Blackburn Photography,Photographers,42.3698807,-71.0875015,71 Fulkerson St,East Cambridge,Cambridge,MA,02141,US,2148082372,"",EST,"",Active
+Poppy Floral,Florists,42.3933303,-71.1517417,67 Smith Pl,Unit 12,Cambridge,MA,02138,US,6179557144,"",EST,"",Active
+Bon Me,Food Trucks,42.3762332514846,-71.1179951950908,49 Sacramento St,Apt 1a,Cambridge,MA,02138,US,,"",EST,"",Active
+John & Nicks Texaco Service,Auto Repair,42.36926,-71.11038,975 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6176611852,"",EST,"",Active
+Cellar Wine & Spirits,"Beer, Wine & Spirits",42.3694687,-71.1109238,991 Massachusetts Ave,Central Square,Cambridge,MA,02138,US,6175473111,"",EST,"",Active
+Denise Patnod Acupuncture Clinic,Acupuncture,42.3738861083984,-71.123779296875,22 Hilliard St,Suite 105,Cambridge,MA,02138,US,6178206864,"",EST,"",Active
+D'Angelo,Sandwiches,42.3686290319,-71.0762928894,100 Cambridgeside Pl,9th Fl,Cambridge,MA,02141,US,6172250707,"",EST,"",Active
+Cheapo Records,Vinyl Records,42.36418,-71.10233,538 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6173544455,"",EST,"",Active
+PetSmart,Pet Stores,42.3901482,-71.1418533,160 Alewife Brook Pkwy,"Cambridge, MA 02138",Cambridge,MA,02138,US,6173493481,"",EST,"",Active
+Shinkansen,Japanese,42.3588791,-71.0946198,MIT Student Center,84 Massachusetts Ave,Cambridge,MA,02139,US,,"",EST,"",Active
+Greenhouse Cafe,American (New),42.3764012753963,-71.115799471736,1 Oxford St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174964790,"",EST,"",Active
+Parise Cleaners,Dry Cleaning & Laundry,42.37256,-71.08797,14 Warren St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6175479070,"",EST,"",Active
+Alegria Dental Group,General Dentistry,42.3728714,-71.0949707,1058 Cambridge St,Inman Square,Cambridge,MA,02139,US,6178682545,"",EST,"",Active
+Dr Dental,Dentists,42.3659733,-71.1049717,714 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178689400,"",EST,"",Active
+Classic Graphx,Printing Services,42.365584,-71.104528,678 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178684140,"",EST,"",Active
+Dunkin' Donuts,Donuts,42.360977058815,-71.115512606207,800 Memorial Dr,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+Carlina Nabatoff  - Abundant Real Estate Team,Real Estate Agents,42.3691003,-71.1097723,955 Mass Ave,Ste 100,Cambridge,MA,02139,US,6179920978,"",EST,"",Active
+Extreme Dancesport,Dance Clubs,42.3876994103193,-71.1408117413521,26 New St,Ste 3,Cambridge,MA,02138,US,6174922122,"",EST,"",Active
+Reside,Home Decor,42.393566716497,-71.169151993006,266 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175472929,"",EST,"",Active
+Abi Harper Massage Therapist,Massage,42.3700905,-71.102272,335 Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,6177976995,"",EST,"",Active
+Harvard Art Museums,Museums,42.3747369647026,-71.1144308745861,32 Quincy St,Harvard Square,Cambridge,MA,02138,US,6174959400,"",EST,"",Active
+Joie De Vivre,Toy Stores,42.3860178560182,-71.1195512418066,1792 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178648188,"",EST,"",Active
+The Goodwill Store,"Used, Vintage & Consignment",42.36416,-71.10194,520 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6178686330,"",EST,"",Active
+Frozen Yogi,Ice Cream & Frozen Yogurt,42.364109,-71.1074982,80 River St,Central Square,Cambridge,MA,02139,US,6174976144,"",EST,"",Active
+Boston Body Balance,Rolfing,42.4002611648073,-71.1339698845581,2557 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6173087104,"",EST,"",Active
+McDonald's,Fast Food,42.373762998249,-71.082862116117,264 Monsignor Obrien Hwy,"Cambridge, MA 02238",Cambridge,MA,02238,US,,"",EST,"",Active
+Workbar,Shared Office Spaces,42.3662263154984,-71.103327870369,45 Prospect St,Central Square,Cambridge,MA,02139,US,6178614940,"",EST,"",Active
+Harvard Vanguard Medical Associates,Medical Centers,42.3747966438532,-71.1086165159941,1611 Cambridge St,Harvard Square,Cambridge,MA,02138,US,6176615500,"",EST,"",Active
+Parsnip Restaurant & Lounge,American (New),42.3725045,-71.1209747,91 Winthrop St,Harvard Square,Cambridge,MA,02138,US,6177143206,"",EST,"",Active
+BodyScapes Fitness,Gyms,42.3636745,-71.0835575,356 3rd St,Kendall Square/MIT,Cambridge,MA,02142,US,6172520020,"",EST,"",Active
+Dunkin' Donuts,Coffee & Tea,42.389294414786,-71.119613427113,1 White St,Porter Square,Cambridge,MA,02140,US,6173548336,"",EST,"",Active
+Todd Denman,Real Estate Agents,42.368484,-71.108441,955 Massachusetts Ave Ste 101,Central Square,Cambridge,MA,02139,US,6176977462,"",EST,"",Active
+CorePower Yoga,Yoga,42.3909287098343,-71.1392976343632,200 Alewife Brook Pkwy,"Cambridge, MA 02138",Cambridge,MA,02138,US,6179452754,"",EST,"",Active
+CHA Cambridge Birth Center,Hospitals,42.37442,-71.10444,1493 Cambridge St.,"Cambridge, MA 02139",Cambridge,MA,02139,US,6176652229,"",EST,"",Active
+Dunkin' Donuts,Coffee & Tea,42.39535075701821,-71.1484050750732,5 Cambridgepark Dr,North Cambridge,Cambridge,MA,02140,US,6174916400,"",EST,"",Active
+WholeTone Academy,Musical Instruments & Teachers,42.3796584933535,-71.1260510526123,33 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,8159805484,"",EST,"",Active
+Royal Cleaners & Photo Gifts,Dry Cleaning & Laundry,42.370620444417,-71.1135618388653,1105 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,8572596242,"",EST,"",Active
+Islamic Society of Boston,Mosques,42.37021,-71.09993,204 Prospect St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6178763546,"",EST,"",Active
+Sola Cafe and Catering,Caterers,42.362469,-71.099648,On Sidney St,350 Massachusetts Ave,Cambridge,MA,02139,US,6175767652,"",EST,"",Active
+New Asia,Chinese,42.370717,-71.1135232,1105 Mass Ave,Harvard Square,Cambridge,MA,02138,US,6174911167,"",EST,"",Active
+Advance Tire,Tires,42.3656710982323,-71.0916629433632,185 Broadway,Kendall Square/MIT,Cambridge,MA,02139,US,6178648989,"",EST,"",Active
+Leader Bank,Banks & Credit Unions,42.366217,-71.103814,675 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174972500,"",EST,"",Active
+Magic Beans,Toy Stores,42.3813591,-71.1386566,361 Huron Ave,Huron Village,Cambridge,MA,02138,US,6173000171,"",EST,"",Active
+Jim's Clean Up,Junk Removal & Hauling,42.3667471,-71.1089441,411 Franklin St,Central Square,Cambridge,MA,02139,US,6178687066,"",EST,"",Active
+Harvard University Health Services,Colleges & Universities,42.3729705810547,-71.1180725097656,Holyoke Center,Harvard Square,Cambridge,MA,02138,US,6174955711,"",EST,"",Active
+St Constantine & Helen Greek Orthodox Church,Religious Organizations,42.3642196655273,-71.1051025390625,14 Magazine St,Central Square,Cambridge,MA,02139,US,6178763601,"",EST,"",Active
+Elite Barber Shop,Barbers,42.3968811,-71.1298981,2384 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6174971287,"",EST,"",Active
+Quadrupeds,Dog Walkers,42.36437,-71.1026,Central Square,"Cambridge, MA 02139",Cambridge,MA,02139,US,7818010442,"",EST,"",Active
+Cambridge Cleans,Home Cleaning,42.3647559,-71.1032591,Central Square,"Cambridge, MA 02139",Cambridge,MA,02139,US,6177022992,"",EST,"",Active
+Sheraton Commander Hotel,Hotels,42.37719,-71.12326,16 Garden Street,Harvard Square,Cambridge,MA,02138,US,6175474800,"",EST,"",Active
+Ambit Creative Group / Minuteman Press of Cambridge,Printing Services,42.3628883,-71.0874786,5 Cambridge Center,Kendall Square/MIT,Cambridge,MA,02142,US,6178763688,"",EST,"",Active
+Gino Salon,Hair Salons,42.37228,-71.1182199,20 Holyoke St,Harvard Square,Cambridge,MA,02138,US,6178766186,"",EST,"",Active
+Beijing & Toyko,Sushi Bars,42.3628197,-71.0857697,3 Cambridge Ctr,Kendall Square/MIT,Cambridge,MA,02142,US,6172520788,"",EST,"",Active
+Boston Costume,Costumes,42.3658294677734,-71.093017578125,200 Broadway,Kendall Square/MIT,Cambridge,MA,02139,US,6174821632,"",EST,"",Active
+In Your Ear Records,Music & DVDs,42.3716926574707,-71.1183776855469,72 Mount Auburn St,Harvard Square,Cambridge,MA,02138,US,6174915035,"",EST,"",Active
+China Fair,Kitchen & Bath,42.3914604,-71.123909,2100 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178643050,"",EST,"",Active
+"Hyatt Regency Cambridge, Overlooking Boston",Hotels,42.35423,-71.10532,575 Memorial Dr,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174921234,"",EST,"",Active
+Clement G Morgan Park,Parks,42.3648225787449,-71.0986125469208,60 Columbia St,Central Square,Cambridge,MA,02139,US,,"",EST,"",Active
+Simple Truth Lounge,Lounges,42.3716302961111,-71.1132292449474,1 Remington St,Harvard Square,Cambridge,MA,02138,US,6175205000,"",EST,"",Active
+Harmonix Music Systems,Arts & Entertainment,42.3653908,-71.1033936,625 Massachusetts Ave,2nd Fl,Cambridge,MA,02139,US,6170000000,"",EST,"",Active
+Massachusetts Institute of Technology,Colleges & Universities,42.3590576332501,-71.0947636257542,77 Massachusetts Ave,Kendall Square/MIT,Cambridge,MA,02139,US,6172531000,"",EST,"",Active
+Mike's Pastry,Desserts,42.37299,-71.11899,11 Dunster St,Harvard Square,Cambridge,MA,02138,US,6177423050,"",EST,"",Active
+David Shorey,Real Estate Agents,42.368484,-71.108444,RE/MAX Destiny,907 Massachusetts Ave,Cambridge,MA,02139,US,7819624028,"",EST,"",Active
+Hair Co,Hair Salons,42.3943596,-71.1265717,2255 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6178687848,"",EST,"",Active
+Dunkin' Donuts,Coffee & Tea,42.3696404,-71.1112671,1001 Massachussetts Ave,Central Square,Cambridge,MA,02138,US,6177143827,"",EST,"",Active
+Sarku Japan Sushi Bar,Sushi Bars,42.367916,-71.075714,100 Cambridgeside Pl,Lower Food Court,Cambridge,MA,02141,US,6175777658,"",EST,"",Active
+Sweet,Cupcakes,42.3733199693552,-71.1195981502533,Harvard Square,Zero Brattle St,Cambridge,MA,02138,US,6175472253,"",EST,"",Active
+The Salon @ Huron Village,Hair Salons,42.3810692,-71.1385574,366 Huron Ave,Huron Village,Cambridge,MA,02138,US,6173541311,"",EST,"",Active
+Winthrop Park,Parks,42.372463941028506,-71.1204993724823,JFK St and Mt. Auburn St,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+O'Connell Branch Library,Libraries,42.3704863339663,-71.0850057005882,48 6th St,East Cambridge,Cambridge,MA,02141,US,6173494019,"",EST,"",Active
+The Drain Guy,Contractors,42.3703321069479,-71.0908073186874,82 Berkshire St,"Cambridge, MA 02141",Cambridge,MA,02141,US,6175911199,"",EST,"",Active
+Atlantis Sports Club and Spa,Sports Clubs,42.353898,-71.105396,575 Memorial Dr,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174416501,"",EST,"",Active
+Hubba Hubba,Leather Goods,42.364795536062,-71.1033020153442,2 Ellery St,Central Square,Cambridge,MA,02138,US,6174929082,"",EST,"",Active
+Dunkin' Donuts,Coffee & Tea,42.3988728225231,-71.1321026086807,2480 Massachusetts Ave,North Cambridge,Cambridge,MA,02140,US,6174911400,"",EST,"",Active
+Liquiteria,Juice Bars & Smoothies,42.3743473738432,-71.1188786476851,1440 Massachusetts Ave,Harvard Square,Cambridge,MA,02138,US,6175889955,"",EST,"",Active
+Moves & Vibes Dance Co,Performing Arts,42.3716879636049,-71.0830161720514,44 Fifth St,East Cambridge,Cambridge,MA,02141,US,6178215884,"",EST,"",Active
+John F Kennedy Park,Parks,42.370472,-71.1234741,970 Memorial Dr,Allston/Brighton,Cambridge,MA,02138,US,,"",EST,"",Active
+Hayden Library - Science + Humanities,Colleges & Universities,42.359020856867005,-71.089133620768,"MIT, Bldg 14S-134",77 Massachusetts Ave,Cambridge,MA,02139,US,6172535671,"",EST,"",Active
+Riverside Boat Club,Boating,42.358065013253,-71.1159003151621,769 Memorial Dr,"Cambridge, MA 02139",Cambridge,MA,02139,US,6174921869,"",EST,"",Active
+Courthouse Fish Market,Seafood Markets,42.371422,-71.084419,484 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6178766716,"",EST,"",Active
+Wheeler Park,Parks,42.364796,-71.115532,880 Memorial Dr,"Cambridge, MA 02138",Cambridge,MA,02138,US,6173494800,"",EST,"",Active
+Dunkin' Donuts,Coffee & Tea,42.3664643615484,-71.0939025878906,222 Broadway,Kendall Square/MIT,Cambridge,MA,02139,US,6178680259,"",EST,"",Active
+"RB Painting Company, LLC",Contractors,42.3836874961853,-71.1343502998352,379 Walden St,Ste 3,Cambridge,MA,02138,US,6179020455,"",EST,"",Active
+Star Nails,Nail Salons,42.374939,-71.1496811,705 Mount Auburn St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174977827,"",EST,"",Active
+City Sports,Outdoor Gear,42.387048264048,-71.11892028609,1815 Massachusetts Avenue,Porter Square,Cambridge,MA,02139,US,6176611666,"",EST,"",Active
+Marimekko Cambridge,Women's Clothing,42.3810964806041,-71.1381552741822,350 Huron Ave,Huron Village,Cambridge,MA,02138,US,6173542800,"",EST,"",Active
+Ralph J Galante Insurance Agency,Insurance,42.3897018,-71.1200485,1939 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6178645586,"",EST,"",Active
+Samos Auto Electric Serv,Auto Repair,42.3610305786133,-71.1049575805664,9 Decatur St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175474024,"",EST,"",Active
+Marty B's Mobile Meals,Food Stands,42.3733562976122,-71.1113778501749,452 Broadway,Harvard Square,Cambridge,MA,02138,US,6178396984,"",EST,"",Active
+"Seymour Andrus, DDS",General Dentistry,42.3674,-71.10783,872 Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6174910943,"",EST,"",Active
+Café Parles,Coffee & Tea,42.3758078366518,-71.1142048984766,48 Quincy St,2nd Fl,Cambridge,MA,02138,US,,"",EST,"",Active
+New England Comics,Comic Books,42.3721809,-71.1215591,14A Eliot St,Harvard Square,Cambridge,MA,02138,US,6173545352,"",EST,"",Active
+Hi Tech Auto Body,Body Shops,42.3881902545691,-71.1406883597374,51 New St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6178769545,"",EST,"",Active
+Point Plus,Real Estate Agents,42.3744036,-71.1201758,33 Church Street,Harvard Square,Cambridge,MA,02138,US,6174974100,"",EST,"",Active
+Airport Taxi Cab Service,Taxis,42.394027,-71.1399085,403 Rindge Ave,North Cambridge,Cambridge,MA,02140,US,6172017886,"",EST,"",Active
+Chicken Now,Fast Food,42.367916,-71.075714,100 CambridgeSide Pl,East Cambridge,Cambridge,MA,02141,US,,"",EST,"",Active
+MexiCali Burrito Cabana,Mexican,42.3636051232925,-71.0819593200628,Kendall Square,350 E Kendall St,Cambridge,MA,02139,US,6172252777,"",EST,"",Active
+Micro Center,Computers,42.35738,-71.11449,730 Memorial Dr,"Cambridge, MA 02139",Cambridge,MA,02139,US,6172346400,"",EST,"",Active
+Michael Brook Photography,Photographers,42.3827,-71.1143,55 Sacramento St,Ste 5,Cambridge,MA,02138,US,8572721385,"",EST,"",Active
+The Midwives at Mt Auburn Hospital,Hospitals,42.3742409,-71.1343231,330 Mount Auburn St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174995130,"",EST,"",Active
+Metric Systems,Auto Repair,42.3677787780762,-71.0979690551758,284 Broadway,"Cambridge, MA 02139",Cambridge,MA,02139,US,6176610442,"",EST,"",Active
+MIT Recreational Sports & Fitness,Gyms,42.358815,-71.096199,120 Vassar St,Bldg W35 & Bldg 57,Cambridge,MA,02139,US,6174523690,"",EST,"",Active
+5th Street Laundromat,Dry Cleaning & Laundry,42.3712196,-71.0830917,58 5th Street,East Cambridge,Cambridge,MA,02141,US,6174976900,"",EST,"",Active
+University Wine Shop,"Beer, Wine & Spirits",42.3845427390944,-71.1191893821764,1739 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6175474258,"",EST,"",Active
+Skyline Realty,Real Estate Agents,42.36459,-71.10465,10-C Magazine St,Central Square,Cambridge,MA,02139,US,6175478700,"",EST,"",Active
+Jardin De Sparquette,Parks,42.3796501,-71.1204681,1600 Massachusetts Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,,"",EST,"",Active
+Saté Grill-on-Wheels,Cafes,42.3696785,-71.0778809,The Davenport Building,25 1st St,Cambridge,MA,02141,US,6176156264,"",EST,"",Active
+Magazine Beach,Parks,42.3565871,-71.1143301,719 Memorial Dr,"Cambridge, MA 02238",Cambridge,MA,02238,US,6173549381,"",EST,"",Active
+Daniel R Spirer Jewelers,Jewelry,42.3859634399414,-71.1197128295898,1780 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6172344392,"",EST,"",Active
+Robert Goguen Photography,Photographers,42.3664588928223,-71.1004409790039,Suffolk St,Central Square,Cambridge,MA,02139,US,6174017744,"",EST,"",Active
+Sunny Nails,Nail Salons,42.3673675,-71.1072163,846A Massachusetts Ave,Central Square,Cambridge,MA,02139,US,6175763955,"",EST,"",Active
+Anime Zakka,Home Decor,42.3727417,-71.119873,The Garage Mall,"36 JFK St, 2nd Fl",Cambridge,MA,02138,US,6179452743,"",EST,"",Active
+Hair Cuttery,Hair Salons,42.3728058875128,-71.1213577242065,Harvard Square,1 Eliot Sq,Cambridge,MA,02138,US,6175763920,"",EST,"",Active
+Golden Touch Cleaners,Dry Cleaning & Laundry,42.3693323135376,-71.1110559850931,987 Massachusetts Ave,Central Square,Cambridge,MA,02138,US,6175766840,"",EST,"",Active
+Fulmore Park,Parks,42.357224,-71.106415,223 Sidney St,"Cambridge, MA 02139",Cambridge,MA,02139,US,,"",EST,"",Active
+Cambridgeside Galleria Parking Garage,Parking,42.3678512573242,-71.0757369995117,100 Cambridgeside Pl,East Cambridge,Cambridge,MA,02141,US,6176218666,"",EST,"",Active
+Hagop's Art Studio,Framing,42.3750591,-71.1515438,33 Belmont St,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174927379,"",EST,"",Active
+Fresh Pond Ballet,Dance Schools,42.3860364407301,-71.1193031072617,1798 Massachusetts Ave,Porter Square,Cambridge,MA,02140,US,6174915865,"",EST,"",Active
+Children's Garden Pediatrics,Pediatricians,42.3911896,-71.1553421,799 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6174419276,"",EST,"",Active
+Caroline Cook Photography,Photographers,42.3803274,-71.1389101,Huron Village,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175996063,"",EST,"",Active
+Cambridge Art & Frame,Art Galleries,42.3677708,-71.0778684,101 1st St,East Cambridge,Cambridge,MA,02141,US,6175475944,"",EST,"",Active
+The Garage,Shopping Centers,42.37274,-71.11987,36 JFK St,Harvard Square,Cambridge,MA,02138,US,,"",EST,"",Active
+Holiday Inn Express Hotel & Suites Boston,Hotels,42.37314,-71.08157,250 Monsignor O'Brien Hwy,"Cambridge, MA 02141",Cambridge,MA,02141,US,6175777600,"",EST,"",Active
+Joyce Porter Barringer,Musical Instruments & Teachers,42.3886909484863,-71.1192932128906,Porter Square,Porter Square,Cambridge,MA,02140,US,,"",EST,"",Active
+CHA Cambridge Hospital Campus,Hospitals,42.37442,-71.10444,1493 Cambridge St,"Cambridge, MA 02139",Cambridge,MA,02139,US,6176651000,"",EST,"",Active
+Cafe Spice,Indian,42.3588791,-71.0946198,Lobdell Food Court,"84 Massachusetts Ave, 2nd Fl",Cambridge,MA,02139,US,6172589297,"",EST,"",Active
+MK the Hair Studio,Hair Salons,42.3665695,-71.0901871,1 Kendall Sq,Bldg 300,Cambridge,MA,02139,US,6175779222,"",EST,"",Active
+Burger King,Fast Food,42.3901013284922,-71.1503255367279,679 Concord Ave,"Cambridge, MA 02138",Cambridge,MA,02138,US,6173542375,"",EST,"",Active
+Cambridgeside Galleria,Shopping Centers,42.36785,-71.07574,100 Cambridgeside Pl,Unit 315,Cambridge,MA,02141,US,6172252037,"",EST,"",Active
+Nolan Watts Muscular Therapy,Massage Therapy,42.383459508419,-71.1333572119474,268 Concord Ave,"Cambridge, MA 02139",Cambridge,MA,02139,US,6175123720,"",EST,"",Active
+Bosworth's,Coffee & Tea,42.359575,-71.093177,77 Massachusetts Ave,Ste 7,Cambridge,MA,02139,US,,"",EST,"",Active
+Honor System Books,Local Flavor,42.373649597168,-71.1191177368164,Intersection of Brattle and Farwell Streets,Harvard Square,Cambridge,MA,02138,US,6174355970,"",EST,"",Active
+Cambridge Savings Bank,Banks & Credit Unions,42.3736211657524,-71.1003486067057,1378 Cambridge St,Inman Square,Cambridge,MA,02138,US,6178648700,"",EST,"",Active
+Valvoline Instant Oil Change,Oil Change Stations,42.3990261,-71.131977,2485 Mass Ave,North Cambridge,Cambridge,MA,02140,US,6174910776,"",EST,"",Active
+The UPS Store,Shipping Centers,42.38549,-71.119295,1770 Mass Ave,Porter Square,Cambridge,MA,02140,US,6176617171,"",EST,"",Active
+MBTA Bus Route 77,Public Transportation,42.37957,-71.1199799,Massachusetts Ave,Harvard Square to Arlington Heights,Cambridge,MA,02138,US,,"",EST,"",Active
+Arthur Murray Dance Center of Cambridge,Dance Schools,42.3932272,-71.1407627,151 Alewife Brook Pkwy,North Cambridge,Cambridge,MA,02140,US,6173540808,"",EST,"",Active
+Harvard Square Hotel,Hotels,42.3728529750936,-71.1218381942209,110 Mt. Auburn St,Harvard Square,Cambridge,MA,02138,US,6178645200,"",EST,"",Active
+Didriks,Furniture Stores,42.3821723,-71.1309457,Observatory Hill,190 Concord Ave,Cambridge,MA,02138,US,6173545700,"",EST,"",Active
+Harvard Square Shiatsu,Massage Therapy,42.3709496855736,-71.1142873764038,12 Arrow St,Ste 108,Cambridge,MA,02138,US,6174413377,"",EST,"",Active
+Cambridgeside Galleria,Food Court,42.3681484,-71.0761474,100 Cambridgeside Pl,East Cambridge,Cambridge,MA,02141,US,6176218666,"",EST,"",Active
+Harvard Lampoon,Local Flavor,42.3714104,-71.1167831,44 Bow St,Harvard Square,Cambridge,MA,02138,US,6174957801,"",EST,"",Active
+Super Nails,Nail Salons,42.3714070022106,-71.0824824124575,389 Cambridge St,East Cambridge,Cambridge,MA,02141,US,6174418851,"",EST,"",Active
+Harvard Square Hot Dogs,Hot Dogs,42.373714,-71.119659,Harvard Square T-Stop,1400 Massachusetts Ave,Cambridge,MA,02138,US,,"",EST,"",Active
+Dana Dental Associates,General Dentistry,42.3645897,-71.1046524,10 Magazine St,Ste D,Cambridge,MA,02139,US,6178768734,"",EST,"",Active
+Met Boston Limo,Limos,42.3903564,-71.1407503,186 Alewife Brook Pkwy,Ste 304,Cambridge,MA,02138,US,6174910005,"",EST,"",Active
+Beyond Fitness Pilates Studio,Gyms,42.3906780034304,-71.1508163809776,29 Smith Pl,"Cambridge, MA 02138",Cambridge,MA,02138,US,6175760066,"",EST,"",Active
